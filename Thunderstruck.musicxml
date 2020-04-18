@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-10</encoding-date>
+      <encoding-date>2020-04-18</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -19,81 +19,81 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="Pe019f563be0d8232645ef3a433303b9e">
+    <score-part id="P1">
       <part-name>Trompette</part-name>
       <part-abbreviation>Trompette</part-abbreviation>
-      <score-instrument id="Id1ca272ba8e93bbfa1cbe8c81a57b363">
+      <score-instrument id="I2">
         <instrument-name>Trumpet</instrument-name>
         <instrument-abbreviation>Tpt</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="Id1ca272ba8e93bbfa1cbe8c81a57b363">
+      <midi-instrument id="I2">
         <midi-channel>1</midi-channel>
         <midi-program>57</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="Pd575ed447b3b5de2737f92defc13b681">
+    <score-part id="P3">
       <part-name>Sax sib</part-name>
       <part-abbreviation>Sax sib</part-abbreviation>
-      <score-instrument id="If194fe7bc69f8bcf7e83569bfbf052b7">
+      <score-instrument id="I4">
         <instrument-name>Tenor Saxophone</instrument-name>
         <instrument-abbreviation>T Sax</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="If194fe7bc69f8bcf7e83569bfbf052b7">
+      <midi-instrument id="I4">
         <midi-channel>1</midi-channel>
         <midi-program>67</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P66dd9d99ac3ffedeb6154988c92aefeb">
+    <score-part id="P5">
       <part-name>Trombone</part-name>
       <part-abbreviation>Trombone</part-abbreviation>
-      <score-instrument id="Ib5cc0510342ccbc2a58c157c7036e6ee">
+      <score-instrument id="I6">
         <instrument-name>Trombone</instrument-name>
         <instrument-abbreviation>Trb</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="Ib5cc0510342ccbc2a58c157c7036e6ee">
+      <midi-instrument id="I6">
         <midi-channel>1</midi-channel>
         <midi-program>58</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="Peb83c950b28580674de1b61bfadac09e">
+    <score-part id="P7">
       <part-name>Basse</part-name>
       <part-abbreviation>Basse</part-abbreviation>
-      <score-instrument id="Ia45ad50422a93480a6d83893ad8c720a">
+      <score-instrument id="I8">
         <instrument-name>Horn</instrument-name>
         <instrument-abbreviation>Hn</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="Ia45ad50422a93480a6d83893ad8c720a">
+      <midi-instrument id="I8">
         <midi-channel>1</midi-channel>
         <midi-program>61</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="Pa96ffea0a0d4bf0e3089c4998c48688d">
+    <score-part id="P9">
       <part-name>Souba</part-name>
       <part-abbreviation>Souba</part-abbreviation>
-      <score-instrument id="I8e041679c1f33fbbf58390c0b2cefcee">
+      <score-instrument id="I10">
         <instrument-name>Tuba</instrument-name>
         <instrument-abbreviation>Tba</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I8e041679c1f33fbbf58390c0b2cefcee">
+      <midi-instrument id="I10">
         <midi-channel>1</midi-channel>
         <midi-program>59</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P55f968a7735897fe65e548e83967129e">
+    <score-part id="P11">
       <part-name>Sax mib</part-name>
       <part-abbreviation>Sax mib</part-abbreviation>
-      <score-instrument id="Ib6aa1aa49d565ff1e3a3cd58ef0a170a">
+      <score-instrument id="I12">
         <instrument-name>Saxophone</instrument-name>
         <instrument-abbreviation>Sax</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="Ib6aa1aa49d565ff1e3a3cd58ef0a170a">
+      <midi-instrument id="I12">
         <midi-channel>1</midi-channel>
         <midi-program>66</midi-program>
       </midi-instrument>
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="Pe019f563be0d8232645ef3a433303b9e">
+  <part id="P1">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -2576,9 +2576,6 @@
         <duration>20160</duration>
         <type>half</type>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
@@ -3653,6 +3650,7 @@
         <beam number="1">end</beam>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -3680,9 +3678,6 @@
         <duration>20160</duration>
         <type>half</type>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 84 =========================-->
     <measure number="84">
@@ -4407,10 +4402,14 @@
           <octave>5</octave>
         </pitch>
         <duration>2520</duration>
+        <tie type="start" />
         <type>16th</type>
         <accidental>flat</accidental>
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -4419,7 +4418,11 @@
           <octave>5</octave>
         </pitch>
         <duration>2520</duration>
+        <tie type="start" />
         <type>16th</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -4428,9 +4431,12 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="stop" />
         <type>eighth</type>
-        <accidental>flat</accidental>
         <beam number="1">begin</beam>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -4439,7 +4445,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="stop" />
         <type>eighth</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -4743,10 +4753,14 @@
           <octave>5</octave>
         </pitch>
         <duration>2520</duration>
+        <tie type="start" />
         <type>16th</type>
         <accidental>flat</accidental>
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -4755,7 +4769,11 @@
           <octave>5</octave>
         </pitch>
         <duration>2520</duration>
+        <tie type="start" />
         <type>16th</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -4764,9 +4782,12 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="stop" />
         <type>eighth</type>
-        <accidental>flat</accidental>
         <beam number="1">begin</beam>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -4775,7 +4796,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="stop" />
         <type>eighth</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -4808,10 +4833,13 @@
         <duration>40320</duration>
         <type>whole</type>
       </note>
+      <barline location="right">
+        <ending number="2" type="stop" />
+      </barline>
     </measure>
   </part>
   <!--=========================== Part 2 ===========================-->
-  <part id="Pd575ed447b3b5de2737f92defc13b681">
+  <part id="P3">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -7551,9 +7579,6 @@
         <type>eighth</type>
         <beam number="1">end</beam>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
@@ -8599,6 +8624,7 @@
         <beam number="1">end</beam>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -8690,9 +8716,6 @@
         <type>eighth</type>
         <beam number="1">end</beam>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 84 =========================-->
     <measure number="84">
@@ -9666,10 +9689,13 @@
         <duration>40320</duration>
         <type>whole</type>
       </note>
+      <barline location="right">
+        <ending number="2" type="stop" />
+      </barline>
     </measure>
   </part>
   <!--=========================== Part 3 ===========================-->
-  <part id="P66dd9d99ac3ffedeb6154988c92aefeb">
+  <part id="P5">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -12513,9 +12539,6 @@
         <duration>20160</duration>
         <type>half</type>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
@@ -13804,8 +13827,12 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
         <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -13814,7 +13841,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 81 =========================-->
@@ -13825,7 +13856,11 @@
           <octave>4</octave>
         </pitch>
         <duration>40320</duration>
+        <tie type="stop" />
         <type>whole</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -13834,7 +13869,11 @@
           <octave>5</octave>
         </pitch>
         <duration>40320</duration>
+        <tie type="stop" />
         <type>whole</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 82 =========================-->
@@ -13844,6 +13883,7 @@
         <duration>40320</duration>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -13917,9 +13957,6 @@
           <tied type="start" />
         </notations>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 84 =========================-->
     <measure number="84">
@@ -14619,10 +14656,13 @@
         <duration>40320</duration>
         <type>whole</type>
       </note>
+      <barline location="right">
+        <ending number="2" type="stop" />
+      </barline>
     </measure>
   </part>
   <!--=========================== Part 4 ===========================-->
-  <part id="Peb83c950b28580674de1b61bfadac09e">
+  <part id="P7">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -17467,7 +17507,11 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -17476,7 +17520,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -17484,7 +17532,11 @@
           <octave>4</octave>
         </pitch>
         <duration>10080</duration>
+        <tie type="stop" />
         <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -17493,7 +17545,11 @@
           <octave>5</octave>
         </pitch>
         <duration>10080</duration>
+        <tie type="stop" />
         <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -17563,7 +17619,11 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -17572,7 +17632,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -17580,7 +17644,11 @@
           <octave>4</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -17589,7 +17657,11 @@
           <octave>5</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 51 =========================-->
@@ -17619,7 +17691,11 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -17628,7 +17704,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -17636,7 +17716,11 @@
           <octave>4</octave>
         </pitch>
         <duration>10080</duration>
+        <tie type="stop" />
         <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -17645,7 +17729,11 @@
           <octave>5</octave>
         </pitch>
         <duration>10080</duration>
+        <tie type="stop" />
         <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -17715,7 +17803,11 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -17724,7 +17816,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -17732,7 +17828,11 @@
           <octave>4</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -17741,7 +17841,11 @@
           <octave>5</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 53 =========================-->
@@ -17771,7 +17875,11 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -17780,7 +17888,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -17788,7 +17900,11 @@
           <octave>4</octave>
         </pitch>
         <duration>10080</duration>
+        <tie type="stop" />
         <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -17797,7 +17913,11 @@
           <octave>5</octave>
         </pitch>
         <duration>10080</duration>
+        <tie type="stop" />
         <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -17867,7 +17987,11 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -17876,7 +18000,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -17884,7 +18012,11 @@
           <octave>4</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -17893,7 +18025,11 @@
           <octave>5</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 55 =========================-->
@@ -17923,7 +18059,11 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -17932,7 +18072,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -17940,7 +18084,11 @@
           <octave>4</octave>
         </pitch>
         <duration>10080</duration>
+        <tie type="stop" />
         <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -17949,7 +18097,11 @@
           <octave>5</octave>
         </pitch>
         <duration>10080</duration>
+        <tie type="stop" />
         <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -18019,7 +18171,11 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -18028,7 +18184,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -18036,7 +18196,11 @@
           <octave>4</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -18045,7 +18209,11 @@
           <octave>5</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 57 =========================-->
@@ -18063,9 +18231,6 @@
         <rest measure="yes" />
         <duration>40320</duration>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
@@ -19573,6 +19738,7 @@
         <type>half</type>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -19643,9 +19809,6 @@
           <tied type="start" />
         </notations>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 84 =========================-->
     <measure number="84">
@@ -19936,7 +20099,11 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -19945,7 +20112,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -19953,7 +20124,11 @@
           <octave>4</octave>
         </pitch>
         <duration>10080</duration>
+        <tie type="stop" />
         <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -19962,7 +20137,11 @@
           <octave>5</octave>
         </pitch>
         <duration>10080</duration>
+        <tie type="stop" />
         <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -20032,7 +20211,11 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -20041,7 +20224,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -20049,7 +20236,11 @@
           <octave>4</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -20058,7 +20249,11 @@
           <octave>5</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 93 =========================-->
@@ -20088,7 +20283,11 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -20097,7 +20296,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -20105,7 +20308,11 @@
           <octave>4</octave>
         </pitch>
         <duration>10080</duration>
+        <tie type="stop" />
         <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -20114,7 +20321,11 @@
           <octave>5</octave>
         </pitch>
         <duration>10080</duration>
+        <tie type="stop" />
         <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -20184,7 +20395,11 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -20193,7 +20408,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -20201,7 +20420,11 @@
           <octave>4</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -20210,7 +20433,11 @@
           <octave>5</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 95 =========================-->
@@ -20240,7 +20467,11 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -20249,7 +20480,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -20257,7 +20492,11 @@
           <octave>4</octave>
         </pitch>
         <duration>10080</duration>
+        <tie type="stop" />
         <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -20266,7 +20505,11 @@
           <octave>5</octave>
         </pitch>
         <duration>10080</duration>
+        <tie type="stop" />
         <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -20336,7 +20579,11 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -20345,7 +20592,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -20353,7 +20604,11 @@
           <octave>4</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -20362,7 +20617,11 @@
           <octave>5</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 97 =========================-->
@@ -20392,7 +20651,11 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -20401,7 +20664,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -20409,7 +20676,11 @@
           <octave>4</octave>
         </pitch>
         <duration>10080</duration>
+        <tie type="stop" />
         <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -20418,7 +20689,11 @@
           <octave>5</octave>
         </pitch>
         <duration>10080</duration>
+        <tie type="stop" />
         <type>quarter</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -20488,7 +20763,11 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -20497,7 +20776,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -20505,7 +20788,11 @@
           <octave>4</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -20514,7 +20801,11 @@
           <octave>5</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 99 =========================-->
@@ -20527,10 +20818,13 @@
         <duration>40320</duration>
         <type>whole</type>
       </note>
+      <barline location="right">
+        <ending number="2" type="stop" />
+      </barline>
     </measure>
   </part>
   <!--=========================== Part 5 ===========================-->
-  <part id="Pa96ffea0a0d4bf0e3089c4998c48688d">
+  <part id="P9">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -23749,9 +24043,6 @@
         <beam number="1">end</beam>
         <beam number="2">end</beam>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
@@ -25386,6 +25677,7 @@
         </notations>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -25485,9 +25777,6 @@
           <tied type="start" />
         </notations>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 84 =========================-->
     <measure number="84">
@@ -26652,10 +26941,13 @@
         <duration>40320</duration>
         <type>whole</type>
       </note>
+      <barline location="right">
+        <ending number="2" type="stop" />
+      </barline>
     </measure>
   </part>
   <!--=========================== Part 6 ===========================-->
-  <part id="P55f968a7735897fe65e548e83967129e">
+  <part id="P11">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -29354,9 +29646,6 @@
         <type>eighth</type>
         <beam number="1">end</beam>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
@@ -30388,6 +30677,7 @@
         <beam number="1">end</beam>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -30395,7 +30685,6 @@
     <measure number="83">
       <barline location="left">
         <bar-style>regular</bar-style>
-        <ending number="2" type="start" />
       </barline>
       <direction>
         <direction-type>
@@ -30478,9 +30767,6 @@
         <type>eighth</type>
         <beam number="1">end</beam>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 84 =========================-->
     <measure number="84">

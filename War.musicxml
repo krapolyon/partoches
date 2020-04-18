@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-10</encoding-date>
+      <encoding-date>2020-04-18</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -19,81 +19,81 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="Pb0b2cdea12aa4311c14d72ae3bbb3434">
+    <score-part id="P1">
       <part-name>Trompette</part-name>
       <part-abbreviation>Trompette</part-abbreviation>
-      <score-instrument id="Ief4b5237099f2ada203f68fb4efd27fa">
+      <score-instrument id="I2">
         <instrument-name>Trumpet</instrument-name>
         <instrument-abbreviation>Tpt</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="Ief4b5237099f2ada203f68fb4efd27fa">
+      <midi-instrument id="I2">
         <midi-channel>1</midi-channel>
         <midi-program>57</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="Pfe3c777f81091737faef31e27d1f2fa2">
+    <score-part id="P3">
       <part-name>Sax sib</part-name>
       <part-abbreviation>Sax sib</part-abbreviation>
-      <score-instrument id="Ia31029d97ca7843e1a9216c9a4239ccc">
+      <score-instrument id="I4">
         <instrument-name>Tenor Saxophone</instrument-name>
         <instrument-abbreviation>T Sax</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="Ia31029d97ca7843e1a9216c9a4239ccc">
+      <midi-instrument id="I4">
         <midi-channel>1</midi-channel>
         <midi-program>67</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="Pe8b72805217783b6c0ea174d5fc66bd5">
+    <score-part id="P5">
       <part-name>Trombone</part-name>
       <part-abbreviation>Trombone</part-abbreviation>
-      <score-instrument id="If936fa27da022855b214923fb423b87c">
+      <score-instrument id="I6">
         <instrument-name>Trombone</instrument-name>
         <instrument-abbreviation>Trb</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="If936fa27da022855b214923fb423b87c">
+      <midi-instrument id="I6">
         <midi-channel>1</midi-channel>
         <midi-program>58</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="Pcc36198264a1879710d047cadc2a210c">
+    <score-part id="P7">
       <part-name>Basse</part-name>
       <part-abbreviation>Basse</part-abbreviation>
-      <score-instrument id="I168e3449d8387978715a36f9ba4dc501">
+      <score-instrument id="I8">
         <instrument-name>Horn</instrument-name>
         <instrument-abbreviation>Hn</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I168e3449d8387978715a36f9ba4dc501">
+      <midi-instrument id="I8">
         <midi-channel>1</midi-channel>
         <midi-program>61</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P4c3b747d7ae40a49d06927c921b3b7ce">
+    <score-part id="P9">
       <part-name>Souba</part-name>
       <part-abbreviation>Souba</part-abbreviation>
-      <score-instrument id="I7b926cd1c348d152ce5b23ebce7baba7">
+      <score-instrument id="I10">
         <instrument-name>Tuba</instrument-name>
         <instrument-abbreviation>Tba</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I7b926cd1c348d152ce5b23ebce7baba7">
+      <midi-instrument id="I10">
         <midi-channel>1</midi-channel>
         <midi-program>59</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="Pf2a6461e90dfef8518ffc9caef6724ea">
+    <score-part id="P11">
       <part-name>Sax mib</part-name>
       <part-abbreviation>Sax mib</part-abbreviation>
-      <score-instrument id="I2fa4824600307fa925a226130e0da4f3">
+      <score-instrument id="I12">
         <instrument-name>Saxophone</instrument-name>
         <instrument-abbreviation>Sax</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I2fa4824600307fa925a226130e0da4f3">
+      <midi-instrument id="I12">
         <midi-channel>1</midi-channel>
         <midi-program>66</midi-program>
       </midi-instrument>
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="Pb0b2cdea12aa4311c14d72ae3bbb3434">
+  <part id="P1">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -3945,7 +3945,7 @@
     </measure>
   </part>
   <!--=========================== Part 2 ===========================-->
-  <part id="Pfe3c777f81091737faef31e27d1f2fa2">
+  <part id="P3">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -8419,7 +8419,7 @@
     </measure>
   </part>
   <!--=========================== Part 3 ===========================-->
-  <part id="Pe8b72805217783b6c0ea174d5fc66bd5">
+  <part id="P5">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -14022,7 +14022,7 @@
     </measure>
   </part>
   <!--=========================== Part 4 ===========================-->
-  <part id="Pcc36198264a1879710d047cadc2a210c">
+  <part id="P7">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -19052,7 +19052,7 @@
     </measure>
   </part>
   <!--=========================== Part 5 ===========================-->
-  <part id="P4c3b747d7ae40a49d06927c921b3b7ce">
+  <part id="P9">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -22936,7 +22936,7 @@
     </measure>
   </part>
   <!--=========================== Part 6 ===========================-->
-  <part id="Pf2a6461e90dfef8518ffc9caef6724ea">
+  <part id="P11">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>

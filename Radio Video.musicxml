@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-10</encoding-date>
+      <encoding-date>2020-04-18</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -19,496 +19,496 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="Pf666904f5496f9525a66128be38e22e9">
+    <score-part id="P1">
       <part-name>trompette</part-name>
       <part-abbreviation>trompette</part-abbreviation>
-      <score-instrument id="I19e3664db6fff551e595283136100e54">
+      <score-instrument id="I2">
         <instrument-name>Trumpet</instrument-name>
         <instrument-abbreviation>Tpt</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I19e3664db6fff551e595283136100e54">
+      <midi-instrument id="I2">
         <midi-channel>1</midi-channel>
         <midi-program>57</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P4357230498089e0c5a009563f7456322">
+    <score-part id="P3">
       <part-name>sax sib</part-name>
       <part-abbreviation>sax sib</part-abbreviation>
-      <score-instrument id="I226c4e9ad99f5f458cb9a689e9836118">
+      <score-instrument id="I4">
         <instrument-name>Tenor Saxophone</instrument-name>
         <instrument-abbreviation>T Sax</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I226c4e9ad99f5f458cb9a689e9836118">
+      <midi-instrument id="I4">
         <midi-channel>1</midi-channel>
         <midi-program>67</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P4d7665c6eb880c431431c3fffd8b86a3">
+    <score-part id="P5">
       <part-name>trombone</part-name>
       <part-abbreviation>trombone</part-abbreviation>
-      <score-instrument id="I997ccc98b88852df0d7c797f35510706">
+      <score-instrument id="I6">
         <instrument-name>Trombone</instrument-name>
         <instrument-abbreviation>Trb</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I997ccc98b88852df0d7c797f35510706">
+      <midi-instrument id="I6">
         <midi-channel>1</midi-channel>
         <midi-program>58</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P516d8cc2616fb4a215fabc3bf7de3209">
+    <score-part id="P7">
       <part-name>Drumset</part-name>
       <part-abbreviation>D.</part-abbreviation>
-      <score-instrument id="I62fa71336beb83db733258dcafb09d38">
+      <score-instrument id="I8">
         <instrument-name>Percussion</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I6539a5bb978c79971afc08529dfdb952">
+      <score-instrument id="I9">
         <instrument-name>Bass Drum (acoustic)</instrument-name>
         <instrument-abbreviation>B Dr</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I3e15a21471a3d6138af1d21bb6063dc2">
+      <score-instrument id="I10">
         <instrument-name>Bass Drum (1)</instrument-name>
         <instrument-abbreviation>B Dr</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I3882efc6c6c1d067395654d1e696ca21">
+      <score-instrument id="I11">
         <instrument-name>Snare Drum (side)</instrument-name>
         <instrument-abbreviation>Sn Dr</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="If559520a379a36b07a4bdeaae292a3ff">
+      <score-instrument id="I12">
         <instrument-name>Snare Drum (acoustic)</instrument-name>
         <instrument-abbreviation>Sn Dr</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I8aed0a7f94b39b491a7e1f8c86bb501a">
+      <score-instrument id="I13">
         <instrument-name>Percussion</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I13a85c1c6b7151c41b315c724ef63553">
+      <score-instrument id="I14">
         <instrument-name>Snare Drum (electric)</instrument-name>
         <instrument-abbreviation>Sn Dr</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I95b3dd3c91d5cf21db4f0720fd497bb6">
+      <score-instrument id="I15">
         <instrument-name>Tom-Tom (low floor)</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="Ic5dc4f7449d5b6eb4b02199c0c76914a">
+      <score-instrument id="I16">
         <instrument-name>Hi-Hat Cymbal (closed)</instrument-name>
         <instrument-abbreviation>Cym</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I0439e92b9aae2d9fb74208bb13aa92bd">
+      <score-instrument id="I17">
         <instrument-name>Tom-Tom (high floor)</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="Ic60711df31c67caa88fadcae6dc4124b">
+      <score-instrument id="I18">
         <instrument-name>Hi-Hat Cymbal (pedal)</instrument-name>
         <instrument-abbreviation>Cym</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="Ib13ea8337b361da4ca2ec3f5e2213fcf">
+      <score-instrument id="I19">
         <instrument-name>Tom-Tom (low)</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I6c64d80111c4bdd40f1b484f0f304101">
+      <score-instrument id="I20">
         <instrument-name>Hi-Hat Cymbal (open)</instrument-name>
         <instrument-abbreviation>Cym</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="Iaad9c0dc1844380682097d6f96b2da74">
+      <score-instrument id="I21">
         <instrument-name>Tom-Tom (low-mid)</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I415b6cb9e42e8bcc85e7aaac8da68cad">
+      <score-instrument id="I22">
         <instrument-name>Tom-Tom (high-mid)</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="Ia22221898f30ca91eb5ad88915a30111">
+      <score-instrument id="I23">
         <instrument-name>Crash Cymbals (1)</instrument-name>
         <instrument-abbreviation>Cym</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I42d3bc1f44c4c1325588e475b78817c3">
+      <score-instrument id="I24">
         <instrument-name>Tom-Tom (high)</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I6b957dd0deca32735a48c7e0f02af517">
+      <score-instrument id="I25">
         <instrument-name>Ride Cymbals (1)</instrument-name>
         <instrument-abbreviation>Cym</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I2723e85b906c851f6059c7a5453440c7">
+      <score-instrument id="I26">
         <instrument-name>Chinese Cymbal</instrument-name>
         <instrument-abbreviation>Cym</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I6b884905f49c98e0a655877bd7a00202">
+      <score-instrument id="I27">
         <instrument-name>Ride Bell</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I3617ae4ca7533e280ed406d64ff433a0">
+      <score-instrument id="I28">
         <instrument-name>Tambourine</instrument-name>
         <instrument-abbreviation>Tmbn</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I70927d75a7ec0a8864189655611ce31b">
+      <score-instrument id="I29">
         <instrument-name>Splash Cymbals</instrument-name>
         <instrument-abbreviation>Cym</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I69922ef6c6bc3ee6e6361a73b223764e">
+      <score-instrument id="I30">
         <instrument-name>Cowbell</instrument-name>
         <instrument-abbreviation>Cwb</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I4061ae5664623293c1a79667681988df">
+      <score-instrument id="I31">
         <instrument-name>Crash Cymbals (2)</instrument-name>
         <instrument-abbreviation>Cym</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I760c4989a44470d75d9bb2ba4ec4d7b2">
+      <score-instrument id="I32">
         <instrument-name>Vibraslap</instrument-name>
         <instrument-abbreviation>Vbslp</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="Ib1f9e36975b64dcd10565f2e1505bfb0">
+      <score-instrument id="I33">
         <instrument-name>Ride Cymbals (2)</instrument-name>
         <instrument-abbreviation>Cym</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="Ia0159e9f5c4683672002f1bc5f966f85">
+      <score-instrument id="I34">
         <instrument-name>Bongo Drums (high)</instrument-name>
         <instrument-abbreviation>Bgo Dr</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="Ia165dd7fb85896bc6ba97bb10fd0ad55">
+      <score-instrument id="I35">
         <instrument-name>Bongo Drums (low)</instrument-name>
         <instrument-abbreviation>Bgo Dr</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I20cdd5fafd1bb6aa745e0c273903abc8">
+      <score-instrument id="I36">
         <instrument-name>Conga Drum (mute high)</instrument-name>
         <instrument-abbreviation>Cga Dr</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I2ffd5b345f612bc37cb2f9016290e2b2">
+      <score-instrument id="I37">
         <instrument-name>Conga Drum (open high)</instrument-name>
         <instrument-abbreviation>Cga Dr</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I1825feaa41754e352e7729d03b2311b8">
+      <score-instrument id="I38">
         <instrument-name>Conga Drum (low)</instrument-name>
         <instrument-abbreviation>Cga Dr</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="Ifbf1eb5c293659d7d05fbb73a6f3bc20">
+      <score-instrument id="I39">
         <instrument-name>Timbales (high)</instrument-name>
         <instrument-abbreviation>Tim</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I48d7d516b2f22a0142458dc2dd04073c">
+      <score-instrument id="I40">
         <instrument-name>Timbales (low)</instrument-name>
         <instrument-abbreviation>Tim</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="Id4a8b09244cf53c8b371710be676dd38">
+      <score-instrument id="I41">
         <instrument-name>Agogo</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="Ib263a1a97db7b72e243baf9d00f8034b">
+      <score-instrument id="I42">
         <instrument-name>Percussion</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I752f14dd0f92a6605b005ef1119057f9">
+      <score-instrument id="I43">
         <instrument-name>Percussion</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I6185c1d54adbaee2e6da1daf1afa760b">
+      <score-instrument id="I44">
         <instrument-name>Maracas</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I030a1e291b4fc85cca5aa9e17fa99cf9">
+      <score-instrument id="I45">
         <instrument-name>Percussion</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="Ic2655455de27e89f844e1bf2cdfced3b">
+      <score-instrument id="I46">
         <instrument-name>Percussion</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="Ifd9c79b55c795d79032cb51206e92a63">
+      <score-instrument id="I47">
         <instrument-name>Percussion</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I57c316e147affedd9660fb3a508f4e58">
+      <score-instrument id="I48">
         <instrument-name>Percussion</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="Ied53998a2dec076a2774b8e83edaac8e">
+      <score-instrument id="I49">
         <instrument-name>Percussion</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I761363c763360662ebd6525b6f07bacd">
+      <score-instrument id="I50">
         <instrument-name>Woodblock (high)</instrument-name>
         <instrument-abbreviation>Wd Bl</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="If24b89f123b2e170bd54c0677e6afaf8">
+      <score-instrument id="I51">
         <instrument-name>Woodblock (low)</instrument-name>
         <instrument-abbreviation>Wd Bl</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="Id646a3ae3ce73f0688557af270d9b6ce">
+      <score-instrument id="I52">
         <instrument-name>Percussion</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="I11fbcb70244d5f9f0fedc67c8ed7e65b">
+      <score-instrument id="I53">
         <instrument-name>Percussion</instrument-name>
         <instrument-abbreviation>Perc</instrument-abbreviation>
       </score-instrument>
-      <score-instrument id="Ib7883092f69b626c52e0c6701263c016">
+      <score-instrument id="I54">
         <instrument-name>Triangle (mute)</instrument-name>
         <instrument-abbreviation>Tri</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I62fa71336beb83db733258dcafb09d38">
+      <midi-instrument id="I8">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>35</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I6539a5bb978c79971afc08529dfdb952">
+      <midi-instrument id="I9">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>36</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I3e15a21471a3d6138af1d21bb6063dc2">
+      <midi-instrument id="I10">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>37</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I3882efc6c6c1d067395654d1e696ca21">
+      <midi-instrument id="I11">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>38</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="If559520a379a36b07a4bdeaae292a3ff">
+      <midi-instrument id="I12">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>39</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I8aed0a7f94b39b491a7e1f8c86bb501a">
+      <midi-instrument id="I13">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>40</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I13a85c1c6b7151c41b315c724ef63553">
+      <midi-instrument id="I14">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>41</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I95b3dd3c91d5cf21db4f0720fd497bb6">
+      <midi-instrument id="I15">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>42</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="Ic5dc4f7449d5b6eb4b02199c0c76914a">
+      <midi-instrument id="I16">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>43</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I0439e92b9aae2d9fb74208bb13aa92bd">
+      <midi-instrument id="I17">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>44</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="Ic60711df31c67caa88fadcae6dc4124b">
+      <midi-instrument id="I18">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>45</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="Ib13ea8337b361da4ca2ec3f5e2213fcf">
+      <midi-instrument id="I19">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>46</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I6c64d80111c4bdd40f1b484f0f304101">
+      <midi-instrument id="I20">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>47</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="Iaad9c0dc1844380682097d6f96b2da74">
+      <midi-instrument id="I21">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>48</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I415b6cb9e42e8bcc85e7aaac8da68cad">
+      <midi-instrument id="I22">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>49</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="Ia22221898f30ca91eb5ad88915a30111">
+      <midi-instrument id="I23">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>50</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I42d3bc1f44c4c1325588e475b78817c3">
+      <midi-instrument id="I24">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>51</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I6b957dd0deca32735a48c7e0f02af517">
+      <midi-instrument id="I25">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>52</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I2723e85b906c851f6059c7a5453440c7">
+      <midi-instrument id="I26">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>53</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I6b884905f49c98e0a655877bd7a00202">
+      <midi-instrument id="I27">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>54</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I3617ae4ca7533e280ed406d64ff433a0">
+      <midi-instrument id="I28">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>55</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I70927d75a7ec0a8864189655611ce31b">
+      <midi-instrument id="I29">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>56</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I69922ef6c6bc3ee6e6361a73b223764e">
+      <midi-instrument id="I30">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>57</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I4061ae5664623293c1a79667681988df">
+      <midi-instrument id="I31">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>58</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I760c4989a44470d75d9bb2ba4ec4d7b2">
+      <midi-instrument id="I32">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>59</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="Ib1f9e36975b64dcd10565f2e1505bfb0">
+      <midi-instrument id="I33">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>52</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="Ia0159e9f5c4683672002f1bc5f966f85">
+      <midi-instrument id="I34">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>61</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="Ia165dd7fb85896bc6ba97bb10fd0ad55">
+      <midi-instrument id="I35">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>62</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I20cdd5fafd1bb6aa745e0c273903abc8">
+      <midi-instrument id="I36">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>63</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I2ffd5b345f612bc37cb2f9016290e2b2">
+      <midi-instrument id="I37">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>64</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I1825feaa41754e352e7729d03b2311b8">
+      <midi-instrument id="I38">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>65</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="Ifbf1eb5c293659d7d05fbb73a6f3bc20">
+      <midi-instrument id="I39">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>66</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I48d7d516b2f22a0142458dc2dd04073c">
+      <midi-instrument id="I40">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>67</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="Id4a8b09244cf53c8b371710be676dd38">
+      <midi-instrument id="I41">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>68</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="Ib263a1a97db7b72e243baf9d00f8034b">
+      <midi-instrument id="I42">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>69</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I752f14dd0f92a6605b005ef1119057f9">
+      <midi-instrument id="I43">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>70</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I6185c1d54adbaee2e6da1daf1afa760b">
+      <midi-instrument id="I44">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>71</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I030a1e291b4fc85cca5aa9e17fa99cf9">
+      <midi-instrument id="I45">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>72</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="Ic2655455de27e89f844e1bf2cdfced3b">
+      <midi-instrument id="I46">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>73</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="Ifd9c79b55c795d79032cb51206e92a63">
+      <midi-instrument id="I47">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>74</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I57c316e147affedd9660fb3a508f4e58">
+      <midi-instrument id="I48">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>75</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="Ied53998a2dec076a2774b8e83edaac8e">
+      <midi-instrument id="I49">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>76</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I761363c763360662ebd6525b6f07bacd">
+      <midi-instrument id="I50">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>77</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="If24b89f123b2e170bd54c0677e6afaf8">
+      <midi-instrument id="I51">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>78</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="Id646a3ae3ce73f0688557af270d9b6ce">
+      <midi-instrument id="I52">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>79</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="I11fbcb70244d5f9f0fedc67c8ed7e65b">
+      <midi-instrument id="I53">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>80</midi-unpitched>
       </midi-instrument>
-      <midi-instrument id="Ib7883092f69b626c52e0c6701263c016">
+      <midi-instrument id="I54">
         <midi-channel>10</midi-channel>
         <midi-program>1</midi-program>
         <midi-unpitched>81</midi-unpitched>
       </midi-instrument>
     </score-part>
-    <score-part id="Pf5ca5c9997c8aa67e90463f0ae4c97d2">
+    <score-part id="P55">
       <part-name>Souba</part-name>
       <part-abbreviation>Souba</part-abbreviation>
-      <score-instrument id="I4b833c13d016d19bbb5677653baa1394">
+      <score-instrument id="I56">
         <instrument-name>Tuba</instrument-name>
         <instrument-abbreviation>Tba</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I4b833c13d016d19bbb5677653baa1394">
+      <midi-instrument id="I56">
         <midi-channel>1</midi-channel>
         <midi-program>59</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P3bb724407696941c207909be54509d5e">
+    <score-part id="P57">
       <part-name>sax mib</part-name>
       <part-abbreviation>sax mib</part-abbreviation>
-      <score-instrument id="Icbd51872e10b3b6f341e8246086b65e0">
+      <score-instrument id="I58">
         <instrument-name>Saxophone</instrument-name>
         <instrument-abbreviation>Sax</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="Icbd51872e10b3b6f341e8246086b65e0">
+      <midi-instrument id="I58">
         <midi-channel>1</midi-channel>
         <midi-program>66</midi-program>
       </midi-instrument>
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="Pf666904f5496f9525a66128be38e22e9">
+  <part id="P1">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -1727,9 +1727,6 @@
         <duration>5040</duration>
         <type>eighth</type>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 46 =========================-->
     <measure number="46">
@@ -1977,6 +1974,7 @@
         <type>half</type>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -2074,9 +2072,6 @@
         <duration>5040</duration>
         <type>eighth</type>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
@@ -4678,7 +4673,7 @@
     </measure>
   </part>
   <!--=========================== Part 2 ===========================-->
-  <part id="P4357230498089e0c5a009563f7456322">
+  <part id="P3">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -5234,6 +5229,9 @@
         <duration>40320</duration>
         <type>whole</type>
       </note>
+      <barline location="right">
+        <ending number="2" type="stop" />
+      </barline>
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
@@ -6054,9 +6052,6 @@
         <duration>10080</duration>
         <type>quarter</type>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 46 =========================-->
     <measure number="46">
@@ -6163,6 +6158,7 @@
         <type>quarter</type>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -6204,9 +6200,6 @@
         <duration>10080</duration>
         <type>quarter</type>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
@@ -9290,7 +9283,7 @@
     </measure>
   </part>
   <!--=========================== Part 3 ===========================-->
-  <part id="P4d7665c6eb880c431431c3fffd8b86a3">
+  <part id="P5">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -10517,6 +10510,9 @@
         <duration>5040</duration>
         <type>eighth</type>
       </note>
+      <barline location="right">
+        <ending number="2" type="stop" />
+      </barline>
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
@@ -11532,9 +11528,6 @@
         <duration>5040</duration>
         <type>eighth</type>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 46 =========================-->
     <measure number="46">
@@ -11643,6 +11636,7 @@
         <type>quarter</type>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -11686,9 +11680,6 @@
         <duration>5040</duration>
         <type>eighth</type>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
@@ -15400,7 +15391,7 @@
     </measure>
   </part>
   <!--=========================== Part 4 ===========================-->
-  <part id="P516d8cc2616fb4a215fabc3bf7de3209">
+  <part id="P7">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -16644,6 +16635,9 @@
         <duration>5040</duration>
         <type>eighth</type>
       </note>
+      <barline location="right">
+        <ending number="2" type="stop" />
+      </barline>
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
@@ -18808,9 +18802,6 @@
         <duration>5040</duration>
         <type>eighth</type>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 46 =========================-->
     <measure number="46">
@@ -19175,6 +19166,7 @@
         <type>eighth</type>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -19302,9 +19294,6 @@
         <duration>5040</duration>
         <type>eighth</type>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
@@ -26693,7 +26682,7 @@
     </measure>
   </part>
   <!--=========================== Part 5 ===========================-->
-  <part id="Pf5ca5c9997c8aa67e90463f0ae4c97d2">
+  <part id="P55">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -27924,6 +27913,9 @@
         <duration>5040</duration>
         <type>eighth</type>
       </note>
+      <barline location="right">
+        <ending number="2" type="stop" />
+      </barline>
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
@@ -28850,9 +28842,6 @@
         <duration>10080</duration>
         <type>quarter</type>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 46 =========================-->
     <measure number="46">
@@ -29010,6 +28999,7 @@
         <type>quarter</type>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -29068,9 +29058,6 @@
         <duration>10080</duration>
         <type>quarter</type>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
@@ -32899,7 +32886,7 @@
     </measure>
   </part>
   <!--=========================== Part 6 ===========================-->
-  <part id="P3bb724407696941c207909be54509d5e">
+  <part id="P57">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -33459,6 +33446,9 @@
         <duration>40320</duration>
         <type>whole</type>
       </note>
+      <barline location="right">
+        <ending number="2" type="stop" />
+      </barline>
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
@@ -34287,9 +34277,6 @@
         <duration>10080</duration>
         <type>quarter</type>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 46 =========================-->
     <measure number="46">
@@ -34399,6 +34386,7 @@
         <type>quarter</type>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -34406,7 +34394,6 @@
     <measure number="49">
       <barline location="left">
         <bar-style>regular</bar-style>
-        <ending number="2" type="start" />
       </barline>
       <note>
         <pitch>
@@ -34440,9 +34427,6 @@
         <duration>10080</duration>
         <type>quarter</type>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">

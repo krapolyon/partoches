@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-10</encoding-date>
+      <encoding-date>2020-04-18</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -19,81 +19,81 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P6febf07bc9881046b54990901911e8d1">
+    <score-part id="P1">
       <part-name>Trompette</part-name>
       <part-abbreviation>Trompette</part-abbreviation>
-      <score-instrument id="I0f2188caba68faa281a2c84c9a1838f4">
+      <score-instrument id="I2">
         <instrument-name>Trumpet</instrument-name>
         <instrument-abbreviation>Tpt</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I0f2188caba68faa281a2c84c9a1838f4">
+      <midi-instrument id="I2">
         <midi-channel>1</midi-channel>
         <midi-program>57</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P42c3e49ba769bdf3da77c3b67bf91ac1">
+    <score-part id="P3">
       <part-name>Sax sib</part-name>
       <part-abbreviation>Sax sib</part-abbreviation>
-      <score-instrument id="I681cf79308dfe2119e82f3912bf8e368">
+      <score-instrument id="I4">
         <instrument-name>Tenor Saxophone</instrument-name>
         <instrument-abbreviation>T Sax</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I681cf79308dfe2119e82f3912bf8e368">
+      <midi-instrument id="I4">
         <midi-channel>1</midi-channel>
         <midi-program>67</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="Pb56ccf8c4b015c123329a5b60ac32bc5">
+    <score-part id="P5">
       <part-name>Trombone</part-name>
       <part-abbreviation>Trombone</part-abbreviation>
-      <score-instrument id="Iacdb6d695f2ce5e5b24f33a6acc8a9ed">
+      <score-instrument id="I6">
         <instrument-name>Trombone</instrument-name>
         <instrument-abbreviation>Trb</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="Iacdb6d695f2ce5e5b24f33a6acc8a9ed">
+      <midi-instrument id="I6">
         <midi-channel>1</midi-channel>
         <midi-program>58</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P6248ca76204d94f505fe4e3a7ea38520">
+    <score-part id="P7">
       <part-name>Basse</part-name>
       <part-abbreviation>Basse</part-abbreviation>
-      <score-instrument id="I63ec2c22d2747acfb2435a3ccdc74081">
+      <score-instrument id="I8">
         <instrument-name>Horn</instrument-name>
         <instrument-abbreviation>Hn</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I63ec2c22d2747acfb2435a3ccdc74081">
+      <midi-instrument id="I8">
         <midi-channel>1</midi-channel>
         <midi-program>61</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="Pc3fbb4c6b0f484f86143a75bac7312ee">
+    <score-part id="P9">
       <part-name>Souba</part-name>
       <part-abbreviation>Souba</part-abbreviation>
-      <score-instrument id="I02273bacef52f90b13a8cd56e0464518">
+      <score-instrument id="I10">
         <instrument-name>Tuba</instrument-name>
         <instrument-abbreviation>Tba</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I02273bacef52f90b13a8cd56e0464518">
+      <midi-instrument id="I10">
         <midi-channel>1</midi-channel>
         <midi-program>59</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P50caad4ce5efcb19b2ea2fd31e57e897">
+    <score-part id="P11">
       <part-name>Sax mib</part-name>
       <part-abbreviation>Sax mib</part-abbreviation>
-      <score-instrument id="I513bdc524eeabaadf39910f90c643444">
+      <score-instrument id="I12">
         <instrument-name>Saxophone</instrument-name>
         <instrument-abbreviation>Sax</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I513bdc524eeabaadf39910f90c643444">
+      <midi-instrument id="I12">
         <midi-channel>1</midi-channel>
         <midi-program>66</midi-program>
       </midi-instrument>
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="P6febf07bc9881046b54990901911e8d1">
+  <part id="P1">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -521,8 +521,12 @@
           <octave>4</octave>
         </pitch>
         <duration>30240</duration>
+        <tie type="start" />
         <type>half</type>
         <dot />
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -532,8 +536,12 @@
           <octave>4</octave>
         </pitch>
         <duration>30240</duration>
+        <tie type="start" />
         <type>half</type>
         <dot />
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 32 =========================-->
@@ -544,7 +552,11 @@
           <octave>4</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -554,7 +566,11 @@
           <octave>4</octave>
         </pitch>
         <duration>20160</duration>
+        <tie type="stop" />
         <type>half</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 33 =========================-->
@@ -2108,8 +2124,12 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
         <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -2119,7 +2139,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -2127,8 +2151,12 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="stop" />
         <type>eighth</type>
         <beam number="1">begin</beam>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -2138,7 +2166,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="stop" />
         <type>eighth</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -2290,8 +2322,12 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
         <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -2301,7 +2337,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -2309,8 +2349,12 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="stop" />
         <type>eighth</type>
         <beam number="1">begin</beam>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -2320,7 +2364,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="stop" />
         <type>eighth</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -2474,8 +2522,12 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
         <beam number="1">end</beam>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -2484,7 +2536,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="start" />
         <type>eighth</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -2492,8 +2548,12 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="stop" />
         <type>eighth</type>
         <beam number="1">begin</beam>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -2502,7 +2562,11 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <tie type="stop" />
         <type>eighth</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <pitch>
@@ -2748,7 +2812,7 @@
     </measure>
   </part>
   <!--=========================== Part 2 ===========================-->
-  <part id="P42c3e49ba769bdf3da77c3b67bf91ac1">
+  <part id="P3">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -6885,7 +6949,7 @@
     </measure>
   </part>
   <!--=========================== Part 3 ===========================-->
-  <part id="Pb56ccf8c4b015c123329a5b60ac32bc5">
+  <part id="P5">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -10325,7 +10389,7 @@
     </measure>
   </part>
   <!--=========================== Part 4 ===========================-->
-  <part id="P6248ca76204d94f505fe4e3a7ea38520">
+  <part id="P7">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -14585,7 +14649,7 @@
     </measure>
   </part>
   <!--=========================== Part 5 ===========================-->
-  <part id="Pc3fbb4c6b0f484f86143a75bac7312ee">
+  <part id="P9">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -17650,19 +17714,25 @@
           <octave>3</octave>
         </pitch>
         <duration>30240</duration>
+        <voice>1</voice>
         <type>half</type>
         <dot />
+        <accidental>flat</accidental>
       </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>B</step>
-          <alter>-1</alter>
-          <octave>4</octave>
-        </pitch>
+      <backup>
         <duration>30240</duration>
-        <type>half</type>
-        <dot />
+      </backup>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -17671,7 +17741,10 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <voice>2</voice>
         <type>eighth</type>
+        <accidental>flat</accidental>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -17680,7 +17753,10 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <voice>2</voice>
         <type>eighth</type>
+        <accidental>flat</accidental>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -17690,7 +17766,10 @@
         </pitch>
         <duration>5040</duration>
         <tie type="start" />
+        <voice>2</voice>
         <type>eighth</type>
+        <accidental>flat</accidental>
+        <beam number="1">end</beam>
         <notations>
           <tied type="start" />
         </notations>
@@ -17703,7 +17782,10 @@
         </pitch>
         <duration>5040</duration>
         <tie type="stop" />
+        <voice>2</voice>
         <type>eighth</type>
+        <accidental>flat</accidental>
+        <beam number="1">begin</beam>
         <notations>
           <tied type="stop" />
         </notations>
@@ -17715,7 +17797,10 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <voice>2</voice>
         <type>eighth</type>
+        <accidental>flat</accidental>
+        <beam number="1">end</beam>
       </note>
     </measure>
     <!--========================= Measure 87 =========================-->
@@ -17798,18 +17883,24 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">begin</beam>
+        <accidental>flat</accidental>
       </note>
+      <backup>
+        <duration>5040</duration>
+      </backup>
       <note>
-        <chord />
         <pitch>
           <step>E</step>
           <alter>-1</alter>
           <octave>5</octave>
         </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
+        <duration>30240</duration>
+        <voice>2</voice>
+        <type>half</type>
+        <dot />
+        <accidental>flat</accidental>
       </note>
       <note>
         <pitch>
@@ -17818,8 +17909,9 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <voice>2</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <accidental>flat</accidental>
       </note>
       <note>
         <pitch>
@@ -17828,8 +17920,9 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <voice>2</voice>
         <type>eighth</type>
-        <beam number="1">begin</beam>
+        <accidental>flat</accidental>
       </note>
       <note>
         <pitch>
@@ -17839,8 +17932,9 @@
         </pitch>
         <duration>5040</duration>
         <tie type="start" />
+        <voice>2</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <accidental>flat</accidental>
         <notations>
           <tied type="start" />
         </notations>
@@ -17853,8 +17947,9 @@
         </pitch>
         <duration>5040</duration>
         <tie type="stop" />
+        <voice>2</voice>
         <type>eighth</type>
-        <beam number="1">begin</beam>
+        <accidental>flat</accidental>
         <notations>
           <tied type="stop" />
         </notations>
@@ -17865,8 +17960,8 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
+        <voice>2</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
       </note>
     </measure>
     <!--========================= Measure 89 =========================-->
@@ -17912,18 +18007,22 @@
           <octave>4</octave>
         </pitch>
         <duration>30240</duration>
+        <voice>1</voice>
         <type>half</type>
         <dot />
       </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>F</step>
-          <octave>5</octave>
-        </pitch>
+      <backup>
         <duration>30240</duration>
-        <type>half</type>
-        <dot />
+      </backup>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -17931,7 +18030,9 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <voice>2</voice>
         <type>eighth</type>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -17939,7 +18040,9 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <voice>2</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -17948,7 +18051,9 @@
         </pitch>
         <duration>5040</duration>
         <tie type="start" />
+        <voice>2</voice>
         <type>eighth</type>
+        <beam number="1">end</beam>
         <notations>
           <tied type="start" />
         </notations>
@@ -17960,7 +18065,9 @@
         </pitch>
         <duration>5040</duration>
         <tie type="stop" />
+        <voice>2</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
         <notations>
           <tied type="stop" />
         </notations>
@@ -17971,7 +18078,9 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <voice>2</voice>
         <type>eighth</type>
+        <beam number="1">end</beam>
       </note>
     </measure>
     <!--========================= Measure 91 =========================-->
@@ -18054,19 +18163,25 @@
           <octave>4</octave>
         </pitch>
         <duration>30240</duration>
+        <voice>1</voice>
         <type>half</type>
         <dot />
+        <accidental>flat</accidental>
       </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>E</step>
-          <alter>-1</alter>
-          <octave>5</octave>
-        </pitch>
+      <backup>
         <duration>30240</duration>
-        <type>half</type>
-        <dot />
+      </backup>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -18075,7 +18190,10 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <voice>2</voice>
         <type>eighth</type>
+        <accidental>flat</accidental>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -18084,7 +18202,10 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <voice>2</voice>
         <type>eighth</type>
+        <accidental>flat</accidental>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -18094,7 +18215,10 @@
         </pitch>
         <duration>5040</duration>
         <tie type="start" />
+        <voice>2</voice>
         <type>eighth</type>
+        <accidental>flat</accidental>
+        <beam number="1">end</beam>
         <notations>
           <tied type="start" />
         </notations>
@@ -18107,7 +18231,10 @@
         </pitch>
         <duration>5040</duration>
         <tie type="stop" />
+        <voice>2</voice>
         <type>eighth</type>
+        <accidental>flat</accidental>
+        <beam number="1">begin</beam>
         <notations>
           <tied type="stop" />
         </notations>
@@ -18118,7 +18245,9 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
+        <voice>2</voice>
         <type>eighth</type>
+        <beam number="1">end</beam>
       </note>
     </measure>
     <!--========================= Measure 93 =========================-->
@@ -18214,7 +18343,7 @@
     </measure>
   </part>
   <!--=========================== Part 6 ===========================-->
-  <part id="P50caad4ce5efcb19b2ea2fd31e57e897">
+  <part id="P11">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>

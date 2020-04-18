@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-10</encoding-date>
+      <encoding-date>2020-04-18</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -19,69 +19,69 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P048a0b7c7561511d860b63ed3a83d1b5">
+    <score-part id="P1">
       <part-name>trompette</part-name>
       <part-abbreviation>trompette</part-abbreviation>
-      <score-instrument id="If283307f9070d73948273c0305e8bc2f">
+      <score-instrument id="I2">
         <instrument-name>Trumpet</instrument-name>
         <instrument-abbreviation>Tpt</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="If283307f9070d73948273c0305e8bc2f">
+      <midi-instrument id="I2">
         <midi-channel>1</midi-channel>
         <midi-program>57</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P2b0d68e320afecfe72b58a13c24844b9">
+    <score-part id="P3">
       <part-name>sax sib</part-name>
       <part-abbreviation>sax sib</part-abbreviation>
-      <score-instrument id="Ib58cbf53e4579bc5263d05418685c120">
+      <score-instrument id="I4">
         <instrument-name>Tenor Saxophone</instrument-name>
         <instrument-abbreviation>T Sax</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="Ib58cbf53e4579bc5263d05418685c120">
+      <midi-instrument id="I4">
         <midi-channel>1</midi-channel>
         <midi-program>67</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P07deb97184bf5d02a2c5320ae7fb42f9">
+    <score-part id="P5">
       <part-name>trombone</part-name>
       <part-abbreviation>trombone</part-abbreviation>
-      <score-instrument id="I9ddb1996e3fefe947345c315be7951ea">
+      <score-instrument id="I6">
         <instrument-name>Trombone</instrument-name>
         <instrument-abbreviation>Trb</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I9ddb1996e3fefe947345c315be7951ea">
+      <midi-instrument id="I6">
         <midi-channel>1</midi-channel>
         <midi-program>58</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="Pe685515f738d8d6d66fdf181503ef2e1">
+    <score-part id="P7">
       <part-name>souba</part-name>
       <part-abbreviation>souba</part-abbreviation>
-      <score-instrument id="I679bdb1b9e5ef7aac1c833d60a5d48bc">
+      <score-instrument id="I8">
         <instrument-name>Tuba</instrument-name>
         <instrument-abbreviation>Tba</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I679bdb1b9e5ef7aac1c833d60a5d48bc">
+      <midi-instrument id="I8">
         <midi-channel>1</midi-channel>
         <midi-program>59</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P21a883dc7ab33dae4bff6d428ed2f508">
+    <score-part id="P9">
       <part-name>sax mib</part-name>
       <part-abbreviation>sax mib</part-abbreviation>
-      <score-instrument id="Ieb1514c0ac914c64be1ec5fa9efda3bc">
+      <score-instrument id="I10">
         <instrument-name>Saxophone</instrument-name>
         <instrument-abbreviation>Sax</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="Ieb1514c0ac914c64be1ec5fa9efda3bc">
+      <midi-instrument id="I10">
         <midi-channel>1</midi-channel>
         <midi-program>66</midi-program>
       </midi-instrument>
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="P048a0b7c7561511d860b63ed3a83d1b5">
+  <part id="P1">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -1581,9 +1581,6 @@
         <duration>40320</duration>
         <type>whole</type>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 74 =========================-->
     <measure number="74">
@@ -1790,6 +1787,7 @@
         <type>half</type>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -1812,9 +1810,6 @@
         <duration>40320</duration>
         <type>whole</type>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 86 =========================-->
     <measure number="86">
@@ -1867,7 +1862,7 @@
     </measure>
   </part>
   <!--=========================== Part 2 ===========================-->
-  <part id="P2b0d68e320afecfe72b58a13c24844b9">
+  <part id="P3">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -2389,6 +2384,9 @@
         <type>eighth</type>
         <dot />
       </note>
+      <barline location="right">
+        <ending number="2" type="stop" />
+      </barline>
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
@@ -4272,8 +4270,12 @@
           <octave>4</octave>
         </pitch>
         <duration>40320</duration>
+        <tie type="start" />
         <type>whole</type>
         <accidental>sharp</accidental>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -4282,7 +4284,11 @@
           <octave>5</octave>
         </pitch>
         <duration>40320</duration>
+        <tie type="start" />
         <type>whole</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 72 =========================-->
@@ -4294,8 +4300,12 @@
           <octave>4</octave>
         </pitch>
         <duration>40320</duration>
+        <tie type="stop" />
         <type>whole</type>
         <accidental>sharp</accidental>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -4304,7 +4314,11 @@
           <octave>5</octave>
         </pitch>
         <duration>40320</duration>
+        <tie type="stop" />
         <type>whole</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 73 =========================-->
@@ -4323,9 +4337,6 @@
         <duration>40320</duration>
         <type>whole</type>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 74 =========================-->
     <measure number="74">
@@ -4900,6 +4911,7 @@
         <type>quarter</type>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -4926,9 +4938,6 @@
           <tied type="start" />
         </notations>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 86 =========================-->
     <measure number="86">
@@ -4979,7 +4988,7 @@
     </measure>
   </part>
   <!--=========================== Part 3 ===========================-->
-  <part id="P07deb97184bf5d02a2c5320ae7fb42f9">
+  <part id="P5">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -5098,6 +5107,9 @@
         <duration>40320</duration>
         <type>whole</type>
       </note>
+      <barline location="right">
+        <ending number="2" type="stop" />
+      </barline>
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
@@ -7180,9 +7192,6 @@
         <duration>40320</duration>
         <type>whole</type>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 74 =========================-->
     <measure number="74">
@@ -7357,6 +7366,7 @@
         <type>quarter</type>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -7408,9 +7418,6 @@
         <duration>20160</duration>
         <type>half</type>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 86 =========================-->
     <measure number="86">
@@ -7544,7 +7551,7 @@
     </measure>
   </part>
   <!--=========================== Part 4 ===========================-->
-  <part id="Pe685515f738d8d6d66fdf181503ef2e1">
+  <part id="P7">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -8275,6 +8282,9 @@
         <duration>5040</duration>
         <type>eighth</type>
       </note>
+      <barline location="right">
+        <ending number="2" type="stop" />
+      </barline>
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
@@ -11629,9 +11639,6 @@
         <duration>5040</duration>
         <type>eighth</type>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 74 =========================-->
     <measure number="74">
@@ -12295,6 +12302,7 @@
         </notations>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -12382,9 +12390,6 @@
         <duration>20160</duration>
         <type>half</type>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 86 =========================-->
     <measure number="86">
@@ -12626,7 +12631,7 @@
     </measure>
   </part>
   <!--=========================== Part 5 ===========================-->
-  <part id="P21a883dc7ab33dae4bff6d428ed2f508">
+  <part id="P9">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -13165,6 +13170,9 @@
         <type>eighth</type>
         <dot />
       </note>
+      <barline location="right">
+        <ending number="2" type="stop" />
+      </barline>
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
@@ -15097,8 +15105,12 @@
           <octave>4</octave>
         </pitch>
         <duration>40320</duration>
+        <tie type="start" />
         <type>whole</type>
         <accidental>sharp</accidental>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -15107,7 +15119,11 @@
           <octave>4</octave>
         </pitch>
         <duration>40320</duration>
+        <tie type="start" />
         <type>whole</type>
+        <notations>
+          <tied type="start" />
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 72 =========================-->
@@ -15119,8 +15135,12 @@
           <octave>4</octave>
         </pitch>
         <duration>40320</duration>
+        <tie type="stop" />
         <type>whole</type>
         <accidental>sharp</accidental>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
       <note>
         <chord />
@@ -15129,7 +15149,11 @@
           <octave>4</octave>
         </pitch>
         <duration>40320</duration>
+        <tie type="stop" />
         <type>whole</type>
+        <notations>
+          <tied type="stop" />
+        </notations>
       </note>
     </measure>
     <!--========================= Measure 73 =========================-->
@@ -15148,9 +15172,6 @@
         <duration>40320</duration>
         <type>whole</type>
       </note>
-      <barline location="right">
-        <ending number="1" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 74 =========================-->
     <measure number="74">
@@ -15739,6 +15760,7 @@
         <type>quarter</type>
       </note>
       <barline location="right">
+        <ending number="1" type="stop" />
         <repeat direction="backward" />
       </barline>
     </measure>
@@ -15746,7 +15768,6 @@
     <measure number="85">
       <barline location="left">
         <bar-style>regular</bar-style>
-        <ending number="2" type="start" />
       </barline>
       <direction>
         <direction-type>
@@ -15765,9 +15786,6 @@
           <tied type="start" />
         </notations>
       </note>
-      <barline location="right">
-        <ending number="2" type="stop" />
-      </barline>
     </measure>
     <!--========================= Measure 86 =========================-->
     <measure number="86">

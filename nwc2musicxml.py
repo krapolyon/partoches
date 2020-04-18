@@ -2,6 +2,7 @@ import glob
 import os
 import sys
 from music21 import converter
+from music21 import instrument
 
 if len(sys.argv) != 3:
     print("""
@@ -23,6 +24,7 @@ for f in original_files:
     print(f)
     try:
         f = os.path.abspath(f)
+        instrument._ID = 0
         c = converter.parse(f)
     except Exception:
         failed_files.append(f)
