@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-19</encoding-date>
+      <encoding-date>2020-04-20</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -28897,8 +28897,17 @@
         <type>half</type>
         <dot />
       </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
       <backup>
-        <duration>30240</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <pitch>
@@ -28978,21 +28987,6 @@
         <type>eighth</type>
         <beam number="1">end</beam>
       </note>
-      <backup>
-        <duration>30240</duration>
-      </backup>
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>10080</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-      </note>
-      <backup>
-        <duration>10080</duration>
-      </backup>
       <note>
         <pitch>
           <step>D</step>
@@ -29383,8 +29377,17 @@
         <type>half</type>
         <dot />
       </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+      </note>
       <backup>
-        <duration>30240</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <pitch>
@@ -29464,21 +29467,6 @@
         <type>eighth</type>
         <beam number="1">end</beam>
       </note>
-      <backup>
-        <duration>30240</duration>
-      </backup>
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>10080</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-      </note>
-      <backup>
-        <duration>10080</duration>
-      </backup>
       <note>
         <pitch>
           <step>D</step>

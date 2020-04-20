@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-18</encoding-date>
+      <encoding-date>2020-04-20</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -17886,21 +17886,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>flat</accidental>
-      </note>
-      <backup>
-        <duration>5040</duration>
-      </backup>
-      <note>
-        <pitch>
-          <step>E</step>
-          <alter>-1</alter>
-          <octave>5</octave>
-        </pitch>
-        <duration>30240</duration>
-        <voice>2</voice>
-        <type>half</type>
-        <dot />
-        <accidental>flat</accidental>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -17909,9 +17895,10 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
-        <voice>2</voice>
+        <voice>1</voice>
         <type>eighth</type>
         <accidental>flat</accidental>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -17920,9 +17907,10 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
-        <voice>2</voice>
+        <voice>1</voice>
         <type>eighth</type>
         <accidental>flat</accidental>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -17932,9 +17920,10 @@
         </pitch>
         <duration>5040</duration>
         <tie type="start" />
-        <voice>2</voice>
+        <voice>1</voice>
         <type>eighth</type>
         <accidental>flat</accidental>
+        <beam number="1">end</beam>
         <notations>
           <tied type="start" />
         </notations>
@@ -17947,9 +17936,10 @@
         </pitch>
         <duration>5040</duration>
         <tie type="stop" />
-        <voice>2</voice>
+        <voice>1</voice>
         <type>eighth</type>
         <accidental>flat</accidental>
+        <beam number="1">begin</beam>
         <notations>
           <tied type="stop" />
         </notations>
@@ -17960,8 +17950,24 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
-        <voice>2</voice>
+        <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">end</beam>
+      </note>
+      <backup>
+        <duration>30240</duration>
+      </backup>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>30240</duration>
+        <voice>2</voice>
+        <type>half</type>
+        <dot />
+        <accidental>flat</accidental>
       </note>
     </measure>
     <!--========================= Measure 89 =========================-->
