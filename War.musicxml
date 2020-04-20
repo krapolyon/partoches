@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-18</encoding-date>
+      <encoding-date>2020-04-20</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -510,9 +510,9 @@
     </measure>
     <!--========================= Measure 8 ==========================-->
     <measure number="8">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 1</words>
+          <words enclosure="none">Haut bas 1</words>
         </direction-type>
       </direction>
       <note>
@@ -1174,9 +1174,9 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 1</words>
+          <words enclosure="none">Gauche droite 1</words>
         </direction-type>
       </direction>
       <note>
@@ -1779,9 +1779,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 2</words>
+          <words enclosure="none">Haut bas 2</words>
         </direction-type>
       </direction>
       <note>
@@ -1951,9 +1951,9 @@
     </measure>
     <!--========================= Measure 32 =========================-->
     <measure number="32">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 2 Solos</words>
+          <words enclosure="none">Gauche droite 2 Solos</words>
         </direction-type>
       </direction>
       <note>
@@ -2127,9 +2127,9 @@
     </measure>
     <!--========================= Measure 44 =========================-->
     <measure number="44">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 3</words>
+          <words enclosure="none">Haut bas 3</words>
         </direction-type>
       </direction>
       <note>
@@ -2791,9 +2791,9 @@
     </measure>
     <!--========================= Measure 52 =========================-->
     <measure number="52">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 3</words>
+          <words enclosure="none">Gauche droite 3</words>
         </direction-type>
       </direction>
       <note>
@@ -3396,9 +3396,9 @@
     </measure>
     <!--========================= Measure 60 =========================-->
     <measure number="60">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 4</words>
+          <words enclosure="none">Haut bas 4</words>
         </direction-type>
       </direction>
       <note>
@@ -3593,9 +3593,9 @@
     </measure>
     <!--========================= Measure 68 =========================-->
     <measure number="68">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Personne ne bouge</words>
+          <words enclosure="none">Personne ne bouge</words>
         </direction-type>
       </direction>
       <note>
@@ -4727,9 +4727,9 @@
     </measure>
     <!--========================= Measure 8 ==========================-->
     <measure number="8">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 1</words>
+          <words enclosure="none">Haut bas 1</words>
         </direction-type>
       </direction>
       <note>
@@ -4858,9 +4858,9 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 1</words>
+          <words enclosure="none">Gauche droite 1</words>
         </direction-type>
       </direction>
       <note>
@@ -5441,9 +5441,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 2</words>
+          <words enclosure="none">Haut bas 2</words>
         </direction-type>
       </direction>
       <note>
@@ -5704,9 +5704,9 @@
     </measure>
     <!--========================= Measure 32 =========================-->
     <measure number="32">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 2 Solos</words>
+          <words enclosure="none">Gauche droite 2 Solos</words>
         </direction-type>
       </direction>
       <note>
@@ -7005,9 +7005,9 @@
     </measure>
     <!--========================= Measure 44 =========================-->
     <measure number="44">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 3</words>
+          <words enclosure="none">Haut bas 3</words>
         </direction-type>
       </direction>
       <note>
@@ -7136,9 +7136,9 @@
     </measure>
     <!--========================= Measure 52 =========================-->
     <measure number="52">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 3</words>
+          <words enclosure="none">Gauche droite 3</words>
         </direction-type>
       </direction>
       <note>
@@ -7719,9 +7719,9 @@
     </measure>
     <!--========================= Measure 60 =========================-->
     <measure number="60">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 4</words>
+          <words enclosure="none">Haut bas 4</words>
         </direction-type>
       </direction>
       <note>
@@ -7982,9 +7982,9 @@
     </measure>
     <!--========================= Measure 68 =========================-->
     <measure number="68">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Personne ne bouge</words>
+          <words enclosure="none">Personne ne bouge</words>
         </direction-type>
       </direction>
       <note>
@@ -9365,9 +9365,9 @@
     </measure>
     <!--========================= Measure 8 ==========================-->
     <measure number="8">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 1</words>
+          <words enclosure="none">Haut bas 1</words>
         </direction-type>
       </direction>
       <note>
@@ -9512,9 +9512,9 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 1</words>
+          <words enclosure="none">Gauche droite 1</words>
         </direction-type>
       </direction>
       <note>
@@ -10231,9 +10231,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 2</words>
+          <words enclosure="none">Haut bas 2</words>
         </direction-type>
       </direction>
       <note>
@@ -10635,9 +10635,9 @@
     </measure>
     <!--========================= Measure 32 =========================-->
     <measure number="32">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 2</words>
+          <words enclosure="none">Gauche droite 2</words>
         </direction-type>
       </direction>
       <note>
@@ -12032,9 +12032,9 @@
     </measure>
     <!--========================= Measure 44 =========================-->
     <measure number="44">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 3</words>
+          <words enclosure="none">Haut bas 3</words>
         </direction-type>
       </direction>
       <note>
@@ -12430,9 +12430,9 @@
     </measure>
     <!--========================= Measure 52 =========================-->
     <measure number="52">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 3</words>
+          <words enclosure="none">Gauche droite 3</words>
         </direction-type>
       </direction>
       <note>
@@ -13149,9 +13149,9 @@
     </measure>
     <!--========================= Measure 60 =========================-->
     <measure number="60">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 4</words>
+          <words enclosure="none">Haut bas 4</words>
         </direction-type>
       </direction>
       <note>
@@ -13553,9 +13553,9 @@
     </measure>
     <!--========================= Measure 68 =========================-->
     <measure number="68">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Personne ne bouge</words>
+          <words enclosure="none">Personne ne bouge</words>
         </direction-type>
       </direction>
       <note>
@@ -14734,9 +14734,9 @@
     </measure>
     <!--========================= Measure 8 ==========================-->
     <measure number="8">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 1</words>
+          <words enclosure="none">Haut bas 1</words>
         </direction-type>
       </direction>
       <note>
@@ -14861,9 +14861,9 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 1</words>
+          <words enclosure="none">Gauche droite 1</words>
         </direction-type>
       </direction>
       <note>
@@ -15444,9 +15444,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 2</words>
+          <words enclosure="none">Haut bas 2</words>
         </direction-type>
       </direction>
       <note>
@@ -15984,9 +15984,9 @@
     </measure>
     <!--========================= Measure 32 =========================-->
     <measure number="32">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 2 Solos</words>
+          <words enclosure="none">Gauche droite 2 Solos</words>
         </direction-type>
       </direction>
       <note>
@@ -17345,9 +17345,9 @@
     </measure>
     <!--========================= Measure 44 =========================-->
     <measure number="44">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 3</words>
+          <words enclosure="none">Haut bas 3</words>
         </direction-type>
       </direction>
       <note>
@@ -17472,9 +17472,9 @@
     </measure>
     <!--========================= Measure 52 =========================-->
     <measure number="52">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 3</words>
+          <words enclosure="none">Gauche droite 3</words>
         </direction-type>
       </direction>
       <note>
@@ -18055,9 +18055,9 @@
     </measure>
     <!--========================= Measure 60 =========================-->
     <measure number="60">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 4</words>
+          <words enclosure="none">Haut bas 4</words>
         </direction-type>
       </direction>
       <note>
@@ -18595,9 +18595,9 @@
     </measure>
     <!--========================= Measure 68 =========================-->
     <measure number="68">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Personne ne bouge</words>
+          <words enclosure="none">Personne ne bouge</words>
         </direction-type>
       </direction>
       <note>
@@ -19217,9 +19217,9 @@
     </measure>
     <!--========================= Measure 8 ==========================-->
     <measure number="8">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 1</words>
+          <words enclosure="none">Haut bas 1</words>
         </direction-type>
       </direction>
       <note>
@@ -19326,9 +19326,9 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 1</words>
+          <words enclosure="none">Gauche droite 1</words>
         </direction-type>
       </direction>
       <note>
@@ -20039,9 +20039,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 2</words>
+          <words enclosure="none">Haut bas 2</words>
         </direction-type>
       </direction>
       <note>
@@ -20530,9 +20530,9 @@
     </measure>
     <!--========================= Measure 32 =========================-->
     <measure number="32">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 2 Solos</words>
+          <words enclosure="none">Gauche droite 2 Solos</words>
         </direction-type>
       </direction>
       <note>
@@ -21331,9 +21331,9 @@
     </measure>
     <!--========================= Measure 44 =========================-->
     <measure number="44">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 3</words>
+          <words enclosure="none">Haut bas 3</words>
         </direction-type>
       </direction>
       <note>
@@ -21631,9 +21631,9 @@
     </measure>
     <!--========================= Measure 52 =========================-->
     <measure number="52">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 3</words>
+          <words enclosure="none">Gauche droite 3</words>
         </direction-type>
       </direction>
       <note>
@@ -22344,9 +22344,9 @@
     </measure>
     <!--========================= Measure 60 =========================-->
     <measure number="60">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 4</words>
+          <words enclosure="none">Haut bas 4</words>
         </direction-type>
       </direction>
       <note>
@@ -22835,9 +22835,9 @@
     </measure>
     <!--========================= Measure 68 =========================-->
     <measure number="68">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Personne ne bouge</words>
+          <words enclosure="none">Personne ne bouge</words>
         </direction-type>
       </direction>
       <note>
@@ -23717,9 +23717,9 @@
     </measure>
     <!--========================= Measure 8 ==========================-->
     <measure number="8">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 1</words>
+          <words enclosure="none">Haut bas 1</words>
         </direction-type>
       </direction>
       <note>
@@ -23846,9 +23846,9 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 1</words>
+          <words enclosure="none">Gauche droite 1</words>
         </direction-type>
       </direction>
       <note>
@@ -24413,9 +24413,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 2</words>
+          <words enclosure="none">Haut bas 2</words>
         </direction-type>
       </direction>
       <note>
@@ -24672,9 +24672,9 @@
     </measure>
     <!--========================= Measure 32 =========================-->
     <measure number="32">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 2 Solos</words>
+          <words enclosure="none">Gauche droite 2 Solos</words>
         </direction-type>
       </direction>
       <note>
@@ -25973,9 +25973,9 @@
     </measure>
     <!--========================= Measure 44 =========================-->
     <measure number="44">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 3</words>
+          <words enclosure="none">Haut bas 3</words>
         </direction-type>
       </direction>
       <note>
@@ -26102,9 +26102,9 @@
     </measure>
     <!--========================= Measure 52 =========================-->
     <measure number="52">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Gauche droite 3</words>
+          <words enclosure="none">Gauche droite 3</words>
         </direction-type>
       </direction>
       <note>
@@ -26669,9 +26669,9 @@
     </measure>
     <!--========================= Measure 60 =========================-->
     <measure number="60">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Haut bas 4</words>
+          <words enclosure="none">Haut bas 4</words>
         </direction-type>
       </direction>
       <note>
@@ -26928,9 +26928,9 @@
     </measure>
     <!--========================= Measure 68 =========================-->
     <measure number="68">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Personne ne bouge</words>
+          <words enclosure="none">Personne ne bouge</words>
         </direction-type>
       </direction>
       <note>

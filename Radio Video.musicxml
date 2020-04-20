@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-18</encoding-date>
+      <encoding-date>2020-04-20</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -533,9 +533,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">INTRO</words>
+          <words enclosure="none">INTRO</words>
         </direction-type>
       </direction>
       <note>
@@ -666,9 +666,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">BOURRIN !</words>
+          <words enclosure="none">BOURRIN !</words>
         </direction-type>
       </direction>
       <note>
@@ -1363,9 +1363,9 @@
     </measure>
     <!--========================= Measure 33 =========================-->
     <measure number="33">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">SKA</words>
+          <words enclosure="none">SKA</words>
         </direction-type>
       </direction>
       <note>
@@ -2294,9 +2294,9 @@
     </measure>
     <!--========================= Measure 53 =========================-->
     <measure number="53">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">BOURRIN AVEC NUANCE</words>
+          <words enclosure="none">BOURRIN AVEC NUANCE</words>
         </direction-type>
       </direction>
       <note>
@@ -2663,9 +2663,9 @@
     </measure>
     <!--========================= Measure 61 =========================-->
     <measure number="61">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">REGGAE</words>
+          <words enclosure="none">REGGAE</words>
         </direction-type>
       </direction>
       <note>
@@ -3007,9 +3007,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">SOLO TROMBONE + Accélération</words>
+          <words enclosure="none">SOLO TROMBONE + Accélération</words>
         </direction-type>
       </direction>
       <note>
@@ -3105,9 +3105,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">LALALA LA</words>
+          <words enclosure="none">LALALA LA</words>
         </direction-type>
       </direction>
       <note>
@@ -3677,9 +3677,9 @@
     </measure>
     <!--========================= Measure 85 =========================-->
     <measure number="85">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">A DONF !!!</words>
+          <words enclosure="none">A DONF !!!</words>
         </direction-type>
       </direction>
       <note>
@@ -3933,9 +3933,9 @@
     </measure>
     <!--========================= Measure 97 =========================-->
     <measure number="97">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">BOURRIN FINAL</words>
+          <words enclosure="none">BOURRIN FINAL</words>
         </direction-type>
       </direction>
       <note>
@@ -4251,9 +4251,9 @@
     </measure>
     <!--======================== Measure 104 =========================-->
     <measure number="104">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">WHOUHHHHH</words>
+          <words enclosure="none">WHOUHHHHH</words>
         </direction-type>
       </direction>
       <note>
@@ -4698,9 +4698,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">INTRO</words>
+          <words enclosure="none">INTRO</words>
         </direction-type>
       </direction>
       <note>
@@ -4902,9 +4902,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">BOURRIN !</words>
+          <words enclosure="none">BOURRIN !</words>
         </direction-type>
       </direction>
       <note>
@@ -5602,9 +5602,9 @@
     </measure>
     <!--========================= Measure 33 =========================-->
     <measure number="33">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">SKA</words>
+          <words enclosure="none">SKA</words>
         </direction-type>
       </direction>
       <note>
@@ -6308,9 +6308,9 @@
     </measure>
     <!--========================= Measure 53 =========================-->
     <measure number="53">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">BOURRIN AVEC NUANCE</words>
+          <words enclosure="none">BOURRIN AVEC NUANCE</words>
         </direction-type>
       </direction>
       <note>
@@ -6519,9 +6519,9 @@
     </measure>
     <!--========================= Measure 61 =========================-->
     <measure number="61">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">REGGAE</words>
+          <words enclosure="none">REGGAE</words>
         </direction-type>
       </direction>
       <note>
@@ -6847,9 +6847,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="below">
         <direction-type>
-          <words enclosure="none" relative-y="20">SOLO TROMBONE + Accélération</words>
+          <words enclosure="none">SOLO TROMBONE + Accélération</words>
         </direction-type>
       </direction>
       <note>
@@ -7420,9 +7420,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">LALALA LA</words>
+          <words enclosure="none">LALALA LA</words>
         </direction-type>
       </direction>
       <note>
@@ -8153,9 +8153,9 @@
     </measure>
     <!--========================= Measure 85 =========================-->
     <measure number="85">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">A DONF !!!</words>
+          <words enclosure="none">A DONF !!!</words>
         </direction-type>
       </direction>
       <note>
@@ -8554,9 +8554,9 @@
     </measure>
     <!--========================= Measure 97 =========================-->
     <measure number="97">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">BOURRIN FINAL</words>
+          <words enclosure="none">BOURRIN FINAL</words>
         </direction-type>
       </direction>
       <note>
@@ -8872,9 +8872,9 @@
     </measure>
     <!--======================== Measure 104 =========================-->
     <measure number="104">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">WHOUHHHHH</words>
+          <words enclosure="none">WHOUHHHHH</words>
         </direction-type>
       </direction>
       <note>
@@ -9309,9 +9309,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">INTRO</words>
+          <words enclosure="none">INTRO</words>
         </direction-type>
       </direction>
       <note>
@@ -10042,9 +10042,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">BOURRIN !</words>
+          <words enclosure="none">BOURRIN !</words>
         </direction-type>
       </direction>
       <note>
@@ -10913,9 +10913,9 @@
     </measure>
     <!--========================= Measure 33 =========================-->
     <measure number="33">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">SKA</words>
+          <words enclosure="none">SKA</words>
         </direction-type>
       </direction>
       <note>
@@ -11790,9 +11790,9 @@
     </measure>
     <!--========================= Measure 53 =========================-->
     <measure number="53">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">BOURRIN AVEC NUANCE</words>
+          <words enclosure="none">BOURRIN AVEC NUANCE</words>
         </direction-type>
       </direction>
       <note>
@@ -12187,9 +12187,9 @@
     </measure>
     <!--========================= Measure 61 =========================-->
     <measure number="61">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">REGGAE</words>
+          <words enclosure="none">REGGAE</words>
         </direction-type>
       </direction>
       <note>
@@ -12752,9 +12752,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">SOLO TROMBONE + Accélération</words>
+          <words enclosure="none">SOLO TROMBONE + Accélération</words>
         </direction-type>
       </direction>
       <note>
@@ -13243,9 +13243,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">LALALA LA</words>
+          <words enclosure="none">LALALA LA</words>
         </direction-type>
       </direction>
       <note>
@@ -13784,9 +13784,9 @@
     </measure>
     <!--========================= Measure 85 =========================-->
     <measure number="85">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">A DONF !!!</words>
+          <words enclosure="none">A DONF !!!</words>
         </direction-type>
       </direction>
       <note>
@@ -14437,9 +14437,9 @@
     </measure>
     <!--========================= Measure 97 =========================-->
     <measure number="97">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">BOURRIN FINAL</words>
+          <words enclosure="none">BOURRIN FINAL</words>
         </direction-type>
       </direction>
       <note>
@@ -14819,9 +14819,9 @@
     </measure>
     <!--======================== Measure 104 =========================-->
     <measure number="104">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">WHOUHHHHH on fait de la merde</words>
+          <words enclosure="none">WHOUHHHHH on fait de la merde</words>
         </direction-type>
       </direction>
       <note>
@@ -17688,9 +17688,9 @@
     </measure>
     <!--========================= Measure 33 =========================-->
     <measure number="33">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">SKA</words>
+          <words enclosure="none">SKA</words>
         </direction-type>
       </direction>
       <note>
@@ -26708,9 +26708,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">INTRO</words>
+          <words enclosure="none">INTRO</words>
         </direction-type>
       </direction>
       <note>
@@ -27481,9 +27481,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">BOURRIN !</words>
+          <words enclosure="none">BOURRIN !</words>
         </direction-type>
       </direction>
       <note>
@@ -28296,9 +28296,9 @@
     </measure>
     <!--========================= Measure 33 =========================-->
     <measure number="33">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">SKA</words>
+          <words enclosure="none">SKA</words>
         </direction-type>
       </direction>
       <note>
@@ -29217,9 +29217,9 @@
     </measure>
     <!--========================= Measure 53 =========================-->
     <measure number="53">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">BOURRIN AVEC NUANCE</words>
+          <words enclosure="none">BOURRIN AVEC NUANCE</words>
         </direction-type>
       </direction>
       <note>
@@ -29572,9 +29572,9 @@
     </measure>
     <!--========================= Measure 61 =========================-->
     <measure number="61">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">REGGAE</words>
+          <words enclosure="none">REGGAE</words>
         </direction-type>
       </direction>
       <note>
@@ -30161,9 +30161,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">SOLO TROMBONE + Accélération</words>
+          <words enclosure="none">SOLO TROMBONE + Accélération</words>
         </direction-type>
       </direction>
       <note>
@@ -30750,9 +30750,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">LALALA LA</words>
+          <words enclosure="none">LALALA LA</words>
         </direction-type>
       </direction>
       <note>
@@ -31171,9 +31171,9 @@
     </measure>
     <!--========================= Measure 85 =========================-->
     <measure number="85">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">A DONF !!!</words>
+          <words enclosure="none">A DONF !!!</words>
         </direction-type>
       </direction>
       <note>
@@ -31764,9 +31764,9 @@
     </measure>
     <!--========================= Measure 97 =========================-->
     <measure number="97">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">BOURRIN FINAL</words>
+          <words enclosure="none">BOURRIN FINAL</words>
         </direction-type>
       </direction>
       <note>
@@ -32237,9 +32237,9 @@
     </measure>
     <!--======================== Measure 104 =========================-->
     <measure number="104">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">WHOUHHHHH on fait de la merde</words>
+          <words enclosure="none">WHOUHHHHH on fait de la merde</words>
         </direction-type>
       </direction>
       <note>
@@ -32911,9 +32911,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">INTRO</words>
+          <words enclosure="none">INTRO</words>
         </direction-type>
       </direction>
       <note>
@@ -33119,9 +33119,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">BOURRIN !</words>
+          <words enclosure="none">BOURRIN !</words>
         </direction-type>
       </direction>
       <note>
@@ -33820,9 +33820,9 @@
     </measure>
     <!--========================= Measure 33 =========================-->
     <measure number="33">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">SKA</words>
+          <words enclosure="none">SKA</words>
         </direction-type>
       </direction>
       <note>
@@ -34538,9 +34538,9 @@
     </measure>
     <!--========================= Measure 53 =========================-->
     <measure number="53">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">BOURRIN AVEC NUANCE</words>
+          <words enclosure="none">BOURRIN AVEC NUANCE</words>
         </direction-type>
       </direction>
       <note>
@@ -34750,9 +34750,9 @@
     </measure>
     <!--========================= Measure 61 =========================-->
     <measure number="61">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">REGGAE</words>
+          <words enclosure="none">REGGAE</words>
         </direction-type>
       </direction>
       <note>
@@ -35078,9 +35078,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">SOLO TROMBONE + Accélération</words>
+          <words enclosure="none">SOLO TROMBONE + Accélération</words>
         </direction-type>
       </direction>
       <note>
@@ -35651,9 +35651,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">LALALA LA</words>
+          <words enclosure="none">LALALA LA</words>
         </direction-type>
       </direction>
       <note>
@@ -36400,9 +36400,9 @@
     </measure>
     <!--========================= Measure 85 =========================-->
     <measure number="85">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">A DONF !!!</words>
+          <words enclosure="none">A DONF !!!</words>
         </direction-type>
       </direction>
       <note>
@@ -36810,9 +36810,9 @@
     </measure>
     <!--========================= Measure 97 =========================-->
     <measure number="97">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">BOURRIN FINAL</words>
+          <words enclosure="none">BOURRIN FINAL</words>
         </direction-type>
       </direction>
       <note>
@@ -37132,9 +37132,9 @@
     </measure>
     <!--======================== Measure 104 =========================-->
     <measure number="104">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">WHOUHHHHH</words>
+          <words enclosure="none">WHOUHHHHH</words>
         </direction-type>
       </direction>
       <note>

@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-18</encoding-date>
+      <encoding-date>2020-04-20</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -114,9 +114,9 @@
           <chromatic>-2</chromatic>
         </transpose>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">French Open</words>
+          <words enclosure="none">French Open</words>
         </direction-type>
       </direction>
       <note>
@@ -133,9 +133,9 @@
     </measure>
     <!--========================= Measure 2 ==========================-->
     <measure number="2">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff lent</words>
+          <words enclosure="none">Riff lent</words>
         </direction-type>
       </direction>
       <note>
@@ -310,9 +310,9 @@
     </measure>
     <!--========================= Measure 10 =========================-->
     <measure number="10">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Tempo x2</words>
+          <words enclosure="none">Tempo x2</words>
         </direction-type>
       </direction>
       <note>
@@ -371,9 +371,9 @@
     </measure>
     <!--========================= Measure 18 =========================-->
     <measure number="18">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff n°1</words>
+          <words enclosure="none">Riff n°1</words>
         </direction-type>
       </direction>
       <note>
@@ -832,9 +832,9 @@
     </measure>
     <!--========================= Measure 26 =========================-->
     <measure number="26">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff n°2</words>
+          <words enclosure="none">Riff n°2</words>
         </direction-type>
       </direction>
       <note>
@@ -1250,9 +1250,9 @@
     </measure>
     <!--========================= Measure 42 =========================-->
     <measure number="42">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition Hummer</words>
+          <words enclosure="none">Transition Hummer</words>
         </direction-type>
       </direction>
       <note>
@@ -1601,9 +1601,9 @@
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Hummer</words>
+          <words enclosure="none">Hummer</words>
         </direction-type>
       </direction>
       <note>
@@ -1834,9 +1834,9 @@
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée Sax</words>
+          <words enclosure="none">Entrée Sax</words>
         </direction-type>
       </direction>
       <note>
@@ -2197,9 +2197,9 @@
     </measure>
     <!--========================= Measure 66 =========================-->
     <measure number="66">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition Cassius</words>
+          <words enclosure="none">Transition Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -2758,9 +2758,9 @@
     </measure>
     <!--========================= Measure 74 =========================-->
     <measure number="74">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Cassius</words>
+          <words enclosure="none">Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -2819,9 +2819,9 @@
     </measure>
     <!--========================= Measure 82 =========================-->
     <measure number="82">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont Cassius</words>
+          <words enclosure="none">Pont Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -3620,9 +3620,9 @@
     </measure>
     <!--========================= Measure 94 =========================-->
     <measure number="94">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -4076,9 +4076,9 @@
     </measure>
     <!--======================== Measure 102 =========================-->
     <measure number="102">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Final</words>
+          <words enclosure="none">Refrain Final</words>
         </direction-type>
       </direction>
       <note>
@@ -4652,9 +4652,9 @@
           <octave-change>-1</octave-change>
         </transpose>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">French Open</words>
+          <words enclosure="none">French Open</words>
         </direction-type>
       </direction>
       <note>
@@ -4671,9 +4671,9 @@
     </measure>
     <!--========================= Measure 2 ==========================-->
     <measure number="2">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff lent</words>
+          <words enclosure="none">Riff lent</words>
         </direction-type>
       </direction>
       <note>
@@ -5932,9 +5932,9 @@
     </measure>
     <!--========================= Measure 10 =========================-->
     <measure number="10">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Tempo x2</words>
+          <words enclosure="none">Tempo x2</words>
         </direction-type>
       </direction>
       <note>
@@ -6293,9 +6293,9 @@
     </measure>
     <!--========================= Measure 18 =========================-->
     <measure number="18">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff n°1</words>
+          <words enclosure="none">Riff n°1</words>
         </direction-type>
       </direction>
       <note>
@@ -6855,9 +6855,9 @@
     </measure>
     <!--========================= Measure 26 =========================-->
     <measure number="26">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff n°2</words>
+          <words enclosure="none">Riff n°2</words>
         </direction-type>
       </direction>
       <note>
@@ -7564,9 +7564,9 @@
     </measure>
     <!--========================= Measure 42 =========================-->
     <measure number="42">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition Hummer</words>
+          <words enclosure="none">Transition Hummer</words>
         </direction-type>
       </direction>
       <note>
@@ -8481,9 +8481,9 @@
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Hummer</words>
+          <words enclosure="none">Hummer</words>
         </direction-type>
       </direction>
       <note>
@@ -8757,9 +8757,9 @@
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée Sax</words>
+          <words enclosure="none">Entrée Sax</words>
         </direction-type>
       </direction>
       <note>
@@ -9072,9 +9072,9 @@
     </measure>
     <!--========================= Measure 66 =========================-->
     <measure number="66">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition Cassius</words>
+          <words enclosure="none">Transition Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -9442,9 +9442,9 @@
     </measure>
     <!--========================= Measure 74 =========================-->
     <measure number="74">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Cassius</words>
+          <words enclosure="none">Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -9943,9 +9943,9 @@
     </measure>
     <!--========================= Measure 82 =========================-->
     <measure number="82">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont Cassius</words>
+          <words enclosure="none">Pont Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -10692,9 +10692,9 @@
     </measure>
     <!--========================= Measure 94 =========================-->
     <measure number="94">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -11197,9 +11197,9 @@
     </measure>
     <!--======================== Measure 102 =========================-->
     <measure number="102">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Final</words>
+          <words enclosure="none">Refrain Final</words>
         </direction-type>
       </direction>
       <note>
@@ -11764,9 +11764,9 @@
           <octave-change>-1</octave-change>
         </transpose>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">French Open</words>
+          <words enclosure="none">French Open</words>
         </direction-type>
       </direction>
       <note>
@@ -11783,9 +11783,9 @@
     </measure>
     <!--========================= Measure 2 ==========================-->
     <measure number="2">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff lent</words>
+          <words enclosure="none">Riff lent</words>
         </direction-type>
       </direction>
       <note>
@@ -12258,9 +12258,9 @@
     </measure>
     <!--========================= Measure 10 =========================-->
     <measure number="10">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Tempo x2</words>
+          <words enclosure="none">Tempo x2</words>
         </direction-type>
       </direction>
       <note>
@@ -12831,9 +12831,9 @@
     </measure>
     <!--========================= Measure 18 =========================-->
     <measure number="18">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff n°1</words>
+          <words enclosure="none">Riff n°1</words>
         </direction-type>
       </direction>
       <note>
@@ -13296,9 +13296,9 @@
     </measure>
     <!--========================= Measure 26 =========================-->
     <measure number="26">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff n°2</words>
+          <words enclosure="none">Riff n°2</words>
         </direction-type>
       </direction>
       <note>
@@ -14437,9 +14437,9 @@
     </measure>
     <!--========================= Measure 42 =========================-->
     <measure number="42">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition Hummer</words>
+          <words enclosure="none">Transition Hummer</words>
         </direction-type>
       </direction>
       <note>
@@ -15104,9 +15104,9 @@
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Hummer</words>
+          <words enclosure="none">Hummer</words>
         </direction-type>
       </direction>
       <note>
@@ -15619,9 +15619,9 @@
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée Sax</words>
+          <words enclosure="none">Entrée Sax</words>
         </direction-type>
       </direction>
       <note>
@@ -16134,9 +16134,9 @@
     </measure>
     <!--========================= Measure 66 =========================-->
     <measure number="66">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition Cassius</words>
+          <words enclosure="none">Transition Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -16683,9 +16683,9 @@
     </measure>
     <!--========================= Measure 74 =========================-->
     <measure number="74">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Cassius</words>
+          <words enclosure="none">Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -17128,9 +17128,9 @@
     </measure>
     <!--========================= Measure 82 =========================-->
     <measure number="82">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont Cassius</words>
+          <words enclosure="none">Pont Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -17883,9 +17883,9 @@
     </measure>
     <!--========================= Measure 94 =========================-->
     <measure number="94">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -18349,9 +18349,9 @@
     </measure>
     <!--======================== Measure 102 =========================-->
     <measure number="102">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Final</words>
+          <words enclosure="none">Refrain Final</words>
         </direction-type>
       </direction>
       <note>
@@ -18417,9 +18417,9 @@
         <type>eighth</type>
         <beam number="1">begin</beam>
       </note>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Alterner 2 basses</words>
+          <words enclosure="none">Alterner 2 basses</words>
         </direction-type>
       </direction>
       <note>
@@ -19032,9 +19032,9 @@
           <octave-change>-2</octave-change>
         </transpose>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">French Open</words>
+          <words enclosure="none">French Open</words>
         </direction-type>
       </direction>
       <note>
@@ -19051,9 +19051,9 @@
     </measure>
     <!--========================= Measure 2 ==========================-->
     <measure number="2">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff lent</words>
+          <words enclosure="none">Riff lent</words>
         </direction-type>
       </direction>
       <note>
@@ -19808,9 +19808,9 @@
     </measure>
     <!--========================= Measure 10 =========================-->
     <measure number="10">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Tempo x2</words>
+          <words enclosure="none">Tempo x2</words>
         </direction-type>
       </direction>
       <note>
@@ -20246,9 +20246,9 @@
     </measure>
     <!--========================= Measure 18 =========================-->
     <measure number="18">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff n°1</words>
+          <words enclosure="none">Riff n°1</words>
         </direction-type>
       </direction>
       <note>
@@ -20884,9 +20884,9 @@
     </measure>
     <!--========================= Measure 26 =========================-->
     <measure number="26">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff n°2</words>
+          <words enclosure="none">Riff n°2</words>
         </direction-type>
       </direction>
       <note>
@@ -22029,9 +22029,9 @@
     </measure>
     <!--========================= Measure 42 =========================-->
     <measure number="42">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition Hummer</words>
+          <words enclosure="none">Transition Hummer</words>
         </direction-type>
       </direction>
       <note>
@@ -22594,9 +22594,9 @@
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Hummer</words>
+          <words enclosure="none">Hummer</words>
         </direction-type>
       </direction>
       <note>
@@ -23159,9 +23159,9 @@
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée Sax</words>
+          <words enclosure="none">Entrée Sax</words>
         </direction-type>
       </direction>
       <note>
@@ -23689,9 +23689,9 @@
     </measure>
     <!--========================= Measure 66 =========================-->
     <measure number="66">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition Cassius</words>
+          <words enclosure="none">Transition Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -24235,9 +24235,9 @@
     </measure>
     <!--========================= Measure 74 =========================-->
     <measure number="74">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Cassius</words>
+          <words enclosure="none">Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -24520,9 +24520,9 @@
     </measure>
     <!--========================= Measure 82 =========================-->
     <measure number="82">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont Cassius</words>
+          <words enclosure="none">Pont Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -25093,9 +25093,9 @@
     </measure>
     <!--========================= Measure 94 =========================-->
     <measure number="94">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -25846,9 +25846,9 @@
     </measure>
     <!--======================== Measure 102 =========================-->
     <measure number="102">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Final</words>
+          <words enclosure="none">Refrain Final</words>
         </direction-type>
       </direction>
       <note>
@@ -25914,9 +25914,9 @@
         <type>eighth</type>
         <beam number="1">begin</beam>
       </note>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Alterner 2 soubas</words>
+          <words enclosure="none">Alterner 2 soubas</words>
         </direction-type>
       </direction>
       <note>
@@ -26576,9 +26576,9 @@
           <chromatic>-9</chromatic>
         </transpose>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">French Open</words>
+          <words enclosure="none">French Open</words>
         </direction-type>
       </direction>
       <note>
@@ -26595,9 +26595,9 @@
     </measure>
     <!--========================= Measure 2 ==========================-->
     <measure number="2">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff lent</words>
+          <words enclosure="none">Riff lent</words>
         </direction-type>
       </direction>
       <note>
@@ -27344,9 +27344,9 @@
     </measure>
     <!--========================= Measure 10 =========================-->
     <measure number="10">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Tempo x2</words>
+          <words enclosure="none">Tempo x2</words>
         </direction-type>
       </direction>
       <note>
@@ -27739,9 +27739,9 @@
     </measure>
     <!--========================= Measure 18 =========================-->
     <measure number="18">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff n°1</words>
+          <words enclosure="none">Riff n°1</words>
         </direction-type>
       </direction>
       <note>
@@ -28487,9 +28487,9 @@
     </measure>
     <!--========================= Measure 26 =========================-->
     <measure number="26">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff n°2</words>
+          <words enclosure="none">Riff n°2</words>
         </direction-type>
       </direction>
       <note>
@@ -29676,9 +29676,9 @@
     </measure>
     <!--========================= Measure 42 =========================-->
     <measure number="42">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition Hummer</words>
+          <words enclosure="none">Transition Hummer</words>
         </direction-type>
       </direction>
       <note>
@@ -30307,9 +30307,9 @@
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Hummer</words>
+          <words enclosure="none">Hummer</words>
         </direction-type>
       </direction>
       <note>
@@ -31072,9 +31072,9 @@
     </measure>
     <!--========================= Measure 66 =========================-->
     <measure number="66">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition Cassius</words>
+          <words enclosure="none">Transition Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -31539,9 +31539,9 @@
     </measure>
     <!--========================= Measure 74 =========================-->
     <measure number="74">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Cassius</words>
+          <words enclosure="none">Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -32158,9 +32158,9 @@
     </measure>
     <!--========================= Measure 82 =========================-->
     <measure number="82">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont Cassius</words>
+          <words enclosure="none">Pont Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -32309,9 +32309,9 @@
     </measure>
     <!--========================= Measure 94 =========================-->
     <measure number="94">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -32671,9 +32671,9 @@
     </measure>
     <!--======================== Measure 102 =========================-->
     <measure number="102">
-      <direction>
+      <direction placement="below">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Final</words>
+          <words enclosure="none">Refrain Final</words>
         </direction-type>
       </direction>
       <note>
@@ -33951,9 +33951,9 @@
           <octave-change>-1</octave-change>
         </transpose>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">French Open</words>
+          <words enclosure="none">French Open</words>
         </direction-type>
       </direction>
       <note>
@@ -33970,9 +33970,9 @@
     </measure>
     <!--========================= Measure 2 ==========================-->
     <measure number="2">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff lent</words>
+          <words enclosure="none">Riff lent</words>
         </direction-type>
       </direction>
       <note>
@@ -34683,9 +34683,9 @@
     </measure>
     <!--========================= Measure 10 =========================-->
     <measure number="10">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Tempo x2</words>
+          <words enclosure="none">Tempo x2</words>
         </direction-type>
       </direction>
       <note>
@@ -35077,9 +35077,9 @@
     </measure>
     <!--========================= Measure 18 =========================-->
     <measure number="18">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff n°1</words>
+          <words enclosure="none">Riff n°1</words>
         </direction-type>
       </direction>
       <note>
@@ -35822,9 +35822,9 @@
     </measure>
     <!--========================= Measure 26 =========================-->
     <measure number="26">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Riff n°2</words>
+          <words enclosure="none">Riff n°2</words>
         </direction-type>
       </direction>
       <note>
@@ -36963,9 +36963,9 @@
     </measure>
     <!--========================= Measure 42 =========================-->
     <measure number="42">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition Hummer</words>
+          <words enclosure="none">Transition Hummer</words>
         </direction-type>
       </direction>
       <note>
@@ -37594,9 +37594,9 @@
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Hummer</words>
+          <words enclosure="none">Hummer</words>
         </direction-type>
       </direction>
       <note>
@@ -38439,9 +38439,9 @@
     </measure>
     <!--========================= Measure 66 =========================-->
     <measure number="66">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition Cassius</words>
+          <words enclosure="none">Transition Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -38894,9 +38894,9 @@
     </measure>
     <!--========================= Measure 74 =========================-->
     <measure number="74">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Cassius</words>
+          <words enclosure="none">Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -39504,9 +39504,9 @@
     </measure>
     <!--========================= Measure 82 =========================-->
     <measure number="82">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont Cassius</words>
+          <words enclosure="none">Pont Cassius</words>
         </direction-type>
       </direction>
       <note>
@@ -39650,9 +39650,9 @@
     </measure>
     <!--========================= Measure 94 =========================-->
     <measure number="94">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -40008,9 +40008,9 @@
     </measure>
     <!--======================== Measure 102 =========================-->
     <measure number="102">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Final</words>
+          <words enclosure="none">Refrain Final</words>
         </direction-type>
       </direction>
       <note>

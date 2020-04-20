@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-18</encoding-date>
+      <encoding-date>2020-04-20</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -147,9 +147,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -219,9 +219,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition</words>
+          <words enclosure="none">Transition</words>
         </direction-type>
       </direction>
       <note>
@@ -370,9 +370,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain soft</words>
+          <words enclosure="none">Refrain soft</words>
         </direction-type>
       </direction>
       <note>
@@ -463,9 +463,9 @@
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain pêchu</words>
+          <words enclosure="none">Refrain pêchu</words>
         </direction-type>
       </direction>
       <note>
@@ -684,9 +684,9 @@
     </measure>
     <!--========================= Measure 33 =========================-->
     <measure number="33">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro2</words>
+          <words enclosure="none">Intro2</words>
         </direction-type>
       </direction>
       <note>
@@ -785,9 +785,9 @@
     </measure>
     <!--========================= Measure 45 =========================-->
     <measure number="45">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition</words>
+          <words enclosure="none">Transition</words>
         </direction-type>
       </direction>
       <note>
@@ -928,9 +928,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain soft</words>
+          <words enclosure="none">Refrain soft</words>
         </direction-type>
       </direction>
       <note>
@@ -1066,9 +1066,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain pêchu</words>
+          <words enclosure="none">Refrain pêchu</words>
         </direction-type>
       </direction>
       <note>
@@ -1319,9 +1319,9 @@
     </measure>
     <!--========================= Measure 65 =========================-->
     <measure number="65">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont</words>
+          <words enclosure="none">Pont</words>
         </direction-type>
       </direction>
       <note>
@@ -1571,9 +1571,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro3</words>
+          <words enclosure="none">Intro3</words>
         </direction-type>
       </direction>
       <note>
@@ -1649,9 +1649,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition</words>
+          <words enclosure="none">Transition</words>
         </direction-type>
       </direction>
       <note>
@@ -1797,9 +1797,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fin</words>
+          <words enclosure="none">Fin</words>
         </direction-type>
       </direction>
       <note>
@@ -3458,9 +3458,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain soft</words>
+          <words enclosure="none">Refrain soft</words>
         </direction-type>
       </direction>
       <note>
@@ -3943,9 +3943,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain pêchu</words>
+          <words enclosure="none">Refrain pêchu</words>
         </direction-type>
       </direction>
       <note>
@@ -4192,9 +4192,9 @@
     </measure>
     <!--========================= Measure 65 =========================-->
     <measure number="65">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont</words>
+          <words enclosure="none">Pont</words>
         </direction-type>
       </direction>
       <note>
@@ -4327,9 +4327,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro3</words>
+          <words enclosure="none">Intro3</words>
         </direction-type>
       </direction>
       <note>
@@ -4636,9 +4636,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition</words>
+          <words enclosure="none">Transition</words>
         </direction-type>
       </direction>
       <note>
@@ -4921,9 +4921,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fin</words>
+          <words enclosure="none">Fin</words>
         </direction-type>
       </direction>
       <note>
@@ -6310,9 +6310,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain soft</words>
+          <words enclosure="none">Refrain soft</words>
         </direction-type>
       </direction>
       <note>
@@ -6587,9 +6587,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain pêchu</words>
+          <words enclosure="none">Refrain pêchu</words>
         </direction-type>
       </direction>
       <note>
@@ -6848,9 +6848,9 @@
     </measure>
     <!--========================= Measure 65 =========================-->
     <measure number="65">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont</words>
+          <words enclosure="none">Pont</words>
         </direction-type>
       </direction>
       <note>
@@ -7182,9 +7182,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro3</words>
+          <words enclosure="none">Intro3</words>
         </direction-type>
       </direction>
       <note>
@@ -7251,9 +7251,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition</words>
+          <words enclosure="none">Transition</words>
         </direction-type>
       </direction>
       <note>
@@ -7376,9 +7376,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fin</words>
+          <words enclosure="none">Fin</words>
         </direction-type>
       </direction>
       <note>
@@ -10072,9 +10072,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain soft</words>
+          <words enclosure="none">Refrain soft</words>
         </direction-type>
       </direction>
       <note>
@@ -10613,9 +10613,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain pêchu</words>
+          <words enclosure="none">Refrain pêchu</words>
         </direction-type>
       </direction>
       <note>
@@ -11093,9 +11093,9 @@
     </measure>
     <!--========================= Measure 65 =========================-->
     <measure number="65">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont</words>
+          <words enclosure="none">Pont</words>
         </direction-type>
       </direction>
       <note>
@@ -11578,9 +11578,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro3</words>
+          <words enclosure="none">Intro3</words>
         </direction-type>
       </direction>
       <note>
@@ -12055,9 +12055,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition</words>
+          <words enclosure="none">Transition</words>
         </direction-type>
       </direction>
       <note>
@@ -12312,9 +12312,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fin</words>
+          <words enclosure="none">Fin</words>
         </direction-type>
       </direction>
       <note>
@@ -14275,9 +14275,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain soft</words>
+          <words enclosure="none">Refrain soft</words>
         </direction-type>
       </direction>
       <note>
@@ -14776,9 +14776,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain pêchu</words>
+          <words enclosure="none">Refrain pêchu</words>
         </direction-type>
       </direction>
       <note>
@@ -15027,9 +15027,9 @@
     </measure>
     <!--========================= Measure 65 =========================-->
     <measure number="65">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont</words>
+          <words enclosure="none">Pont</words>
         </direction-type>
       </direction>
       <note>
@@ -15162,9 +15162,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro3</words>
+          <words enclosure="none">Intro3</words>
         </direction-type>
       </direction>
       <note>
@@ -15478,9 +15478,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition</words>
+          <words enclosure="none">Transition</words>
         </direction-type>
       </direction>
       <note>
@@ -15769,9 +15769,9 @@
       <barline location="left">
         <bar-style>regular</bar-style>
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fin</words>
+          <words enclosure="none">Fin</words>
         </direction-type>
       </direction>
       <note>

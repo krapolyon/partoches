@@ -121,9 +121,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -157,9 +157,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ultra disco</words>
+          <words enclosure="none">Ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -404,9 +404,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet</words>
+          <words enclosure="none">Couplet</words>
         </direction-type>
       </direction>
       <note>
@@ -468,9 +468,9 @@
     </measure>
     <!--========================= Measure 22 =========================-->
     <measure number="22">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ultra disco</words>
+          <words enclosure="none">Ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -707,9 +707,9 @@
     </measure>
     <!--========================= Measure 30 =========================-->
     <measure number="30">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet ultra disco</words>
+          <words enclosure="none">Couplet ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -1315,9 +1315,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont</words>
+          <words enclosure="none">Pont</words>
         </direction-type>
       </direction>
       <note>
@@ -1738,9 +1738,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont rythmique</words>
+          <words enclosure="none">Pont rythmique</words>
         </direction-type>
       </direction>
       <note>
@@ -2067,9 +2067,9 @@
     </measure>
     <!--========================= Measure 55 =========================-->
     <measure number="55">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20"> Couplet montée</words>
+          <words enclosure="none"> Couplet montée</words>
         </direction-type>
       </direction>
       <note>
@@ -2704,9 +2704,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Mega Refrain</words>
+          <words enclosure="none">Mega Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -3254,9 +3254,9 @@
     </measure>
     <!--========================= Measure 79 =========================-->
     <measure number="79">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Mega Refrain 2</words>
+          <words enclosure="none">Mega Refrain 2</words>
         </direction-type>
       </direction>
       <note>
@@ -3850,9 +3850,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -3902,9 +3902,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ultra disco</words>
+          <words enclosure="none">Ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -4159,9 +4159,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet</words>
+          <words enclosure="none">Couplet</words>
         </direction-type>
       </direction>
       <note>
@@ -4722,9 +4722,9 @@
     </measure>
     <!--========================= Measure 22 =========================-->
     <measure number="22">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ultra disco</words>
+          <words enclosure="none">Ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -4971,9 +4971,9 @@
     </measure>
     <!--========================= Measure 30 =========================-->
     <measure number="30">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet ultra disco</words>
+          <words enclosure="none">Couplet ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -5223,9 +5223,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont</words>
+          <words enclosure="none">Pont</words>
         </direction-type>
       </direction>
       <note>
@@ -5647,9 +5647,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont rythmique</words>
+          <words enclosure="none">Pont rythmique</words>
         </direction-type>
       </direction>
       <note>
@@ -6032,9 +6032,9 @@
     </measure>
     <!--========================= Measure 55 =========================-->
     <measure number="55">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20"> Couplet montée</words>
+          <words enclosure="none"> Couplet montée</words>
         </direction-type>
       </direction>
       <note>
@@ -7167,9 +7167,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Mega Refrain</words>
+          <words enclosure="none">Mega Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -7404,9 +7404,9 @@
     </measure>
     <!--========================= Measure 79 =========================-->
     <measure number="79">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Mega Refrain 2</words>
+          <words enclosure="none">Mega Refrain 2</words>
         </direction-type>
       </direction>
       <note>
@@ -8010,9 +8010,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -8062,9 +8062,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ultra disco</words>
+          <words enclosure="none">Ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -8629,9 +8629,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet</words>
+          <words enclosure="none">Couplet</words>
         </direction-type>
       </direction>
       <note>
@@ -8951,9 +8951,9 @@
     </measure>
     <!--========================= Measure 22 =========================-->
     <measure number="22">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ultra disco</words>
+          <words enclosure="none">Ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -9510,9 +9510,9 @@
     </measure>
     <!--========================= Measure 30 =========================-->
     <measure number="30">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet ultra disco</words>
+          <words enclosure="none">Couplet ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -10067,9 +10067,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont</words>
+          <words enclosure="none">Pont</words>
         </direction-type>
       </direction>
       <note>
@@ -10520,9 +10520,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont rythmique</words>
+          <words enclosure="none">Pont rythmique</words>
         </direction-type>
       </direction>
       <note>
@@ -10902,9 +10902,9 @@
     </measure>
     <!--========================= Measure 55 =========================-->
     <measure number="55">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20"> Couplet montée</words>
+          <words enclosure="none"> Couplet montée</words>
         </direction-type>
       </direction>
       <note>
@@ -11492,9 +11492,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Mega Refrain</words>
+          <words enclosure="none">Mega Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -11964,9 +11964,9 @@
     </measure>
     <!--========================= Measure 79 =========================-->
     <measure number="79">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Mega Refrain 2</words>
+          <words enclosure="none">Mega Refrain 2</words>
         </direction-type>
       </direction>
       <note>
@@ -12579,9 +12579,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -12631,9 +12631,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ultra disco</words>
+          <words enclosure="none">Ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -13198,9 +13198,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet</words>
+          <words enclosure="none">Couplet</words>
         </direction-type>
       </direction>
       <note>
@@ -13527,9 +13527,9 @@
     </measure>
     <!--========================= Measure 22 =========================-->
     <measure number="22">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ultra disco</words>
+          <words enclosure="none">Ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -14086,9 +14086,9 @@
     </measure>
     <!--========================= Measure 30 =========================-->
     <measure number="30">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet ultra disco</words>
+          <words enclosure="none">Couplet ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -14689,9 +14689,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont</words>
+          <words enclosure="none">Pont</words>
         </direction-type>
       </direction>
       <note>
@@ -15213,9 +15213,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont rythmique</words>
+          <words enclosure="none">Pont rythmique</words>
         </direction-type>
       </direction>
       <note>
@@ -15562,9 +15562,9 @@
     </measure>
     <!--========================= Measure 55 =========================-->
     <measure number="55">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20"> Couplet montée</words>
+          <words enclosure="none"> Couplet montée</words>
         </direction-type>
       </direction>
       <note>
@@ -16166,9 +16166,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Mega Refrain</words>
+          <words enclosure="none">Mega Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -16638,9 +16638,9 @@
     </measure>
     <!--========================= Measure 79 =========================-->
     <measure number="79">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Mega Refrain 2</words>
+          <words enclosure="none">Mega Refrain 2</words>
         </direction-type>
       </direction>
       <note>
@@ -17156,9 +17156,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -17280,9 +17280,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ultra disco</words>
+          <words enclosure="none">Ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -17826,9 +17826,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet</words>
+          <words enclosure="none">Couplet</words>
         </direction-type>
       </direction>
       <note>
@@ -18280,9 +18280,9 @@
     </measure>
     <!--========================= Measure 22 =========================-->
     <measure number="22">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ultra disco</words>
+          <words enclosure="none">Ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -18818,9 +18818,9 @@
     </measure>
     <!--========================= Measure 30 =========================-->
     <measure number="30">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet ultra disco</words>
+          <words enclosure="none">Couplet ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -19359,9 +19359,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont</words>
+          <words enclosure="none">Pont</words>
         </direction-type>
       </direction>
       <note>
@@ -20003,9 +20003,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont rythmique</words>
+          <words enclosure="none">Pont rythmique</words>
         </direction-type>
       </direction>
       <note>
@@ -20714,9 +20714,9 @@
     </measure>
     <!--========================= Measure 55 =========================-->
     <measure number="55">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20"> Couplet montée</words>
+          <words enclosure="none"> Couplet montée</words>
         </direction-type>
       </direction>
       <note>
@@ -21452,9 +21452,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Mega Refrain</words>
+          <words enclosure="none">Mega Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -22002,9 +22002,9 @@
     </measure>
     <!--========================= Measure 79 =========================-->
     <measure number="79">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Mega Refrain 2</words>
+          <words enclosure="none">Mega Refrain 2</words>
         </direction-type>
       </direction>
       <note>
@@ -22654,9 +22654,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -22706,9 +22706,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ultra disco</words>
+          <words enclosure="none">Ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -22963,9 +22963,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet</words>
+          <words enclosure="none">Couplet</words>
         </direction-type>
       </direction>
       <note>
@@ -23528,9 +23528,9 @@
     </measure>
     <!--========================= Measure 22 =========================-->
     <measure number="22">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ultra disco</words>
+          <words enclosure="none">Ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -23777,9 +23777,9 @@
     </measure>
     <!--========================= Measure 30 =========================-->
     <measure number="30">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet ultra disco</words>
+          <words enclosure="none">Couplet ultra disco</words>
         </direction-type>
       </direction>
       <note>
@@ -24029,9 +24029,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont</words>
+          <words enclosure="none">Pont</words>
         </direction-type>
       </direction>
       <note>
@@ -24453,9 +24453,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont rythmique</words>
+          <words enclosure="none">Pont rythmique</words>
         </direction-type>
       </direction>
       <note>
@@ -24918,9 +24918,9 @@
     </measure>
     <!--========================= Measure 55 =========================-->
     <measure number="55">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20"> Couplet montée</words>
+          <words enclosure="none"> Couplet montée</words>
         </direction-type>
       </direction>
       <note>
@@ -26065,9 +26065,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Mega Refrain</words>
+          <words enclosure="none">Mega Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -26302,9 +26302,9 @@
     </measure>
     <!--========================= Measure 79 =========================-->
     <measure number="79">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Mega Refrain 2</words>
+          <words enclosure="none">Mega Refrain 2</words>
         </direction-type>
       </direction>
       <note>

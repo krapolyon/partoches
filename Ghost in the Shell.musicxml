@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-18</encoding-date>
+      <encoding-date>2020-04-20</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -158,9 +158,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème A</words>
+          <words enclosure="none">Thème A</words>
         </direction-type>
       </direction>
       <note>
@@ -518,9 +518,9 @@
     </measure>
     <!--========================= Measure 21 =========================-->
     <measure number="21">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème B</words>
+          <words enclosure="none">Thème B</words>
         </direction-type>
       </direction>
       <note>
@@ -881,9 +881,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème C</words>
+          <words enclosure="none">Thème C</words>
         </direction-type>
       </direction>
       <note>
@@ -1543,9 +1543,9 @@
     </measure>
     <!--========================= Measure 61 =========================-->
     <measure number="61">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Cyberpunk</words>
+          <words enclosure="none">Cyberpunk</words>
         </direction-type>
       </direction>
       <note>
@@ -1604,9 +1604,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée souba</words>
+          <words enclosure="none">Entrée souba</words>
         </direction-type>
       </direction>
       <note>
@@ -1665,9 +1665,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée sax</words>
+          <words enclosure="none">Entrée sax</words>
         </direction-type>
       </direction>
       <note>
@@ -1726,9 +1726,9 @@
     </measure>
     <!--========================= Measure 85 =========================-->
     <measure number="85">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée trompette</words>
+          <words enclosure="none">Entrée trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -2283,9 +2283,9 @@
     </measure>
     <!--======================== Measure 101 =========================-->
     <measure number="101">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour A</words>
+          <words enclosure="none">Retour A</words>
         </direction-type>
       </direction>
       <note>
@@ -2686,9 +2686,9 @@
     </measure>
     <!--======================== Measure 117 =========================-->
     <measure number="117">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour B</words>
+          <words enclosure="none">Retour B</words>
         </direction-type>
       </direction>
       <note>
@@ -3089,9 +3089,9 @@
     </measure>
     <!--======================== Measure 133 =========================-->
     <measure number="133">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour C</words>
+          <words enclosure="none">Retour C</words>
         </direction-type>
       </direction>
       <note>
@@ -3817,9 +3817,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème A</words>
+          <words enclosure="none">Thème A</words>
         </direction-type>
       </direction>
       <note>
@@ -4157,9 +4157,9 @@
     </measure>
     <!--========================= Measure 21 =========================-->
     <measure number="21">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème B</words>
+          <words enclosure="none">Thème B</words>
         </direction-type>
       </direction>
       <note>
@@ -4501,9 +4501,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème C</words>
+          <words enclosure="none">Thème C</words>
         </direction-type>
       </direction>
       <note>
@@ -5045,9 +5045,9 @@
     </measure>
     <!--========================= Measure 61 =========================-->
     <measure number="61">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Cyberpunk</words>
+          <words enclosure="none">Cyberpunk</words>
         </direction-type>
       </direction>
       <note>
@@ -5106,9 +5106,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée souba</words>
+          <words enclosure="none">Entrée souba</words>
         </direction-type>
       </direction>
       <note>
@@ -5167,9 +5167,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée sax</words>
+          <words enclosure="none">Entrée sax</words>
         </direction-type>
       </direction>
       <note>
@@ -5484,9 +5484,9 @@
     </measure>
     <!--========================= Measure 85 =========================-->
     <measure number="85">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée trompette</words>
+          <words enclosure="none">Entrée trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -6113,9 +6113,9 @@
     </measure>
     <!--======================== Measure 101 =========================-->
     <measure number="101">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour A</words>
+          <words enclosure="none">Retour A</words>
         </direction-type>
       </direction>
       <note>
@@ -6523,9 +6523,9 @@
     </measure>
     <!--======================== Measure 117 =========================-->
     <measure number="117">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour B</words>
+          <words enclosure="none">Retour B</words>
         </direction-type>
       </direction>
       <note>
@@ -7039,9 +7039,9 @@
     </measure>
     <!--======================== Measure 133 =========================-->
     <measure number="133">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour C</words>
+          <words enclosure="none">Retour C</words>
         </direction-type>
       </direction>
       <note>
@@ -7640,9 +7640,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème A</words>
+          <words enclosure="none">Thème A</words>
         </direction-type>
       </direction>
       <note>
@@ -7757,9 +7757,9 @@
     </measure>
     <!--========================= Measure 21 =========================-->
     <measure number="21">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème B</words>
+          <words enclosure="none">Thème B</words>
         </direction-type>
       </direction>
       <note>
@@ -7883,9 +7883,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème C</words>
+          <words enclosure="none">Thème C</words>
         </direction-type>
       </direction>
       <note>
@@ -8383,9 +8383,9 @@
     </measure>
     <!--========================= Measure 61 =========================-->
     <measure number="61">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Cyberpunk</words>
+          <words enclosure="none">Cyberpunk</words>
         </direction-type>
       </direction>
       <note>
@@ -8828,9 +8828,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée souba</words>
+          <words enclosure="none">Entrée souba</words>
         </direction-type>
       </direction>
       <note>
@@ -9273,9 +9273,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée sax</words>
+          <words enclosure="none">Entrée sax</words>
         </direction-type>
       </direction>
       <note>
@@ -9718,9 +9718,9 @@
     </measure>
     <!--========================= Measure 85 =========================-->
     <measure number="85">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée trompette</words>
+          <words enclosure="none">Entrée trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -10603,9 +10603,9 @@
     </measure>
     <!--======================== Measure 101 =========================-->
     <measure number="101">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour A</words>
+          <words enclosure="none">Retour A</words>
         </direction-type>
       </direction>
       <note>
@@ -11068,9 +11068,9 @@
     </measure>
     <!--======================== Measure 117 =========================-->
     <measure number="117">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour B</words>
+          <words enclosure="none">Retour B</words>
         </direction-type>
       </direction>
       <note>
@@ -11953,9 +11953,9 @@
     </measure>
     <!--======================== Measure 133 =========================-->
     <measure number="133">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour C</words>
+          <words enclosure="none">Retour C</words>
         </direction-type>
       </direction>
       <note>
@@ -12510,9 +12510,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème A</words>
+          <words enclosure="none">Thème A</words>
         </direction-type>
       </direction>
       <note>
@@ -12636,9 +12636,9 @@
     </measure>
     <!--========================= Measure 21 =========================-->
     <measure number="21">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème B</words>
+          <words enclosure="none">Thème B</words>
         </direction-type>
       </direction>
       <note>
@@ -13012,9 +13012,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème C</words>
+          <words enclosure="none">Thème C</words>
         </direction-type>
       </direction>
       <note>
@@ -13548,9 +13548,9 @@
     </measure>
     <!--========================= Measure 61 =========================-->
     <measure number="61">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Cyberpunk</words>
+          <words enclosure="none">Cyberpunk</words>
         </direction-type>
       </direction>
       <note>
@@ -13993,9 +13993,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée souba</words>
+          <words enclosure="none">Entrée souba</words>
         </direction-type>
       </direction>
       <note>
@@ -14438,9 +14438,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée sax</words>
+          <words enclosure="none">Entrée sax</words>
         </direction-type>
       </direction>
       <note>
@@ -14883,9 +14883,9 @@
     </measure>
     <!--========================= Measure 85 =========================-->
     <measure number="85">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée trompette</words>
+          <words enclosure="none">Entrée trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -15768,9 +15768,9 @@
     </measure>
     <!--======================== Measure 101 =========================-->
     <measure number="101">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour A</words>
+          <words enclosure="none">Retour A</words>
         </direction-type>
       </direction>
       <note>
@@ -16653,9 +16653,9 @@
     </measure>
     <!--======================== Measure 117 =========================-->
     <measure number="117">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour B</words>
+          <words enclosure="none">Retour B</words>
         </direction-type>
       </direction>
       <note>
@@ -17186,9 +17186,9 @@
     </measure>
     <!--======================== Measure 133 =========================-->
     <measure number="133">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour C</words>
+          <words enclosure="none">Retour C</words>
         </direction-type>
       </direction>
       <note>
@@ -17783,9 +17783,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème A</words>
+          <words enclosure="none">Thème A</words>
         </direction-type>
       </direction>
       <note>
@@ -18046,9 +18046,9 @@
     </measure>
     <!--========================= Measure 21 =========================-->
     <measure number="21">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème B</words>
+          <words enclosure="none">Thème B</words>
         </direction-type>
       </direction>
       <note>
@@ -18379,9 +18379,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème C</words>
+          <words enclosure="none">Thème C</words>
         </direction-type>
       </direction>
       <note>
@@ -19102,9 +19102,9 @@
     </measure>
     <!--========================= Measure 61 =========================-->
     <measure number="61">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Cyberpunk</words>
+          <words enclosure="none">Cyberpunk</words>
         </direction-type>
       </direction>
       <note>
@@ -19233,9 +19233,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée souba</words>
+          <words enclosure="none">Entrée souba</words>
         </direction-type>
       </direction>
       <note>
@@ -19734,9 +19734,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée sax</words>
+          <words enclosure="none">Entrée sax</words>
         </direction-type>
       </direction>
       <note>
@@ -20235,9 +20235,9 @@
     </measure>
     <!--========================= Measure 85 =========================-->
     <measure number="85">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée trompette</words>
+          <words enclosure="none">Entrée trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -21200,9 +21200,9 @@
     </measure>
     <!--======================== Measure 101 =========================-->
     <measure number="101">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour A</words>
+          <words enclosure="none">Retour A</words>
         </direction-type>
       </direction>
       <note>
@@ -22197,9 +22197,9 @@
     </measure>
     <!--======================== Measure 117 =========================-->
     <measure number="117">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour B</words>
+          <words enclosure="none">Retour B</words>
         </direction-type>
       </direction>
       <note>
@@ -23194,9 +23194,9 @@
     </measure>
     <!--======================== Measure 133 =========================-->
     <measure number="133">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour C</words>
+          <words enclosure="none">Retour C</words>
         </direction-type>
       </direction>
       <note>
@@ -23982,9 +23982,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème A</words>
+          <words enclosure="none">Thème A</words>
         </direction-type>
       </direction>
       <note>
@@ -24322,9 +24322,9 @@
     </measure>
     <!--========================= Measure 21 =========================-->
     <measure number="21">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème B</words>
+          <words enclosure="none">Thème B</words>
         </direction-type>
       </direction>
       <note>
@@ -24666,9 +24666,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème C</words>
+          <words enclosure="none">Thème C</words>
         </direction-type>
       </direction>
       <note>
@@ -25220,9 +25220,9 @@
     </measure>
     <!--========================= Measure 61 =========================-->
     <measure number="61">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Cyberpunk</words>
+          <words enclosure="none">Cyberpunk</words>
         </direction-type>
       </direction>
       <note>
@@ -25281,9 +25281,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée souba</words>
+          <words enclosure="none">Entrée souba</words>
         </direction-type>
       </direction>
       <note>
@@ -25342,9 +25342,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée sax</words>
+          <words enclosure="none">Entrée sax</words>
         </direction-type>
       </direction>
       <note>
@@ -25659,9 +25659,9 @@
     </measure>
     <!--========================= Measure 85 =========================-->
     <measure number="85">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée trompette</words>
+          <words enclosure="none">Entrée trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -26288,9 +26288,9 @@
     </measure>
     <!--======================== Measure 101 =========================-->
     <measure number="101">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour A</words>
+          <words enclosure="none">Retour A</words>
         </direction-type>
       </direction>
       <note>
@@ -26700,9 +26700,9 @@
     </measure>
     <!--======================== Measure 117 =========================-->
     <measure number="117">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour B</words>
+          <words enclosure="none">Retour B</words>
         </direction-type>
       </direction>
       <note>
@@ -27222,9 +27222,9 @@
     </measure>
     <!--======================== Measure 133 =========================-->
     <measure number="133">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Retour C</words>
+          <words enclosure="none">Retour C</words>
         </direction-type>
       </direction>
       <note>

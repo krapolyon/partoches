@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-19</encoding-date>
+      <encoding-date>2020-04-20</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -149,9 +149,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Reggae</words>
+          <words enclosure="none">Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -516,9 +516,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno</words>
+          <words enclosure="none">Techno</words>
         </direction-type>
       </direction>
       <note>
@@ -799,9 +799,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée techno</words>
+          <words enclosure="none">Montée techno</words>
         </direction-type>
       </direction>
       <note>
@@ -964,9 +964,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Dubstep</words>
+          <words enclosure="none">Dubstep</words>
         </direction-type>
       </direction>
       <note>
@@ -1405,9 +1405,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ska</words>
+          <words enclosure="none">Ska</words>
         </direction-type>
       </direction>
       <note>
@@ -2024,9 +2024,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno</words>
+          <words enclosure="none">Techno</words>
         </direction-type>
       </direction>
       <note>
@@ -2307,9 +2307,9 @@
     </measure>
     <!--========================= Measure 39 =========================-->
     <measure number="39">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno Reggae</words>
+          <words enclosure="none">Techno Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -2680,9 +2680,9 @@
     </measure>
     <!--========================= Measure 43 =========================-->
     <measure number="43">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée Techno reggae</words>
+          <words enclosure="none">Montée Techno reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -3103,9 +3103,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Dubstep</words>
+          <words enclosure="none">Dubstep</words>
         </direction-type>
       </direction>
       <note>
@@ -3540,9 +3540,9 @@
     </measure>
     <!--========================= Measure 55 =========================-->
     <measure number="55">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Reggae</words>
+          <words enclosure="none">Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -4720,9 +4720,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Reggae</words>
+          <words enclosure="none">Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -5449,9 +5449,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno</words>
+          <words enclosure="none">Techno</words>
         </direction-type>
       </direction>
       <note>
@@ -5786,9 +5786,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée techno</words>
+          <words enclosure="none">Montée techno</words>
         </direction-type>
       </direction>
       <note>
@@ -5965,9 +5965,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Dubstep</words>
+          <words enclosure="none">Dubstep</words>
         </direction-type>
       </direction>
       <note>
@@ -6826,9 +6826,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ska</words>
+          <words enclosure="none">Ska</words>
         </direction-type>
       </direction>
       <note>
@@ -7455,9 +7455,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno</words>
+          <words enclosure="none">Techno</words>
         </direction-type>
       </direction>
       <note>
@@ -7792,9 +7792,9 @@
     </measure>
     <!--========================= Measure 39 =========================-->
     <measure number="39">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno Reggae</words>
+          <words enclosure="none">Techno Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -7959,9 +7959,9 @@
     </measure>
     <!--========================= Measure 43 =========================-->
     <measure number="43">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée Techno reggae</words>
+          <words enclosure="none">Montée Techno reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -8298,9 +8298,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Dubstep</words>
+          <words enclosure="none">Dubstep</words>
         </direction-type>
       </direction>
       <note>
@@ -9155,9 +9155,9 @@
     </measure>
     <!--========================= Measure 55 =========================-->
     <measure number="55">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Reggae</words>
+          <words enclosure="none">Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -10033,9 +10033,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Reggae</words>
+          <words enclosure="none">Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -10574,9 +10574,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno</words>
+          <words enclosure="none">Techno</words>
         </direction-type>
       </direction>
       <note>
@@ -11019,9 +11019,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée techno</words>
+          <words enclosure="none">Montée techno</words>
         </direction-type>
       </direction>
       <note>
@@ -11231,9 +11231,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Dubstep</words>
+          <words enclosure="none">Dubstep</words>
         </direction-type>
       </direction>
       <note>
@@ -12068,9 +12068,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ska</words>
+          <words enclosure="none">Ska</words>
         </direction-type>
       </direction>
       <note>
@@ -12361,9 +12361,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno</words>
+          <words enclosure="none">Techno</words>
         </direction-type>
       </direction>
       <note>
@@ -12806,9 +12806,9 @@
     </measure>
     <!--========================= Measure 39 =========================-->
     <measure number="39">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno Reggae</words>
+          <words enclosure="none">Techno Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -12945,9 +12945,9 @@
     </measure>
     <!--========================= Measure 43 =========================-->
     <measure number="43">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée Techno reggae</words>
+          <words enclosure="none">Montée Techno reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -13371,9 +13371,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Dubstep</words>
+          <words enclosure="none">Dubstep</words>
         </direction-type>
       </direction>
       <note>
@@ -14204,9 +14204,9 @@
     </measure>
     <!--========================= Measure 55 =========================-->
     <measure number="55">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Reggae</words>
+          <words enclosure="none">Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -14994,9 +14994,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Reggae</words>
+          <words enclosure="none">Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -15519,9 +15519,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno</words>
+          <words enclosure="none">Techno</words>
         </direction-type>
       </direction>
       <note>
@@ -15988,9 +15988,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée techno</words>
+          <words enclosure="none">Montée techno</words>
         </direction-type>
       </direction>
       <note>
@@ -16167,9 +16167,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Dubstep</words>
+          <words enclosure="none">Dubstep</words>
         </direction-type>
       </direction>
       <note>
@@ -16986,9 +16986,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ska</words>
+          <words enclosure="none">Ska</words>
         </direction-type>
       </direction>
       <note>
@@ -17661,9 +17661,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno</words>
+          <words enclosure="none">Techno</words>
         </direction-type>
       </direction>
       <note>
@@ -18130,9 +18130,9 @@
     </measure>
     <!--========================= Measure 39 =========================-->
     <measure number="39">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno Reggae</words>
+          <words enclosure="none">Techno Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -18272,9 +18272,9 @@
     </measure>
     <!--========================= Measure 43 =========================-->
     <measure number="43">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée Techno reggae</words>
+          <words enclosure="none">Montée Techno reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -18677,9 +18677,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Dubstep</words>
+          <words enclosure="none">Dubstep</words>
         </direction-type>
       </direction>
       <note>
@@ -19492,9 +19492,9 @@
     </measure>
     <!--========================= Measure 55 =========================-->
     <measure number="55">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Reggae</words>
+          <words enclosure="none">Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -20314,9 +20314,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Reggae</words>
+          <words enclosure="none">Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -20867,9 +20867,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno</words>
+          <words enclosure="none">Techno</words>
         </direction-type>
       </direction>
       <note>
@@ -21224,9 +21224,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée techno</words>
+          <words enclosure="none">Montée techno</words>
         </direction-type>
       </direction>
       <note>
@@ -21438,9 +21438,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Dubstep</words>
+          <words enclosure="none">Dubstep</words>
         </direction-type>
       </direction>
       <note>
@@ -22277,9 +22277,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ska</words>
+          <words enclosure="none">Ska</words>
         </direction-type>
       </direction>
       <note>
@@ -22896,9 +22896,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno</words>
+          <words enclosure="none">Techno</words>
         </direction-type>
       </direction>
       <note>
@@ -23253,9 +23253,9 @@
     </measure>
     <!--========================= Measure 39 =========================-->
     <measure number="39">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno Reggae</words>
+          <words enclosure="none">Techno Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -23452,9 +23452,9 @@
     </measure>
     <!--========================= Measure 43 =========================-->
     <measure number="43">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée Techno reggae</words>
+          <words enclosure="none">Montée Techno reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -23854,9 +23854,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Dubstep</words>
+          <words enclosure="none">Dubstep</words>
         </direction-type>
       </direction>
       <note>
@@ -24689,9 +24689,9 @@
     </measure>
     <!--========================= Measure 55 =========================-->
     <measure number="55">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Reggae</words>
+          <words enclosure="none">Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -25320,9 +25320,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Reggae</words>
+          <words enclosure="none">Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -26091,9 +26091,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno</words>
+          <words enclosure="none">Techno</words>
         </direction-type>
       </direction>
       <note>
@@ -26444,9 +26444,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée techno</words>
+          <words enclosure="none">Montée techno</words>
         </direction-type>
       </direction>
       <note>
@@ -26626,9 +26626,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Dubstep</words>
+          <words enclosure="none">Dubstep</words>
         </direction-type>
       </direction>
       <note>
@@ -27515,9 +27515,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Ska</words>
+          <words enclosure="none">Ska</words>
         </direction-type>
       </direction>
       <note>
@@ -28145,9 +28145,9 @@
       <barline location="left">
         <bar-style>regular</bar-style>
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno</words>
+          <words enclosure="none">Techno</words>
         </direction-type>
       </direction>
       <note>
@@ -28498,9 +28498,9 @@
     </measure>
     <!--========================= Measure 39 =========================-->
     <measure number="39">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Techno Reggae</words>
+          <words enclosure="none">Techno Reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -28669,9 +28669,9 @@
     </measure>
     <!--========================= Measure 43 =========================-->
     <measure number="43">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée Techno reggae</words>
+          <words enclosure="none">Montée Techno reggae</words>
         </direction-type>
       </direction>
       <note>
@@ -29019,9 +29019,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Dubstep</words>
+          <words enclosure="none">Dubstep</words>
         </direction-type>
       </direction>
       <note>
@@ -29904,9 +29904,9 @@
     </measure>
     <!--========================= Measure 55 =========================-->
     <measure number="55">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Reggae</words>
+          <words enclosure="none">Reggae</words>
         </direction-type>
       </direction>
       <note>

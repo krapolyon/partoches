@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-19</encoding-date>
+      <encoding-date>2020-04-20</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -1264,9 +1264,9 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Introduction Tamacun</words>
+          <words enclosure="none">Introduction Tamacun</words>
         </direction-type>
       </direction>
       <note>
@@ -1834,9 +1834,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Tamacun</words>
+          <words enclosure="none">Tamacun</words>
         </direction-type>
       </direction>
       <note>
@@ -2724,9 +2724,9 @@
     </measure>
     <!--========================= Measure 36 =========================-->
     <measure number="36">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition basse</words>
+          <words enclosure="none">Transition basse</words>
         </direction-type>
       </direction>
       <note>
@@ -3201,9 +3201,9 @@
     </measure>
     <!--========================= Measure 44 =========================-->
     <measure number="44">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème sax court</words>
+          <words enclosure="none">Thème sax court</words>
         </direction-type>
       </direction>
       <note>
@@ -3478,9 +3478,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break basse</words>
+          <words enclosure="none">Break basse</words>
         </direction-type>
       </direction>
       <note>
@@ -3657,9 +3657,9 @@
     </measure>
     <!--========================= Measure 53 =========================-->
     <measure number="53">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Introduction Diablo</words>
+          <words enclosure="none">Introduction Diablo</words>
         </direction-type>
       </direction>
       <note>
@@ -3812,9 +3812,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Diablo</words>
+          <words enclosure="none">Diablo</words>
         </direction-type>
       </direction>
       <note>
@@ -4361,9 +4361,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa complexe !!!</words>
+          <words enclosure="none">Salsa complexe !!!</words>
         </direction-type>
       </direction>
       <note>
@@ -4863,9 +4863,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break trompette</words>
+          <words enclosure="none">Break trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -5338,9 +5338,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa simple</words>
+          <words enclosure="none">Salsa simple</words>
         </direction-type>
       </direction>
       <note>
@@ -5513,9 +5513,9 @@
     </measure>
     <!--========================= Measure 89 =========================-->
     <measure number="89">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">On saute en l'air</words>
+          <words enclosure="none">On saute en l'air</words>
         </direction-type>
       </direction>
       <note>
@@ -6103,9 +6103,9 @@
     </measure>
     <!--========================= Measure 97 =========================-->
     <measure number="97">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Le pont</words>
+          <words enclosure="none">Le pont</words>
         </direction-type>
       </direction>
       <note>
@@ -6509,9 +6509,9 @@
     </measure>
     <!--======================== Measure 106 =========================-->
     <measure number="106">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa simple</words>
+          <words enclosure="none">Salsa simple</words>
         </direction-type>
       </direction>
       <note>
@@ -6634,9 +6634,9 @@
     </measure>
     <!--======================== Measure 110 =========================-->
     <measure number="110">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">On saute en l'air</words>
+          <words enclosure="none">On saute en l'air</words>
         </direction-type>
       </direction>
       <note>
@@ -8349,9 +8349,9 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Introduction Tamacun</words>
+          <words enclosure="none">Introduction Tamacun</words>
         </direction-type>
       </direction>
       <note>
@@ -9170,9 +9170,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Tamacun</words>
+          <words enclosure="none">Tamacun</words>
         </direction-type>
       </direction>
       <note>
@@ -10235,9 +10235,9 @@
     </measure>
     <!--========================= Measure 36 =========================-->
     <measure number="36">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition basse</words>
+          <words enclosure="none">Transition basse</words>
         </direction-type>
       </direction>
       <note>
@@ -10419,9 +10419,9 @@
     </measure>
     <!--========================= Measure 44 =========================-->
     <measure number="44">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème sax court</words>
+          <words enclosure="none">Thème sax court</words>
         </direction-type>
       </direction>
       <note>
@@ -10712,9 +10712,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break basse</words>
+          <words enclosure="none">Break basse</words>
         </direction-type>
       </direction>
       <note>
@@ -10897,9 +10897,9 @@
     </measure>
     <!--========================= Measure 53 =========================-->
     <measure number="53">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Introduction Diablo</words>
+          <words enclosure="none">Introduction Diablo</words>
         </direction-type>
       </direction>
       <note>
@@ -11779,9 +11779,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Diablo</words>
+          <words enclosure="none">Diablo</words>
         </direction-type>
       </direction>
       <note>
@@ -12659,9 +12659,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa complexe !!!</words>
+          <words enclosure="none">Salsa complexe !!!</words>
         </direction-type>
       </direction>
       <note>
@@ -13168,9 +13168,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break trompette</words>
+          <words enclosure="none">Break trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -13286,9 +13286,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa simple</words>
+          <words enclosure="none">Salsa simple</words>
         </direction-type>
       </direction>
       <note>
@@ -13801,9 +13801,9 @@
     </measure>
     <!--========================= Measure 89 =========================-->
     <measure number="89">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">On saute en l'air</words>
+          <words enclosure="none">On saute en l'air</words>
         </direction-type>
       </direction>
       <note>
@@ -14399,9 +14399,9 @@
     </measure>
     <!--========================= Measure 97 =========================-->
     <measure number="97">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Le pont</words>
+          <words enclosure="none">Le pont</words>
         </direction-type>
       </direction>
       <note>
@@ -14882,9 +14882,9 @@
     </measure>
     <!--======================== Measure 106 =========================-->
     <measure number="106">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa simple</words>
+          <words enclosure="none">Salsa simple</words>
         </direction-type>
       </direction>
       <note>
@@ -15117,9 +15117,9 @@
     </measure>
     <!--======================== Measure 110 =========================-->
     <measure number="110">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">On saute en l'air</words>
+          <words enclosure="none">On saute en l'air</words>
         </direction-type>
       </direction>
       <note>
@@ -16660,9 +16660,9 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Introduction Tamacun</words>
+          <words enclosure="none">Introduction Tamacun</words>
         </direction-type>
       </direction>
       <note>
@@ -17128,9 +17128,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Tamacun</words>
+          <words enclosure="none">Tamacun</words>
         </direction-type>
       </direction>
       <note>
@@ -17898,9 +17898,9 @@
     </measure>
     <!--========================= Measure 36 =========================-->
     <measure number="36">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition basse</words>
+          <words enclosure="none">Transition basse</words>
         </direction-type>
       </direction>
       <note>
@@ -18783,9 +18783,9 @@
     </measure>
     <!--========================= Measure 44 =========================-->
     <measure number="44">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème sax court</words>
+          <words enclosure="none">Thème sax court</words>
         </direction-type>
       </direction>
       <note>
@@ -19052,9 +19052,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break basse</words>
+          <words enclosure="none">Break basse</words>
         </direction-type>
       </direction>
       <note>
@@ -19383,9 +19383,9 @@
     </measure>
     <!--========================= Measure 53 =========================-->
     <measure number="53">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Introduction Diablo</words>
+          <words enclosure="none">Introduction Diablo</words>
         </direction-type>
       </direction>
       <note>
@@ -20282,9 +20282,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Diablo</words>
+          <words enclosure="none">Diablo</words>
         </direction-type>
       </direction>
       <note>
@@ -21179,9 +21179,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa complexe !!!</words>
+          <words enclosure="none">Salsa complexe !!!</words>
         </direction-type>
       </direction>
       <note>
@@ -21856,9 +21856,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break trompette</words>
+          <words enclosure="none">Break trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -21974,9 +21974,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa simple</words>
+          <words enclosure="none">Salsa simple</words>
         </direction-type>
       </direction>
       <note>
@@ -22525,9 +22525,9 @@
     </measure>
     <!--========================= Measure 89 =========================-->
     <measure number="89">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">On saute en l'air</words>
+          <words enclosure="none">On saute en l'air</words>
         </direction-type>
       </direction>
       <note>
@@ -23152,9 +23152,9 @@
     </measure>
     <!--========================= Measure 97 =========================-->
     <measure number="97">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Le pont</words>
+          <words enclosure="none">Le pont</words>
         </direction-type>
       </direction>
       <note>
@@ -23885,9 +23885,9 @@
     </measure>
     <!--======================== Measure 106 =========================-->
     <measure number="106">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa simple</words>
+          <words enclosure="none">Salsa simple</words>
         </direction-type>
       </direction>
       <note>
@@ -24138,9 +24138,9 @@
     </measure>
     <!--======================== Measure 110 =========================-->
     <measure number="110">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">On saute en l'air</words>
+          <words enclosure="none">On saute en l'air</words>
         </direction-type>
       </direction>
       <note>
@@ -26677,9 +26677,9 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Introduction Tamacun</words>
+          <words enclosure="none">Introduction Tamacun</words>
         </direction-type>
       </direction>
       <note>
@@ -26849,9 +26849,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Tamacun</words>
+          <words enclosure="none">Tamacun</words>
         </direction-type>
       </direction>
       <note>
@@ -27655,9 +27655,9 @@
     </measure>
     <!--========================= Measure 36 =========================-->
     <measure number="36">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition basse</words>
+          <words enclosure="none">Transition basse</words>
         </direction-type>
       </direction>
       <note>
@@ -27839,9 +27839,9 @@
     </measure>
     <!--========================= Measure 44 =========================-->
     <measure number="44">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème sax court</words>
+          <words enclosure="none">Thème sax court</words>
         </direction-type>
       </direction>
       <note>
@@ -28372,9 +28372,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break basse</words>
+          <words enclosure="none">Break basse</words>
         </direction-type>
       </direction>
       <note>
@@ -28551,9 +28551,9 @@
     </measure>
     <!--========================= Measure 53 =========================-->
     <measure number="53">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Introduction Diablo</words>
+          <words enclosure="none">Introduction Diablo</words>
         </direction-type>
       </direction>
       <note>
@@ -28708,9 +28708,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Diablo</words>
+          <words enclosure="none">Diablo</words>
         </direction-type>
       </direction>
       <note>
@@ -29174,9 +29174,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa complexe !!!</words>
+          <words enclosure="none">Salsa complexe !!!</words>
         </direction-type>
       </direction>
       <note>
@@ -29845,9 +29845,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break trompette</words>
+          <words enclosure="none">Break trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -29913,9 +29913,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa simple</words>
+          <words enclosure="none">Salsa simple</words>
         </direction-type>
       </direction>
       <note>
@@ -30769,9 +30769,9 @@
     </measure>
     <!--========================= Measure 89 =========================-->
     <measure number="89">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">On saute en l'air</words>
+          <words enclosure="none">On saute en l'air</words>
         </direction-type>
       </direction>
       <note>
@@ -31356,9 +31356,9 @@
     </measure>
     <!--========================= Measure 97 =========================-->
     <measure number="97">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Le pont</words>
+          <words enclosure="none">Le pont</words>
         </direction-type>
       </direction>
       <note>
@@ -31719,9 +31719,9 @@
     </measure>
     <!--======================== Measure 106 =========================-->
     <measure number="106">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa simple</words>
+          <words enclosure="none">Salsa simple</words>
         </direction-type>
       </direction>
       <note>
@@ -32147,9 +32147,9 @@
     </measure>
     <!--======================== Measure 110 =========================-->
     <measure number="110">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">On saute en l'air</words>
+          <words enclosure="none">On saute en l'air</words>
         </direction-type>
       </direction>
       <note>
@@ -34703,9 +34703,9 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Introduction Tamacun</words>
+          <words enclosure="none">Introduction Tamacun</words>
         </direction-type>
       </direction>
       <note>
@@ -34877,9 +34877,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Tamacun</words>
+          <words enclosure="none">Tamacun</words>
         </direction-type>
       </direction>
       <note>
@@ -35706,9 +35706,9 @@
     </measure>
     <!--========================= Measure 36 =========================-->
     <measure number="36">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition basse</words>
+          <words enclosure="none">Transition basse</words>
         </direction-type>
       </direction>
       <note>
@@ -35894,9 +35894,9 @@
     </measure>
     <!--========================= Measure 44 =========================-->
     <measure number="44">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème sax court</words>
+          <words enclosure="none">Thème sax court</words>
         </direction-type>
       </direction>
       <note>
@@ -36445,9 +36445,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break basse</words>
+          <words enclosure="none">Break basse</words>
         </direction-type>
       </direction>
       <note>
@@ -36626,9 +36626,9 @@
     </measure>
     <!--========================= Measure 53 =========================-->
     <measure number="53">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Introduction Diablo</words>
+          <words enclosure="none">Introduction Diablo</words>
         </direction-type>
       </direction>
       <note>
@@ -36783,9 +36783,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Diablo</words>
+          <words enclosure="none">Diablo</words>
         </direction-type>
       </direction>
       <note>
@@ -37249,9 +37249,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa complexe !!!</words>
+          <words enclosure="none">Salsa complexe !!!</words>
         </direction-type>
       </direction>
       <note>
@@ -37932,9 +37932,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break trompette</words>
+          <words enclosure="none">Break trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -38000,9 +38000,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa simple</words>
+          <words enclosure="none">Salsa simple</words>
         </direction-type>
       </direction>
       <note>
@@ -38870,9 +38870,9 @@
     </measure>
     <!--========================= Measure 89 =========================-->
     <measure number="89">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">On saute en l'air</words>
+          <words enclosure="none">On saute en l'air</words>
         </direction-type>
       </direction>
       <note>
@@ -39489,9 +39489,9 @@
     </measure>
     <!--========================= Measure 97 =========================-->
     <measure number="97">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Le pont</words>
+          <words enclosure="none">Le pont</words>
         </direction-type>
       </direction>
       <note>
@@ -39874,9 +39874,9 @@
     </measure>
     <!--======================== Measure 106 =========================-->
     <measure number="106">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa simple</words>
+          <words enclosure="none">Salsa simple</words>
         </direction-type>
       </direction>
       <note>
@@ -40308,9 +40308,9 @@
     </measure>
     <!--======================== Measure 110 =========================-->
     <measure number="110">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">On saute en l'air</words>
+          <words enclosure="none">On saute en l'air</words>
         </direction-type>
       </direction>
       <note>
@@ -41862,9 +41862,9 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Introduction Tamacun</words>
+          <words enclosure="none">Introduction Tamacun</words>
         </direction-type>
       </direction>
       <note>
@@ -42195,9 +42195,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Tamacun</words>
+          <words enclosure="none">Tamacun</words>
         </direction-type>
       </direction>
       <note>
@@ -42963,9 +42963,9 @@
     </measure>
     <!--========================= Measure 36 =========================-->
     <measure number="36">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition basse</words>
+          <words enclosure="none">Transition basse</words>
         </direction-type>
       </direction>
       <note>
@@ -43147,9 +43147,9 @@
     </measure>
     <!--========================= Measure 44 =========================-->
     <measure number="44">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Thème sax court</words>
+          <words enclosure="none">Thème sax court</words>
         </direction-type>
       </direction>
       <note>
@@ -43434,9 +43434,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break basse</words>
+          <words enclosure="none">Break basse</words>
         </direction-type>
       </direction>
       <note>
@@ -43631,9 +43631,9 @@
     </measure>
     <!--========================= Measure 53 =========================-->
     <measure number="53">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Introduction Diablo</words>
+          <words enclosure="none">Introduction Diablo</words>
         </direction-type>
       </direction>
       <note>
@@ -43786,9 +43786,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Diablo</words>
+          <words enclosure="none">Diablo</words>
         </direction-type>
       </direction>
       <note>
@@ -44381,9 +44381,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa complexe !!!</words>
+          <words enclosure="none">Salsa complexe !!!</words>
         </direction-type>
       </direction>
       <note>
@@ -44875,9 +44875,9 @@
     </measure>
     <!--========================= Measure 77 =========================-->
     <measure number="77">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break trompette</words>
+          <words enclosure="none">Break trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -45005,9 +45005,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa simple</words>
+          <words enclosure="none">Salsa simple</words>
         </direction-type>
       </direction>
       <note>
@@ -45682,9 +45682,9 @@
     </measure>
     <!--========================= Measure 89 =========================-->
     <measure number="89">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">On saute en l'air</words>
+          <words enclosure="none">On saute en l'air</words>
         </direction-type>
       </direction>
       <note>
@@ -46303,9 +46303,9 @@
     </measure>
     <!--========================= Measure 97 =========================-->
     <measure number="97">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Le pont</words>
+          <words enclosure="none">Le pont</words>
         </direction-type>
       </direction>
       <note>
@@ -46931,9 +46931,9 @@
     </measure>
     <!--======================== Measure 106 =========================-->
     <measure number="106">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Salsa simple</words>
+          <words enclosure="none">Salsa simple</words>
         </direction-type>
       </direction>
       <note>
@@ -47241,9 +47241,9 @@
     </measure>
     <!--======================== Measure 110 =========================-->
     <measure number="110">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">On saute en l'air</words>
+          <words enclosure="none">On saute en l'air</words>
         </direction-type>
       </direction>
       <note>
@@ -50458,9 +50458,9 @@
     </measure>
     <!--========================= Measure 97 =========================-->
     <measure number="97">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Le pont</words>
+          <words enclosure="none">Le pont</words>
         </direction-type>
       </direction>
       <note>

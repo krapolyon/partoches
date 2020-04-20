@@ -614,9 +614,9 @@
           <fifths>1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1 soft</words>
+          <words enclosure="none">Couplet 1 soft</words>
         </direction-type>
       </direction>
       <note>
@@ -792,9 +792,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2 enrichi</words>
+          <words enclosure="none">Couplet 2 enrichi</words>
         </direction-type>
       </direction>
       <note>
@@ -1469,9 +1469,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -1602,9 +1602,9 @@
     </measure>
     <!--========================= Measure 73 =========================-->
     <measure number="73">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition</words>
+          <words enclosure="none">Transition</words>
         </direction-type>
       </direction>
       <note>
@@ -1758,9 +1758,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 3 costaud</words>
+          <words enclosure="none">Couplet 3 costaud</words>
         </direction-type>
       </direction>
       <note>
@@ -2435,9 +2435,9 @@
     </measure>
     <!--======================== Measure 101 =========================-->
     <measure number="101">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -3010,9 +3010,9 @@
           <fifths>-3</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Changement de tonalité</words>
+          <words enclosure="none">Changement de tonalité</words>
         </direction-type>
       </direction>
       <note>
@@ -3493,9 +3493,9 @@
     </measure>
     <!--======================== Measure 133 =========================-->
     <measure number="133">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Choeurs 1 doucement</words>
+          <words enclosure="none">Choeurs 1 doucement</words>
         </direction-type>
       </direction>
       <note>
@@ -3928,9 +3928,9 @@
     </measure>
     <!--======================== Measure 149 =========================-->
     <measure number="149">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Choeurs 2 ça pête</words>
+          <words enclosure="none">Choeurs 2 ça pête</words>
         </direction-type>
       </direction>
       <note>
@@ -5329,9 +5329,9 @@
           <fifths>1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1 soft</words>
+          <words enclosure="none">Couplet 1 soft</words>
         </direction-type>
       </direction>
       <note>
@@ -5952,9 +5952,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2 enrichi</words>
+          <words enclosure="none">Couplet 2 enrichi</words>
         </direction-type>
       </direction>
       <note>
@@ -6809,9 +6809,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -7298,9 +7298,9 @@
     </measure>
     <!--========================= Measure 73 =========================-->
     <measure number="73">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition</words>
+          <words enclosure="none">Transition</words>
         </direction-type>
       </direction>
       <note>
@@ -7703,9 +7703,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 3 costaud</words>
+          <words enclosure="none">Couplet 3 costaud</words>
         </direction-type>
       </direction>
       <note>
@@ -8564,9 +8564,9 @@
     </measure>
     <!--======================== Measure 101 =========================-->
     <measure number="101">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -9062,9 +9062,9 @@
           <fifths>-3</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Changement de tonalité</words>
+          <words enclosure="none">Changement de tonalité</words>
         </direction-type>
       </direction>
       <note>
@@ -9729,9 +9729,9 @@
     </measure>
     <!--======================== Measure 133 =========================-->
     <measure number="133">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Choeurs 1 doucement</words>
+          <words enclosure="none">Choeurs 1 doucement</words>
         </direction-type>
       </direction>
       <note>
@@ -10473,9 +10473,9 @@
     </measure>
     <!--======================== Measure 149 =========================-->
     <measure number="149">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Choeurs 2 ça pête</words>
+          <words enclosure="none">Choeurs 2 ça pête</words>
         </direction-type>
       </direction>
       <note>
@@ -11289,9 +11289,9 @@
           <fifths>1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1 soft</words>
+          <words enclosure="none">Couplet 1 soft</words>
         </direction-type>
       </direction>
       <note>
@@ -11750,9 +11750,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2 enrichi</words>
+          <words enclosure="none">Couplet 2 enrichi</words>
         </direction-type>
       </direction>
       <note>
@@ -12259,9 +12259,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -12829,9 +12829,9 @@
     </measure>
     <!--========================= Measure 73 =========================-->
     <measure number="73">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition</words>
+          <words enclosure="none">Transition</words>
         </direction-type>
       </direction>
       <note>
@@ -13036,9 +13036,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 3 costaud</words>
+          <words enclosure="none">Couplet 3 costaud</words>
         </direction-type>
       </direction>
       <note>
@@ -13545,9 +13545,9 @@
     </measure>
     <!--======================== Measure 101 =========================-->
     <measure number="101">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -14034,9 +14034,9 @@
           <fifths>-3</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Changement de tonalité</words>
+          <words enclosure="none">Changement de tonalité</words>
         </direction-type>
       </direction>
       <note>
@@ -14448,9 +14448,9 @@
     </measure>
     <!--======================== Measure 133 =========================-->
     <measure number="133">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Choeurs 1 doucement</words>
+          <words enclosure="none">Choeurs 1 doucement</words>
         </direction-type>
       </direction>
       <note>
@@ -14817,9 +14817,9 @@
     </measure>
     <!--======================== Measure 149 =========================-->
     <measure number="149">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Choeurs 2 ça pête</words>
+          <words enclosure="none">Choeurs 2 ça pête</words>
         </direction-type>
       </direction>
       <note>
@@ -15976,9 +15976,9 @@
           <fifths>1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1 soft</words>
+          <words enclosure="none">Couplet 1 soft</words>
         </direction-type>
       </direction>
       <note>
@@ -16421,9 +16421,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2 enrichi</words>
+          <words enclosure="none">Couplet 2 enrichi</words>
         </direction-type>
       </direction>
       <note>
@@ -17088,9 +17088,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -17561,9 +17561,9 @@
     </measure>
     <!--========================= Measure 73 =========================-->
     <measure number="73">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition</words>
+          <words enclosure="none">Transition</words>
         </direction-type>
       </direction>
       <note>
@@ -17770,9 +17770,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 3 costaud</words>
+          <words enclosure="none">Couplet 3 costaud</words>
         </direction-type>
       </direction>
       <note>
@@ -18437,9 +18437,9 @@
     </measure>
     <!--======================== Measure 101 =========================-->
     <measure number="101">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -18915,9 +18915,9 @@
           <fifths>-3</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Changement de tonalité</words>
+          <words enclosure="none">Changement de tonalité</words>
         </direction-type>
       </direction>
       <note>
@@ -19650,9 +19650,9 @@
     </measure>
     <!--======================== Measure 133 =========================-->
     <measure number="133">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Choeurs 1 doucement</words>
+          <words enclosure="none">Choeurs 1 doucement</words>
         </direction-type>
       </direction>
       <note>
@@ -20201,9 +20201,9 @@
     </measure>
     <!--======================== Measure 149 =========================-->
     <measure number="149">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Choeurs 2 ça pête</words>
+          <words enclosure="none">Choeurs 2 ça pête</words>
         </direction-type>
       </direction>
       <note>
@@ -21477,9 +21477,9 @@
           <fifths>1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1 soft</words>
+          <words enclosure="none">Couplet 1 soft</words>
         </direction-type>
       </direction>
       <note>
@@ -22117,9 +22117,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2 enrichi</words>
+          <words enclosure="none">Couplet 2 enrichi</words>
         </direction-type>
       </direction>
       <note>
@@ -22719,9 +22719,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -23274,9 +23274,9 @@
     </measure>
     <!--========================= Measure 73 =========================-->
     <measure number="73">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition</words>
+          <words enclosure="none">Transition</words>
         </direction-type>
       </direction>
       <note>
@@ -23484,9 +23484,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 3 costaud</words>
+          <words enclosure="none">Couplet 3 costaud</words>
         </direction-type>
       </direction>
       <note>
@@ -24086,9 +24086,9 @@
     </measure>
     <!--======================== Measure 101 =========================-->
     <measure number="101">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -24646,9 +24646,9 @@
           <fifths>-3</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Changement de tonalité</words>
+          <words enclosure="none">Changement de tonalité</words>
         </direction-type>
       </direction>
       <note>
@@ -25628,9 +25628,9 @@
     </measure>
     <!--======================== Measure 133 =========================-->
     <measure number="133">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Choeurs 1 doucement</words>
+          <words enclosure="none">Choeurs 1 doucement</words>
         </direction-type>
       </direction>
       <note>
@@ -26411,9 +26411,9 @@
     </measure>
     <!--======================== Measure 149 =========================-->
     <measure number="149">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Choeurs 2 ça pête</words>
+          <words enclosure="none">Choeurs 2 ça pête</words>
         </direction-type>
       </direction>
       <note>
@@ -28379,9 +28379,9 @@
           <fifths>2</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1 soft</words>
+          <words enclosure="none">Couplet 1 soft</words>
         </direction-type>
       </direction>
       <note>
@@ -29015,9 +29015,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2 enrichi</words>
+          <words enclosure="none">Couplet 2 enrichi</words>
         </direction-type>
       </direction>
       <note>
@@ -29888,9 +29888,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -30377,9 +30377,9 @@
     </measure>
     <!--========================= Measure 73 =========================-->
     <measure number="73">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition</words>
+          <words enclosure="none">Transition</words>
         </direction-type>
       </direction>
       <note>
@@ -30790,9 +30790,9 @@
     </measure>
     <!--========================= Measure 81 =========================-->
     <measure number="81">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 3 costaud</words>
+          <words enclosure="none">Couplet 3 costaud</words>
         </direction-type>
       </direction>
       <note>
@@ -31667,9 +31667,9 @@
     </measure>
     <!--======================== Measure 101 =========================-->
     <measure number="101">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -32165,9 +32165,9 @@
           <fifths>-2</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Changement de tonalité</words>
+          <words enclosure="none">Changement de tonalité</words>
         </direction-type>
       </direction>
       <note>
@@ -32828,9 +32828,9 @@
     </measure>
     <!--======================== Measure 133 =========================-->
     <measure number="133">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Choeurs 1 doucement</words>
+          <words enclosure="none">Choeurs 1 doucement</words>
         </direction-type>
       </direction>
       <note>
@@ -33576,9 +33576,9 @@
     </measure>
     <!--======================== Measure 149 =========================-->
     <measure number="149">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Choeurs 2 ça pête</words>
+          <words enclosure="none">Choeurs 2 ça pête</words>
         </direction-type>
       </direction>
       <note>

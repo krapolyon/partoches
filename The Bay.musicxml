@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-19</encoding-date>
+      <encoding-date>2020-04-20</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -118,9 +118,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Prélude</words>
+          <words enclosure="none">Prélude</words>
         </direction-type>
       </direction>
       <note>
@@ -179,9 +179,9 @@
     </measure>
     <!--========================= Measure 9 ==========================-->
     <measure number="9">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -538,9 +538,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet cool</words>
+          <words enclosure="none">Couplet cool</words>
         </direction-type>
       </direction>
       <note>
@@ -657,9 +657,9 @@
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet montée</words>
+          <words enclosure="none">Couplet montée </words>
         </direction-type>
       </direction>
       <note>
@@ -1009,9 +1009,9 @@
     </measure>
     <!--========================= Measure 29 =========================-->
     <measure number="29">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Vert la deuxième fois seulement, voix du haut facultative</words>
+          <words enclosure="none">Vert la deuxième fois seulement, voix du haut facultative</words>
         </direction-type>
       </direction>
       <note>
@@ -1230,9 +1230,9 @@
     </measure>
     <!--========================= Measure 33 =========================-->
     <measure number="33">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet pêchu</words>
+          <words enclosure="none">Couplet pêchu</words>
         </direction-type>
       </direction>
       <note>
@@ -1740,9 +1740,9 @@
     </measure>
     <!--========================= Measure 41 =========================-->
     <measure number="41">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -1880,9 +1880,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain 2</words>
+          <words enclosure="none">Refrain 2</words>
         </direction-type>
       </direction>
       <note>
@@ -2002,9 +2002,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Prélude</words>
+          <words enclosure="none">Prélude</words>
         </direction-type>
       </direction>
       <note>
@@ -2043,9 +2043,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Final Trompette</words>
+          <words enclosure="none">Final Trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -2509,9 +2509,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Drum'n bass</words>
+          <words enclosure="none">Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -2600,9 +2600,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Prélude</words>
+          <words enclosure="none">Prélude</words>
         </direction-type>
       </direction>
       <note>
@@ -3429,9 +3429,9 @@
     </measure>
     <!--========================= Measure 9 ==========================-->
     <measure number="9">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -3791,9 +3791,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet cool (option un seul sax)</words>
+          <words enclosure="none">Couplet cool (option un seul sax)</words>
         </direction-type>
       </direction>
       <note>
@@ -4316,9 +4316,9 @@
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet montée</words>
+          <words enclosure="none">Couplet montée </words>
         </direction-type>
       </direction>
       <note>
@@ -4672,9 +4672,9 @@
     </measure>
     <!--========================= Measure 33 =========================-->
     <measure number="33">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet pêchu (tu peux sauter si veux garder du jus pour le refrain)</words>
+          <words enclosure="none">Couplet pêchu (tu peux sauter si veux garder du jus pour le refrain)</words>
         </direction-type>
       </direction>
       <note>
@@ -5227,9 +5227,9 @@
     </measure>
     <!--========================= Measure 41 =========================-->
     <measure number="41">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -5647,9 +5647,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain 2</words>
+          <words enclosure="none">Refrain 2</words>
         </direction-type>
       </direction>
       <note>
@@ -6071,9 +6071,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Prélude</words>
+          <words enclosure="none">Prélude</words>
         </direction-type>
       </direction>
       <note>
@@ -6496,9 +6496,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Final Trompette</words>
+          <words enclosure="none">Final Trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -6916,9 +6916,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Drum'n bass</words>
+          <words enclosure="none">Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -7019,9 +7019,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Prélude</words>
+          <words enclosure="none">Prélude</words>
         </direction-type>
       </direction>
       <note>
@@ -7544,9 +7544,9 @@
     </measure>
     <!--========================= Measure 9 ==========================-->
     <measure number="9">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -7906,9 +7906,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet cool</words>
+          <words enclosure="none">Couplet cool</words>
         </direction-type>
       </direction>
       <note>
@@ -8330,9 +8330,9 @@
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet montée</words>
+          <words enclosure="none">Couplet montée </words>
         </direction-type>
       </direction>
       <note>
@@ -8686,9 +8686,9 @@
     </measure>
     <!--========================= Measure 33 =========================-->
     <measure number="33">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet pêchu</words>
+          <words enclosure="none">Couplet pêchu</words>
         </direction-type>
       </direction>
       <note>
@@ -9236,9 +9236,9 @@
     </measure>
     <!--========================= Measure 41 =========================-->
     <measure number="41">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -9443,9 +9443,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain 2</words>
+          <words enclosure="none">Refrain 2</words>
         </direction-type>
       </direction>
       <note>
@@ -9651,9 +9651,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Prélude</words>
+          <words enclosure="none">Prélude</words>
         </direction-type>
       </direction>
       <note>
@@ -9924,9 +9924,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Final Trompette</words>
+          <words enclosure="none">Final Trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -10131,9 +10131,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Drum'n bass</words>
+          <words enclosure="none">Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -10231,9 +10231,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Prélude</words>
+          <words enclosure="none">Prélude</words>
         </direction-type>
       </direction>
       <note>
@@ -10324,9 +10324,9 @@
     </measure>
     <!--========================= Measure 9 ==========================-->
     <measure number="9">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -10919,9 +10919,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet cool</words>
+          <words enclosure="none">Couplet cool</words>
         </direction-type>
       </direction>
       <note>
@@ -11343,9 +11343,9 @@
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet montée</words>
+          <words enclosure="none">Couplet montée </words>
         </direction-type>
       </direction>
       <note>
@@ -11932,9 +11932,9 @@
     </measure>
     <!--========================= Measure 33 =========================-->
     <measure number="33">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet pêchu</words>
+          <words enclosure="none">Couplet pêchu</words>
         </direction-type>
       </direction>
       <note>
@@ -12279,9 +12279,9 @@
     </measure>
     <!--========================= Measure 41 =========================-->
     <measure number="41">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -12497,9 +12497,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain 2</words>
+          <words enclosure="none">Refrain 2</words>
         </direction-type>
       </direction>
       <note>
@@ -12719,9 +12719,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Prélude</words>
+          <words enclosure="none">Prélude</words>
         </direction-type>
       </direction>
       <note>
@@ -12792,9 +12792,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Final Trompette</words>
+          <words enclosure="none">Final Trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -13010,9 +13010,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Drum'n bass</words>
+          <words enclosure="none">Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -13104,9 +13104,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Prélude</words>
+          <words enclosure="none">Prélude</words>
         </direction-type>
       </direction>
       <note>
@@ -13609,9 +13609,9 @@
     </measure>
     <!--========================= Measure 9 ==========================-->
     <measure number="9">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -14117,9 +14117,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet cool</words>
+          <words enclosure="none">Couplet cool</words>
         </direction-type>
       </direction>
       <note>
@@ -14470,9 +14470,9 @@
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet montée</words>
+          <words enclosure="none">Couplet montée </words>
         </direction-type>
       </direction>
       <note>
@@ -15002,9 +15002,9 @@
     </measure>
     <!--========================= Measure 33 =========================-->
     <measure number="33">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet pêchu</words>
+          <words enclosure="none">Couplet pêchu</words>
         </direction-type>
       </direction>
       <note>
@@ -15504,9 +15504,9 @@
     </measure>
     <!--========================= Measure 41 =========================-->
     <measure number="41">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -16157,9 +16157,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain 2</words>
+          <words enclosure="none">Refrain 2</words>
         </direction-type>
       </direction>
       <note>
@@ -16814,9 +16814,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Prélude</words>
+          <words enclosure="none">Prélude</words>
         </direction-type>
       </direction>
       <note>
@@ -17077,9 +17077,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Final Trompette</words>
+          <words enclosure="none">Final Trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -17730,9 +17730,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Drum'n bass</words>
+          <words enclosure="none">Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -18411,9 +18411,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Prélude</words>
+          <words enclosure="none">Prélude</words>
         </direction-type>
       </direction>
       <note>
@@ -19240,9 +19240,9 @@
     </measure>
     <!--========================= Measure 9 ==========================-->
     <measure number="9">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -19603,9 +19603,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet cool (option un seul sax)</words>
+          <words enclosure="none">Couplet cool (option un seul sax)</words>
         </direction-type>
       </direction>
       <note>
@@ -20128,9 +20128,9 @@
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet montée</words>
+          <words enclosure="none">Couplet montée </words>
         </direction-type>
       </direction>
       <note>
@@ -20485,9 +20485,9 @@
     </measure>
     <!--========================= Measure 33 =========================-->
     <measure number="33">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet pêchu (tu peux sauter si veux garder du jus pour le refrain)</words>
+          <words enclosure="none">Couplet pêchu (tu peux sauter si veux garder du jus pour le refrain)</words>
         </direction-type>
       </direction>
       <note>
@@ -21042,9 +21042,9 @@
     </measure>
     <!--========================= Measure 41 =========================-->
     <measure number="41">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -21899,9 +21899,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Prélude</words>
+          <words enclosure="none">Prélude</words>
         </direction-type>
       </direction>
       <note>
@@ -22323,9 +22323,9 @@
       <barline location="left">
         <bar-style>regular</bar-style>
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Final Trompette</words>
+          <words enclosure="none">Final Trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -22753,9 +22753,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Drum'n bass</words>
+          <words enclosure="none">Drum'n bass</words>
         </direction-type>
       </direction>
       <note>

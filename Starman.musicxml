@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-18</encoding-date>
+      <encoding-date>2020-04-20</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -121,9 +121,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -363,9 +363,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1</words>
+          <words enclosure="none">Couplet 1</words>
         </direction-type>
       </direction>
       <note>
@@ -637,9 +637,9 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2</words>
+          <words enclosure="none">Couplet 2</words>
         </direction-type>
       </direction>
       <note>
@@ -926,9 +926,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -1526,9 +1526,9 @@
     </measure>
     <!--========================= Measure 32 =========================-->
     <measure number="32">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain 2</words>
+          <words enclosure="none">Refrain 2</words>
         </direction-type>
       </direction>
       <note>
@@ -1813,9 +1813,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros</words>
+          <words enclosure="none">Du gros</words>
         </direction-type>
       </direction>
       <note>
@@ -1860,9 +1860,9 @@
     </measure>
     <!--========================= Measure 39 =========================-->
     <measure number="39">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros 2</words>
+          <words enclosure="none">Du gros 2</words>
         </direction-type>
       </direction>
       <note>
@@ -1894,9 +1894,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros chanté</words>
+          <words enclosure="none">Du gros chanté</words>
         </direction-type>
       </direction>
       <note>
@@ -1937,9 +1937,9 @@
     </measure>
     <!--========================= Measure 46 =========================-->
     <measure number="46">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros chanté 2</words>
+          <words enclosure="none">Du gros chanté 2</words>
         </direction-type>
       </direction>
       <note>
@@ -1970,9 +1970,9 @@
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros normal</words>
+          <words enclosure="none">Du gros normal</words>
         </direction-type>
       </direction>
       <note>
@@ -2003,9 +2003,9 @@
     </measure>
     <!--========================= Measure 54 =========================-->
     <measure number="54">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros normal 2</words>
+          <words enclosure="none">Du gros normal 2</words>
         </direction-type>
       </direction>
       <note>
@@ -2036,9 +2036,9 @@
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros final</words>
+          <words enclosure="none">Du gros final</words>
         </direction-type>
       </direction>
       <note>
@@ -2334,9 +2334,9 @@
     </measure>
     <!--========================= Measure 62 =========================-->
     <measure number="62">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros final 2</words>
+          <words enclosure="none">Du gros final 2</words>
         </direction-type>
       </direction>
       <note>
@@ -2597,9 +2597,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -2840,9 +2840,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1</words>
+          <words enclosure="none">Couplet 1</words>
         </direction-type>
       </direction>
       <note>
@@ -2894,9 +2894,9 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2</words>
+          <words enclosure="none">Couplet 2</words>
         </direction-type>
       </direction>
       <note>
@@ -3494,9 +3494,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -3903,9 +3903,9 @@
     </measure>
     <!--========================= Measure 32 =========================-->
     <measure number="32">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain 2</words>
+          <words enclosure="none">Refrain 2</words>
         </direction-type>
       </direction>
       <note>
@@ -4148,9 +4148,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros</words>
+          <words enclosure="none">Du gros</words>
         </direction-type>
       </direction>
       <note>
@@ -4181,9 +4181,9 @@
     </measure>
     <!--========================= Measure 39 =========================-->
     <measure number="39">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros 2</words>
+          <words enclosure="none">Du gros 2</words>
         </direction-type>
       </direction>
       <note>
@@ -4215,9 +4215,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros chanté</words>
+          <words enclosure="none">Du gros chanté</words>
         </direction-type>
       </direction>
       <note>
@@ -4248,9 +4248,9 @@
     </measure>
     <!--========================= Measure 46 =========================-->
     <measure number="46">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros chanté 2</words>
+          <words enclosure="none">Du gros chanté 2</words>
         </direction-type>
       </direction>
       <note>
@@ -4281,9 +4281,9 @@
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros normal</words>
+          <words enclosure="none">Du gros normal</words>
         </direction-type>
       </direction>
       <note>
@@ -4314,9 +4314,9 @@
     </measure>
     <!--========================= Measure 54 =========================-->
     <measure number="54">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros normal 2</words>
+          <words enclosure="none">Du gros normal 2</words>
         </direction-type>
       </direction>
       <note>
@@ -4607,9 +4607,9 @@
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros final</words>
+          <words enclosure="none">Du gros final</words>
         </direction-type>
       </direction>
       <note>
@@ -4900,9 +4900,9 @@
     </measure>
     <!--========================= Measure 62 =========================-->
     <measure number="62">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros final 2</words>
+          <words enclosure="none">Du gros final 2</words>
         </direction-type>
       </direction>
       <note>
@@ -5161,9 +5161,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -5868,9 +5868,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1</words>
+          <words enclosure="none">Couplet 1</words>
         </direction-type>
       </direction>
       <note>
@@ -6343,9 +6343,9 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2</words>
+          <words enclosure="none">Couplet 2</words>
         </direction-type>
       </direction>
       <note>
@@ -7043,9 +7043,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -7507,9 +7507,9 @@
     </measure>
     <!--========================= Measure 32 =========================-->
     <measure number="32">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain 2</words>
+          <words enclosure="none">Refrain 2</words>
         </direction-type>
       </direction>
       <note>
@@ -7706,9 +7706,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros</words>
+          <words enclosure="none">Du gros</words>
         </direction-type>
       </direction>
       <note>
@@ -8004,9 +8004,9 @@
     </measure>
     <!--========================= Measure 39 =========================-->
     <measure number="39">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros 2</words>
+          <words enclosure="none">Du gros 2</words>
         </direction-type>
       </direction>
       <note>
@@ -8236,9 +8236,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros chanté</words>
+          <words enclosure="none">Du gros chanté</words>
         </direction-type>
       </direction>
       <note>
@@ -8269,9 +8269,9 @@
     </measure>
     <!--========================= Measure 46 =========================-->
     <measure number="46">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros chanté 2</words>
+          <words enclosure="none">Du gros chanté 2</words>
         </direction-type>
       </direction>
       <note>
@@ -8302,9 +8302,9 @@
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros normal</words>
+          <words enclosure="none">Du gros normal</words>
         </direction-type>
       </direction>
       <note>
@@ -8599,9 +8599,9 @@
     </measure>
     <!--========================= Measure 54 =========================-->
     <measure number="54">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros normal 2</words>
+          <words enclosure="none">Du gros normal 2</words>
         </direction-type>
       </direction>
       <note>
@@ -8896,9 +8896,9 @@
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros final</words>
+          <words enclosure="none">Du gros final</words>
         </direction-type>
       </direction>
       <note>
@@ -9193,9 +9193,9 @@
     </measure>
     <!--========================= Measure 62 =========================-->
     <measure number="62">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros final 2</words>
+          <words enclosure="none">Du gros final 2</words>
         </direction-type>
       </direction>
       <note>
@@ -9458,9 +9458,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -10153,9 +10153,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1</words>
+          <words enclosure="none">Couplet 1</words>
         </direction-type>
       </direction>
       <note>
@@ -11407,9 +11407,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -11872,9 +11872,9 @@
     </measure>
     <!--========================= Measure 32 =========================-->
     <measure number="32">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain 2</words>
+          <words enclosure="none">Refrain 2</words>
         </direction-type>
       </direction>
       <note>
@@ -12100,9 +12100,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros</words>
+          <words enclosure="none">Du gros</words>
         </direction-type>
       </direction>
       <note>
@@ -12398,9 +12398,9 @@
     </measure>
     <!--========================= Measure 39 =========================-->
     <measure number="39">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros 2</words>
+          <words enclosure="none">Du gros 2</words>
         </direction-type>
       </direction>
       <note>
@@ -12630,9 +12630,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros chanté</words>
+          <words enclosure="none">Du gros chanté</words>
         </direction-type>
       </direction>
       <note>
@@ -12663,9 +12663,9 @@
     </measure>
     <!--========================= Measure 46 =========================-->
     <measure number="46">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros chanté 2</words>
+          <words enclosure="none">Du gros chanté 2</words>
         </direction-type>
       </direction>
       <note>
@@ -12696,9 +12696,9 @@
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros normal</words>
+          <words enclosure="none">Du gros normal</words>
         </direction-type>
       </direction>
       <note>
@@ -12976,9 +12976,9 @@
     </measure>
     <!--========================= Measure 54 =========================-->
     <measure number="54">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros normal 2</words>
+          <words enclosure="none">Du gros normal 2</words>
         </direction-type>
       </direction>
       <note>
@@ -13256,9 +13256,9 @@
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros final</words>
+          <words enclosure="none">Du gros final</words>
         </direction-type>
       </direction>
       <note>
@@ -13536,9 +13536,9 @@
     </measure>
     <!--========================= Measure 62 =========================-->
     <measure number="62">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros final 2</words>
+          <words enclosure="none">Du gros final 2</words>
         </direction-type>
       </direction>
       <note>
@@ -13776,9 +13776,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -14156,9 +14156,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1</words>
+          <words enclosure="none">Couplet 1</words>
         </direction-type>
       </direction>
       <note>
@@ -14783,9 +14783,9 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2</words>
+          <words enclosure="none">Couplet 2</words>
         </direction-type>
       </direction>
       <note>
@@ -15325,9 +15325,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -15972,9 +15972,9 @@
     </measure>
     <!--========================= Measure 32 =========================-->
     <measure number="32">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain 2</words>
+          <words enclosure="none">Refrain 2</words>
         </direction-type>
       </direction>
       <note>
@@ -16199,9 +16199,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros</words>
+          <words enclosure="none">Du gros</words>
         </direction-type>
       </direction>
       <note>
@@ -16478,9 +16478,9 @@
     </measure>
     <!--========================= Measure 39 =========================-->
     <measure number="39">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros 2</words>
+          <words enclosure="none">Du gros 2</words>
         </direction-type>
       </direction>
       <note>
@@ -16690,9 +16690,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros chanté</words>
+          <words enclosure="none">Du gros chanté</words>
         </direction-type>
       </direction>
       <note>
@@ -16969,9 +16969,9 @@
     </measure>
     <!--========================= Measure 46 =========================-->
     <measure number="46">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros chanté 2</words>
+          <words enclosure="none">Du gros chanté 2</words>
         </direction-type>
       </direction>
       <note>
@@ -17261,9 +17261,9 @@
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros normal</words>
+          <words enclosure="none">Du gros normal</words>
         </direction-type>
       </direction>
       <note>
@@ -17561,9 +17561,9 @@
     </measure>
     <!--========================= Measure 54 =========================-->
     <measure number="54">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros normal 2</words>
+          <words enclosure="none">Du gros normal 2</words>
         </direction-type>
       </direction>
       <note>
@@ -17874,9 +17874,9 @@
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros final</words>
+          <words enclosure="none">Du gros final</words>
         </direction-type>
       </direction>
       <note>
@@ -18234,9 +18234,9 @@
     </measure>
     <!--========================= Measure 62 =========================-->
     <measure number="62">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Du gros final 2</words>
+          <words enclosure="none">Du gros final 2</words>
         </direction-type>
       </direction>
       <note>

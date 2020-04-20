@@ -152,9 +152,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet</words>
+          <words enclosure="none">Couplet </words>
         </direction-type>
       </direction>
       <note>
@@ -249,9 +249,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -1150,9 +1150,9 @@
     </measure>
     <!--========================= Measure 21 =========================-->
     <measure number="21">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet</words>
+          <words enclosure="none">Couplet </words>
         </direction-type>
       </direction>
       <note>
@@ -1247,9 +1247,9 @@
     </measure>
     <!--========================= Measure 29 =========================-->
     <measure number="29">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -2148,9 +2148,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée</words>
+          <words enclosure="none">Montée</words>
         </direction-type>
       </direction>
       <note>
@@ -2401,9 +2401,9 @@
     </measure>
     <!--========================= Measure 42 =========================-->
     <measure number="42">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain épuré</words>
+          <words enclosure="none">Refrain épuré</words>
         </direction-type>
       </direction>
       <note>
@@ -3292,9 +3292,9 @@
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont</words>
+          <words enclosure="none">Pont</words>
         </direction-type>
       </direction>
       <note>
@@ -3804,9 +3804,9 @@
     </measure>
     <!--========================= Measure 54 =========================-->
     <measure number="54">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée Sax</words>
+          <words enclosure="none">Entrée Sax</words>
         </direction-type>
       </direction>
       <note>
@@ -4296,9 +4296,9 @@
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée basse</words>
+          <words enclosure="none">Entrée basse</words>
         </direction-type>
       </direction>
       <note>
@@ -4329,9 +4329,9 @@
     </measure>
     <!--========================= Measure 62 =========================-->
     <measure number="62">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée souba</words>
+          <words enclosure="none">Entrée souba</words>
         </direction-type>
       </direction>
       <note>
@@ -4362,9 +4362,9 @@
     </measure>
     <!--========================= Measure 66 =========================-->
     <measure number="66">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée trompette</words>
+          <words enclosure="none">Entrée trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -4598,9 +4598,9 @@
     </measure>
     <!--========================= Measure 70 =========================-->
     <measure number="70">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée trombone</words>
+          <words enclosure="none">Entrée trombone</words>
         </direction-type>
       </direction>
       <note>
@@ -4834,9 +4834,9 @@
     </measure>
     <!--========================= Measure 74 =========================-->
     <measure number="74">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée Cymbales</words>
+          <words enclosure="none">Entrée Cymbales</words>
         </direction-type>
       </direction>
       <note>
@@ -5371,9 +5371,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet</words>
+          <words enclosure="none">Couplet </words>
         </direction-type>
       </direction>
       <note>
@@ -6027,9 +6027,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -6724,9 +6724,9 @@
     </measure>
     <!--========================= Measure 21 =========================-->
     <measure number="21">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet</words>
+          <words enclosure="none">Couplet </words>
         </direction-type>
       </direction>
       <note>
@@ -7380,9 +7380,9 @@
     </measure>
     <!--========================= Measure 29 =========================-->
     <measure number="29">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -8077,9 +8077,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée</words>
+          <words enclosure="none">Montée</words>
         </direction-type>
       </direction>
       <note>
@@ -8281,9 +8281,9 @@
     </measure>
     <!--========================= Measure 42 =========================-->
     <measure number="42">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain épuré</words>
+          <words enclosure="none">Refrain épuré</words>
         </direction-type>
       </direction>
       <note>
@@ -8584,9 +8584,9 @@
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont</words>
+          <words enclosure="none">Pont</words>
         </direction-type>
       </direction>
       <note>
@@ -8645,9 +8645,9 @@
     </measure>
     <!--========================= Measure 54 =========================-->
     <measure number="54">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée Sax</words>
+          <words enclosure="none">Entrée Sax</words>
         </direction-type>
       </direction>
       <note>
@@ -9153,9 +9153,9 @@
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée basse</words>
+          <words enclosure="none">Entrée basse</words>
         </direction-type>
       </direction>
       <note>
@@ -10063,9 +10063,9 @@
     </measure>
     <!--========================= Measure 62 =========================-->
     <measure number="62">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée souba</words>
+          <words enclosure="none">Entrée souba</words>
         </direction-type>
       </direction>
       <note>
@@ -10973,9 +10973,9 @@
     </measure>
     <!--========================= Measure 66 =========================-->
     <measure number="66">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée trompette</words>
+          <words enclosure="none">Entrée trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -11883,9 +11883,9 @@
     </measure>
     <!--========================= Measure 70 =========================-->
     <measure number="70">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée trombone</words>
+          <words enclosure="none">Entrée trombone</words>
         </direction-type>
       </direction>
       <note>
@@ -12793,9 +12793,9 @@
     </measure>
     <!--========================= Measure 74 =========================-->
     <measure number="74">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée Cymbales</words>
+          <words enclosure="none">Entrée Cymbales</words>
         </direction-type>
       </direction>
       <note>
@@ -14869,9 +14869,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet</words>
+          <words enclosure="none">Couplet </words>
         </direction-type>
       </direction>
       <note>
@@ -15286,9 +15286,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -15713,9 +15713,9 @@
     </measure>
     <!--========================= Measure 21 =========================-->
     <measure number="21">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet</words>
+          <words enclosure="none">Couplet </words>
         </direction-type>
       </direction>
       <note>
@@ -16130,9 +16130,9 @@
     </measure>
     <!--========================= Measure 29 =========================-->
     <measure number="29">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -16557,9 +16557,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée</words>
+          <words enclosure="none">Montée</words>
         </direction-type>
       </direction>
       <note>
@@ -16757,9 +16757,9 @@
     </measure>
     <!--========================= Measure 42 =========================-->
     <measure number="42">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain épuré</words>
+          <words enclosure="none">Refrain épuré</words>
         </direction-type>
       </direction>
       <note>
@@ -17174,9 +17174,9 @@
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont</words>
+          <words enclosure="none">Pont</words>
         </direction-type>
       </direction>
       <note>
@@ -17207,9 +17207,9 @@
     </measure>
     <!--========================= Measure 54 =========================-->
     <measure number="54">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée Sax</words>
+          <words enclosure="none">Entrée Sax</words>
         </direction-type>
       </direction>
       <note>
@@ -17240,9 +17240,9 @@
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée basse</words>
+          <words enclosure="none">Entrée basse</words>
         </direction-type>
       </direction>
       <note>
@@ -17273,9 +17273,9 @@
     </measure>
     <!--========================= Measure 62 =========================-->
     <measure number="62">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée souba</words>
+          <words enclosure="none">Entrée souba</words>
         </direction-type>
       </direction>
       <note>
@@ -17306,9 +17306,9 @@
     </measure>
     <!--========================= Measure 66 =========================-->
     <measure number="66">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée trompette</words>
+          <words enclosure="none">Entrée trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -17372,9 +17372,9 @@
     </measure>
     <!--========================= Measure 70 =========================-->
     <measure number="70">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée trombone</words>
+          <words enclosure="none">Entrée trombone</words>
         </direction-type>
       </direction>
       <note>
@@ -17638,9 +17638,9 @@
     </measure>
     <!--========================= Measure 74 =========================-->
     <measure number="74">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée Cymbales</words>
+          <words enclosure="none">Entrée Cymbales</words>
         </direction-type>
       </direction>
       <note>
@@ -18270,9 +18270,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet</words>
+          <words enclosure="none">Couplet </words>
         </direction-type>
       </direction>
       <note>
@@ -18646,9 +18646,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -19375,9 +19375,9 @@
     </measure>
     <!--========================= Measure 21 =========================-->
     <measure number="21">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet</words>
+          <words enclosure="none">Couplet </words>
         </direction-type>
       </direction>
       <note>
@@ -19751,9 +19751,9 @@
     </measure>
     <!--========================= Measure 29 =========================-->
     <measure number="29">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -20480,9 +20480,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée</words>
+          <words enclosure="none">Montée</words>
         </direction-type>
       </direction>
       <note>
@@ -20684,9 +20684,9 @@
     </measure>
     <!--========================= Measure 42 =========================-->
     <measure number="42">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain épuré</words>
+          <words enclosure="none">Refrain épuré</words>
         </direction-type>
       </direction>
       <note>
@@ -21060,9 +21060,9 @@
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont</words>
+          <words enclosure="none">Pont</words>
         </direction-type>
       </direction>
       <note>
@@ -21093,9 +21093,9 @@
     </measure>
     <!--========================= Measure 54 =========================-->
     <measure number="54">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée Sax</words>
+          <words enclosure="none">Entrée Sax</words>
         </direction-type>
       </direction>
       <note>
@@ -21126,9 +21126,9 @@
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée basse</words>
+          <words enclosure="none">Entrée basse</words>
         </direction-type>
       </direction>
       <note>
@@ -21435,9 +21435,9 @@
     </measure>
     <!--========================= Measure 62 =========================-->
     <measure number="62">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée souba</words>
+          <words enclosure="none">Entrée souba</words>
         </direction-type>
       </direction>
       <note>
@@ -22032,9 +22032,9 @@
     </measure>
     <!--========================= Measure 66 =========================-->
     <measure number="66">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée trompette</words>
+          <words enclosure="none">Entrée trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -22629,9 +22629,9 @@
     </measure>
     <!--========================= Measure 70 =========================-->
     <measure number="70">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée trombone</words>
+          <words enclosure="none">Entrée trombone</words>
         </direction-type>
       </direction>
       <note>
@@ -23226,9 +23226,9 @@
     </measure>
     <!--========================= Measure 74 =========================-->
     <measure number="74">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée Cymbales</words>
+          <words enclosure="none">Entrée Cymbales</words>
         </direction-type>
       </direction>
       <note>
@@ -24518,9 +24518,9 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet</words>
+          <words enclosure="none">Couplet </words>
         </direction-type>
       </direction>
       <note>
@@ -24874,9 +24874,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -25609,9 +25609,9 @@
     </measure>
     <!--========================= Measure 21 =========================-->
     <measure number="21">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet</words>
+          <words enclosure="none">Couplet </words>
         </direction-type>
       </direction>
       <note>
@@ -26373,9 +26373,9 @@
     </measure>
     <!--========================= Measure 29 =========================-->
     <measure number="29">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -27108,9 +27108,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée</words>
+          <words enclosure="none">Montée</words>
         </direction-type>
       </direction>
       <note>
@@ -27216,9 +27216,9 @@
     </measure>
     <!--========================= Measure 42 =========================-->
     <measure number="42">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain épuré</words>
+          <words enclosure="none">Refrain épuré</words>
         </direction-type>
       </direction>
       <note>
@@ -27951,9 +27951,9 @@
     </measure>
     <!--========================= Measure 50 =========================-->
     <measure number="50">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Pont</words>
+          <words enclosure="none">Pont</words>
         </direction-type>
       </direction>
       <note>
@@ -27984,9 +27984,9 @@
     </measure>
     <!--========================= Measure 54 =========================-->
     <measure number="54">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée Sax</words>
+          <words enclosure="none">Entrée Sax</words>
         </direction-type>
       </direction>
       <note>
@@ -28017,9 +28017,9 @@
     </measure>
     <!--========================= Measure 58 =========================-->
     <measure number="58">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée basse</words>
+          <words enclosure="none">Entrée basse</words>
         </direction-type>
       </direction>
       <note>
@@ -28050,9 +28050,9 @@
     </measure>
     <!--========================= Measure 62 =========================-->
     <measure number="62">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée souba</words>
+          <words enclosure="none">Entrée souba</words>
         </direction-type>
       </direction>
       <note>
@@ -28115,9 +28115,9 @@
     </measure>
     <!--========================= Measure 66 =========================-->
     <measure number="66">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée trompette</words>
+          <words enclosure="none">Entrée trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -28174,9 +28174,9 @@
     </measure>
     <!--========================= Measure 70 =========================-->
     <measure number="70">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée trombone</words>
+          <words enclosure="none">Entrée trombone</words>
         </direction-type>
       </direction>
       <note>
@@ -28525,9 +28525,9 @@
     </measure>
     <!--========================= Measure 74 =========================-->
     <measure number="74">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Entrée Cymbales</words>
+          <words enclosure="none">Entrée Cymbales</words>
         </direction-type>
       </direction>
       <note>

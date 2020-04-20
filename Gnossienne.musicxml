@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-19</encoding-date>
+      <encoding-date>2020-04-20</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -111,9 +111,9 @@
           <chromatic>-2</chromatic>
         </transpose>
       </attributes>
-      <direction>
+      <direction placement="below">
         <direction-type>
-          <words enclosure="none" relative-y="20">mesure à vide</words>
+          <words enclosure="none">mesure à vide</words>
         </direction-type>
       </direction>
       <direction>
@@ -132,9 +132,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">INTRO</words>
+          <words enclosure="none">INTRO</words>
         </direction-type>
       </direction>
       <note>
@@ -186,9 +186,9 @@
     </measure>
     <!--========================= Measure 8 ==========================-->
     <measure number="8">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET BASSE</words>
+          <words enclosure="none">COUPLET BASSE</words>
         </direction-type>
       </direction>
       <note>
@@ -303,9 +303,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET SAX</words>
+          <words enclosure="none">COUPLET SAX</words>
         </direction-type>
       </direction>
       <note>
@@ -420,9 +420,9 @@
     </measure>
     <!--========================= Measure 40 =========================-->
     <measure number="40">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET TROMBONE</words>
+          <words enclosure="none">COUPLET TROMBONE</words>
         </direction-type>
       </direction>
       <note>
@@ -1370,9 +1370,9 @@
     </measure>
     <!--========================= Measure 56 =========================-->
     <measure number="56">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">TRANSITION</words>
+          <words enclosure="none">TRANSITION</words>
         </direction-type>
       </direction>
       <note>
@@ -1987,9 +1987,9 @@
     </measure>
     <!--========================= Measure 72 =========================-->
     <measure number="72">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">SOLO</words>
+          <words enclosure="none">SOLO</words>
         </direction-type>
       </direction>
       <note>
@@ -2104,9 +2104,9 @@
     </measure>
     <!--========================= Measure 88 =========================-->
     <measure number="88">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">TRANSITION CHANT</words>
+          <words enclosure="none">TRANSITION CHANT</words>
         </direction-type>
       </direction>
       <note>
@@ -2165,9 +2165,9 @@
     </measure>
     <!--========================= Measure 96 =========================-->
     <measure number="96">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">CHANT la la la la...</words>
+          <words enclosure="none">CHANT la la la la...</words>
         </direction-type>
       </direction>
       <note>
@@ -2198,9 +2198,9 @@
     </measure>
     <!--======================== Measure 100 =========================-->
     <measure number="100">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">UN DEUXIEME</words>
+          <words enclosure="none">UN DEUXIEME</words>
         </direction-type>
       </direction>
       <note>
@@ -2231,9 +2231,9 @@
     </measure>
     <!--======================== Measure 104 =========================-->
     <measure number="104">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">ENCORE UNE FOIS</words>
+          <words enclosure="none">ENCORE UNE FOIS</words>
         </direction-type>
       </direction>
       <note>
@@ -2264,9 +2264,9 @@
     </measure>
     <!--======================== Measure 108 =========================-->
     <measure number="108">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">UNE DERNIERE</words>
+          <words enclosure="none">UNE DERNIERE</words>
         </direction-type>
       </direction>
       <note>
@@ -2276,9 +2276,9 @@
     </measure>
     <!--======================== Measure 109 =========================-->
     <measure number="109">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">roulement caisse claire</words>
+          <words enclosure="none">roulement caisse claire</words>
         </direction-type>
       </direction>
       <note>
@@ -2302,9 +2302,9 @@
     </measure>
     <!--======================== Measure 112 =========================-->
     <measure number="112">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">FINAL</words>
+          <words enclosure="none">FINAL</words>
         </direction-type>
       </direction>
       <note>
@@ -3024,9 +3024,9 @@
           <chromatic>-2</chromatic>
         </transpose>
       </attributes>
-      <direction>
+      <direction placement="below">
         <direction-type>
-          <words enclosure="none" relative-y="20">mesure à vide</words>
+          <words enclosure="none">mesure à vide</words>
         </direction-type>
       </direction>
       <note>
@@ -3036,9 +3036,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">INTRO</words>
+          <words enclosure="none">INTRO</words>
         </direction-type>
       </direction>
       <note>
@@ -3094,9 +3094,9 @@
     </measure>
     <!--========================= Measure 8 ==========================-->
     <measure number="8">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET BASSE</words>
+          <words enclosure="none">COUPLET BASSE</words>
         </direction-type>
       </direction>
       <note>
@@ -3301,9 +3301,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET SAX</words>
+          <words enclosure="none">COUPLET SAX</words>
         </direction-type>
       </direction>
       <note>
@@ -4021,9 +4021,9 @@
     </measure>
     <!--========================= Measure 40 =========================-->
     <measure number="40">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET TROMBONE</words>
+          <words enclosure="none">COUPLET TROMBONE</words>
         </direction-type>
       </direction>
       <note>
@@ -5842,9 +5842,9 @@
     </measure>
     <!--========================= Measure 56 =========================-->
     <measure number="56">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">TRANSITION</words>
+          <words enclosure="none">TRANSITION</words>
         </direction-type>
       </direction>
       <note>
@@ -6582,9 +6582,9 @@
     </measure>
     <!--========================= Measure 72 =========================-->
     <measure number="72">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">SOLO</words>
+          <words enclosure="none">SOLO</words>
         </direction-type>
       </direction>
       <note>
@@ -6699,9 +6699,9 @@
     </measure>
     <!--========================= Measure 88 =========================-->
     <measure number="88">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">TRANSITION CHANT</words>
+          <words enclosure="none">TRANSITION CHANT</words>
         </direction-type>
       </direction>
       <note>
@@ -6760,9 +6760,9 @@
     </measure>
     <!--========================= Measure 96 =========================-->
     <measure number="96">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">CHANT la la la la...</words>
+          <words enclosure="none">CHANT la la la la...</words>
         </direction-type>
       </direction>
       <note>
@@ -6793,9 +6793,9 @@
     </measure>
     <!--======================== Measure 100 =========================-->
     <measure number="100">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">UN DEUXIEME</words>
+          <words enclosure="none">UN DEUXIEME</words>
         </direction-type>
       </direction>
       <note>
@@ -6826,9 +6826,9 @@
     </measure>
     <!--======================== Measure 104 =========================-->
     <measure number="104">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">ENCORE UNE FOIS</words>
+          <words enclosure="none">ENCORE UNE FOIS</words>
         </direction-type>
       </direction>
       <note>
@@ -6859,9 +6859,9 @@
     </measure>
     <!--======================== Measure 108 =========================-->
     <measure number="108">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">UNE DERNIERE</words>
+          <words enclosure="none">UNE DERNIERE</words>
         </direction-type>
       </direction>
       <note>
@@ -6871,9 +6871,9 @@
     </measure>
     <!--======================== Measure 109 =========================-->
     <measure number="109">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">roulement caisse claire</words>
+          <words enclosure="none">roulement caisse claire</words>
         </direction-type>
       </direction>
       <note>
@@ -6897,9 +6897,9 @@
     </measure>
     <!--======================== Measure 112 =========================-->
     <measure number="112">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">FINAL</words>
+          <words enclosure="none">FINAL</words>
         </direction-type>
       </direction>
       <note>
@@ -7641,9 +7641,9 @@
           <octave-change>-1</octave-change>
         </transpose>
       </attributes>
-      <direction>
+      <direction placement="below">
         <direction-type>
-          <words enclosure="none" relative-y="20">mesure à vide</words>
+          <words enclosure="none">mesure à vide</words>
         </direction-type>
       </direction>
       <note>
@@ -7653,9 +7653,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">INTRO</words>
+          <words enclosure="none">INTRO</words>
         </direction-type>
       </direction>
       <note>
@@ -8295,9 +8295,9 @@
     </measure>
     <!--========================= Measure 8 ==========================-->
     <measure number="8">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET BASSE</words>
+          <words enclosure="none">COUPLET BASSE</words>
         </direction-type>
       </direction>
       <note>
@@ -9696,9 +9696,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET SAX</words>
+          <words enclosure="none">COUPLET SAX</words>
         </direction-type>
       </direction>
       <note>
@@ -10153,9 +10153,9 @@
     </measure>
     <!--========================= Measure 40 =========================-->
     <measure number="40">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET TROMBONE</words>
+          <words enclosure="none">COUPLET TROMBONE</words>
         </direction-type>
       </direction>
       <note>
@@ -10839,9 +10839,9 @@
     </measure>
     <!--========================= Measure 56 =========================-->
     <measure number="56">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">TRANSITION</words>
+          <words enclosure="none">TRANSITION</words>
         </direction-type>
       </direction>
       <note>
@@ -12660,9 +12660,9 @@
     </measure>
     <!--========================= Measure 72 =========================-->
     <measure number="72">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">SOLO</words>
+          <words enclosure="none">SOLO</words>
         </direction-type>
       </direction>
       <note>
@@ -14421,9 +14421,9 @@
     </measure>
     <!--========================= Measure 88 =========================-->
     <measure number="88">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">TRANSITION CHANT</words>
+          <words enclosure="none">TRANSITION CHANT</words>
         </direction-type>
       </direction>
       <note>
@@ -14831,9 +14831,9 @@
     </measure>
     <!--========================= Measure 96 =========================-->
     <measure number="96">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">CHANT la la la la...</words>
+          <words enclosure="none">CHANT la la la la...</words>
         </direction-type>
       </direction>
       <note>
@@ -14864,9 +14864,9 @@
     </measure>
     <!--======================== Measure 100 =========================-->
     <measure number="100">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">UN DEUXIEME</words>
+          <words enclosure="none">UN DEUXIEME</words>
         </direction-type>
       </direction>
       <note>
@@ -14897,9 +14897,9 @@
     </measure>
     <!--======================== Measure 104 =========================-->
     <measure number="104">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">ENCORE UNE FOIS</words>
+          <words enclosure="none">ENCORE UNE FOIS</words>
         </direction-type>
       </direction>
       <note>
@@ -14930,9 +14930,9 @@
     </measure>
     <!--======================== Measure 108 =========================-->
     <measure number="108">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">UNE DERNIERE</words>
+          <words enclosure="none">UNE DERNIERE</words>
         </direction-type>
       </direction>
       <note>
@@ -14942,9 +14942,9 @@
     </measure>
     <!--======================== Measure 109 =========================-->
     <measure number="109">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">roulement caisse claire</words>
+          <words enclosure="none">roulement caisse claire</words>
         </direction-type>
       </direction>
       <note>
@@ -14968,9 +14968,9 @@
     </measure>
     <!--======================== Measure 112 =========================-->
     <measure number="112">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">FINAL</words>
+          <words enclosure="none">FINAL</words>
         </direction-type>
       </direction>
       <note>
@@ -16826,9 +16826,9 @@
           <octave-change>-1</octave-change>
         </transpose>
       </attributes>
-      <direction>
+      <direction placement="below">
         <direction-type>
-          <words enclosure="none" relative-y="20">mesure à vide</words>
+          <words enclosure="none">mesure à vide</words>
         </direction-type>
       </direction>
       <note>
@@ -16838,9 +16838,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">INTRO</words>
+          <words enclosure="none">INTRO</words>
         </direction-type>
       </direction>
       <note>
@@ -16892,9 +16892,9 @@
     </measure>
     <!--========================= Measure 8 ==========================-->
     <measure number="8">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET BASSE</words>
+          <words enclosure="none">COUPLET BASSE</words>
         </direction-type>
       </direction>
       <note>
@@ -17769,9 +17769,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET SAX</words>
+          <words enclosure="none">COUPLET SAX</words>
         </direction-type>
       </direction>
       <note>
@@ -19590,9 +19590,9 @@
     </measure>
     <!--========================= Measure 40 =========================-->
     <measure number="40">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET TROMBONE</words>
+          <words enclosure="none">COUPLET TROMBONE</words>
         </direction-type>
       </direction>
       <note>
@@ -20047,9 +20047,9 @@
     </measure>
     <!--========================= Measure 56 =========================-->
     <measure number="56">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">TRANSITION</words>
+          <words enclosure="none">TRANSITION</words>
         </direction-type>
       </direction>
       <note>
@@ -21868,9 +21868,9 @@
     </measure>
     <!--========================= Measure 72 =========================-->
     <measure number="72">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">SOLO</words>
+          <words enclosure="none">SOLO</words>
         </direction-type>
       </direction>
       <note>
@@ -23629,9 +23629,9 @@
     </measure>
     <!--========================= Measure 88 =========================-->
     <measure number="88">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">TRANSITION CHANT</words>
+          <words enclosure="none">TRANSITION CHANT</words>
         </direction-type>
       </direction>
       <note>
@@ -24039,9 +24039,9 @@
     </measure>
     <!--========================= Measure 96 =========================-->
     <measure number="96">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">CHANT la la la la...</words>
+          <words enclosure="none">CHANT la la la la...</words>
         </direction-type>
       </direction>
       <note>
@@ -24072,9 +24072,9 @@
     </measure>
     <!--======================== Measure 100 =========================-->
     <measure number="100">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">UN DEUXIEME</words>
+          <words enclosure="none">UN DEUXIEME</words>
         </direction-type>
       </direction>
       <note>
@@ -24105,9 +24105,9 @@
     </measure>
     <!--======================== Measure 104 =========================-->
     <measure number="104">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">ENCORE UNE FOIS</words>
+          <words enclosure="none">ENCORE UNE FOIS</words>
         </direction-type>
       </direction>
       <note>
@@ -24138,9 +24138,9 @@
     </measure>
     <!--======================== Measure 108 =========================-->
     <measure number="108">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">UNE DERNIERE</words>
+          <words enclosure="none">UNE DERNIERE</words>
         </direction-type>
       </direction>
       <note>
@@ -24150,9 +24150,9 @@
     </measure>
     <!--======================== Measure 109 =========================-->
     <measure number="109">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">roulement caisse claire</words>
+          <words enclosure="none">roulement caisse claire</words>
         </direction-type>
       </direction>
       <note>
@@ -24176,9 +24176,9 @@
     </measure>
     <!--======================== Measure 112 =========================-->
     <measure number="112">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">FINAL</words>
+          <words enclosure="none">FINAL</words>
         </direction-type>
       </direction>
       <note>
@@ -26037,9 +26037,9 @@
           <octave-change>-2</octave-change>
         </transpose>
       </attributes>
-      <direction>
+      <direction placement="below">
         <direction-type>
-          <words enclosure="none" relative-y="20">mesure à vide</words>
+          <words enclosure="none">mesure à vide</words>
         </direction-type>
       </direction>
       <note>
@@ -26049,9 +26049,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">INTRO</words>
+          <words enclosure="none">INTRO</words>
         </direction-type>
       </direction>
       <note>
@@ -26236,9 +26236,9 @@
     </measure>
     <!--========================= Measure 8 ==========================-->
     <measure number="8">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET BASSE</words>
+          <words enclosure="none">COUPLET BASSE</words>
         </direction-type>
       </direction>
       <note>
@@ -26859,9 +26859,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET SAX</words>
+          <words enclosure="none">COUPLET SAX</words>
         </direction-type>
       </direction>
       <note>
@@ -27841,9 +27841,9 @@
     </measure>
     <!--========================= Measure 40 =========================-->
     <measure number="40">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET TROMBONE</words>
+          <words enclosure="none">COUPLET TROMBONE</words>
         </direction-type>
       </direction>
       <note>
@@ -28682,9 +28682,9 @@
     </measure>
     <!--========================= Measure 56 =========================-->
     <measure number="56">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">TRANSITION</words>
+          <words enclosure="none">TRANSITION</words>
         </direction-type>
       </direction>
       <note>
@@ -29687,9 +29687,9 @@
     </measure>
     <!--========================= Measure 72 =========================-->
     <measure number="72">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">SOLO</words>
+          <words enclosure="none">SOLO</words>
         </direction-type>
       </direction>
       <note>
@@ -30692,9 +30692,9 @@
     </measure>
     <!--========================= Measure 88 =========================-->
     <measure number="88">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">TRANSITION CHANT</words>
+          <words enclosure="none">TRANSITION CHANT</words>
         </direction-type>
       </direction>
       <note>
@@ -31325,9 +31325,9 @@
     </measure>
     <!--======================== Measure 100 =========================-->
     <measure number="100">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">UN DEUXIEME</words>
+          <words enclosure="none">UN DEUXIEME</words>
         </direction-type>
       </direction>
       <note>
@@ -31538,9 +31538,9 @@
     </measure>
     <!--======================== Measure 104 =========================-->
     <measure number="104">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">ENCORE UNE FOIS</words>
+          <words enclosure="none">ENCORE UNE FOIS</words>
         </direction-type>
       </direction>
       <note>
@@ -31751,9 +31751,9 @@
     </measure>
     <!--======================== Measure 108 =========================-->
     <measure number="108">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">UNE DERNIERE</words>
+          <words enclosure="none">UNE DERNIERE</words>
         </direction-type>
       </direction>
       <note>
@@ -32046,9 +32046,9 @@
     </measure>
     <!--======================== Measure 112 =========================-->
     <measure number="112">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">FINAL</words>
+          <words enclosure="none">FINAL</words>
         </direction-type>
       </direction>
       <note>
@@ -33091,9 +33091,9 @@
           <chromatic>3</chromatic>
         </transpose>
       </attributes>
-      <direction>
+      <direction placement="below">
         <direction-type>
-          <words enclosure="none" relative-y="20">mesure à vide</words>
+          <words enclosure="none">mesure à vide</words>
         </direction-type>
       </direction>
       <note>
@@ -33103,9 +33103,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">INTRO</words>
+          <words enclosure="none">INTRO</words>
         </direction-type>
       </direction>
       <note>
@@ -33161,9 +33161,9 @@
     </measure>
     <!--========================= Measure 8 ==========================-->
     <measure number="8">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET BASSE</words>
+          <words enclosure="none">COUPLET BASSE</words>
         </direction-type>
       </direction>
       <note>
@@ -33368,9 +33368,9 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET SAX</words>
+          <words enclosure="none">COUPLET SAX</words>
         </direction-type>
       </direction>
       <note>
@@ -34097,9 +34097,9 @@
     </measure>
     <!--========================= Measure 40 =========================-->
     <measure number="40">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">COUPLET TROMBONE</words>
+          <words enclosure="none">COUPLET TROMBONE</words>
         </direction-type>
       </direction>
       <note>
@@ -36005,9 +36005,9 @@
     </measure>
     <!--========================= Measure 56 =========================-->
     <measure number="56">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">TRANSITION</words>
+          <words enclosure="none">TRANSITION</words>
         </direction-type>
       </direction>
       <note>
@@ -36773,9 +36773,9 @@
     </measure>
     <!--========================= Measure 72 =========================-->
     <measure number="72">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">SOLO</words>
+          <words enclosure="none">SOLO</words>
         </direction-type>
       </direction>
       <note>
@@ -36890,9 +36890,9 @@
     </measure>
     <!--========================= Measure 88 =========================-->
     <measure number="88">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">TRANSITION CHANT</words>
+          <words enclosure="none">TRANSITION CHANT</words>
         </direction-type>
       </direction>
       <note>
@@ -36951,9 +36951,9 @@
     </measure>
     <!--========================= Measure 96 =========================-->
     <measure number="96">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">CHANT la la la la...</words>
+          <words enclosure="none">CHANT la la la la...</words>
         </direction-type>
       </direction>
       <note>
@@ -36984,9 +36984,9 @@
     </measure>
     <!--======================== Measure 100 =========================-->
     <measure number="100">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">UN DEUXIEME</words>
+          <words enclosure="none">UN DEUXIEME</words>
         </direction-type>
       </direction>
       <note>
@@ -37017,9 +37017,9 @@
     </measure>
     <!--======================== Measure 104 =========================-->
     <measure number="104">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">ENCORE UNE FOIS</words>
+          <words enclosure="none">ENCORE UNE FOIS</words>
         </direction-type>
       </direction>
       <note>
@@ -37050,9 +37050,9 @@
     </measure>
     <!--======================== Measure 108 =========================-->
     <measure number="108">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">UNE DERNIERE</words>
+          <words enclosure="none">UNE DERNIERE</words>
         </direction-type>
       </direction>
       <note>
@@ -37062,9 +37062,9 @@
     </measure>
     <!--======================== Measure 109 =========================-->
     <measure number="109">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">roulement caisse claire</words>
+          <words enclosure="none">roulement caisse claire</words>
         </direction-type>
       </direction>
       <note>
@@ -37088,9 +37088,9 @@
     </measure>
     <!--======================== Measure 112 =========================-->
     <measure number="112">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">FINAL</words>
+          <words enclosure="none">FINAL</words>
         </direction-type>
       </direction>
       <note>

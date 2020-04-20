@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-19</encoding-date>
+      <encoding-date>2020-04-20</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -302,9 +302,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1</words>
+          <words enclosure="none">Couplet 1</words>
         </direction-type>
       </direction>
       <note>
@@ -640,9 +640,9 @@
     </measure>
     <!--========================= Measure 18 =========================-->
     <measure number="18">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2</words>
+          <words enclosure="none">Couplet 2</words>
         </direction-type>
       </direction>
       <note>
@@ -1307,9 +1307,9 @@
     </measure>
     <!--========================= Measure 26 =========================-->
     <measure number="26">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -1726,9 +1726,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">CHORE</words>
+          <words enclosure="none">CHORE</words>
         </direction-type>
       </direction>
       <note>
@@ -1876,9 +1876,9 @@
     </measure>
     <!--========================= Measure 51 =========================-->
     <measure number="51">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fin de choré</words>
+          <words enclosure="none">Fin de choré</words>
         </direction-type>
       </direction>
       <note>
@@ -2324,9 +2324,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Changement de tonalité</words>
+          <words enclosure="none">Changement de tonalité</words>
         </direction-type>
       </direction>
       <note>
@@ -2819,9 +2819,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -3649,9 +3649,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1</words>
+          <words enclosure="none">Couplet 1</words>
         </direction-type>
       </direction>
       <note>
@@ -4139,9 +4139,9 @@
     </measure>
     <!--========================= Measure 18 =========================-->
     <measure number="18">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2</words>
+          <words enclosure="none">Couplet 2</words>
         </direction-type>
       </direction>
       <note>
@@ -4480,9 +4480,9 @@
     </measure>
     <!--========================= Measure 26 =========================-->
     <measure number="26">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -5786,9 +5786,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">CHORE</words>
+          <words enclosure="none">CHORE</words>
         </direction-type>
       </direction>
       <note>
@@ -5936,9 +5936,9 @@
     </measure>
     <!--========================= Measure 51 =========================-->
     <measure number="51">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fin de choré</words>
+          <words enclosure="none">Fin de choré</words>
         </direction-type>
       </direction>
       <note>
@@ -6448,9 +6448,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Changement de tonalité</words>
+          <words enclosure="none">Changement de tonalité</words>
         </direction-type>
       </direction>
       <note>
@@ -6954,9 +6954,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -9114,9 +9114,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1</words>
+          <words enclosure="none">Couplet 1</words>
         </direction-type>
       </direction>
       <note>
@@ -9681,9 +9681,9 @@
     </measure>
     <!--========================= Measure 18 =========================-->
     <measure number="18">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2</words>
+          <words enclosure="none">Couplet 2</words>
         </direction-type>
       </direction>
       <note>
@@ -10168,9 +10168,9 @@
     </measure>
     <!--========================= Measure 26 =========================-->
     <measure number="26">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -11137,9 +11137,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">CHORE</words>
+          <words enclosure="none">CHORE</words>
         </direction-type>
       </direction>
       <note>
@@ -11287,9 +11287,9 @@
     </measure>
     <!--========================= Measure 51 =========================-->
     <measure number="51">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fin de choré</words>
+          <words enclosure="none">Fin de choré</words>
         </direction-type>
       </direction>
       <note>
@@ -11872,9 +11872,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Changement de tonalité</words>
+          <words enclosure="none">Changement de tonalité</words>
         </direction-type>
       </direction>
       <note>
@@ -12787,9 +12787,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -14004,9 +14004,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1</words>
+          <words enclosure="none">Couplet 1</words>
         </direction-type>
       </direction>
       <note>
@@ -14476,9 +14476,9 @@
     </measure>
     <!--========================= Measure 18 =========================-->
     <measure number="18">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2</words>
+          <words enclosure="none">Couplet 2</words>
         </direction-type>
       </direction>
       <note>
@@ -14940,9 +14940,9 @@
     </measure>
     <!--========================= Measure 26 =========================-->
     <measure number="26">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -15756,9 +15756,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">CHORE</words>
+          <words enclosure="none">CHORE</words>
         </direction-type>
       </direction>
       <note>
@@ -17096,9 +17096,9 @@
     </measure>
     <!--========================= Measure 51 =========================-->
     <measure number="51">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fin de choré</words>
+          <words enclosure="none">Fin de choré</words>
         </direction-type>
       </direction>
       <note>
@@ -18364,9 +18364,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Changement de tonalité</words>
+          <words enclosure="none">Changement de tonalité</words>
         </direction-type>
       </direction>
       <note>
@@ -19035,9 +19035,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -19965,9 +19965,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1</words>
+          <words enclosure="none">Couplet 1</words>
         </direction-type>
       </direction>
       <note>
@@ -20034,9 +20034,9 @@
     </measure>
     <!--========================= Measure 18 =========================-->
     <measure number="18">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2</words>
+          <words enclosure="none">Couplet 2</words>
         </direction-type>
       </direction>
       <note>
@@ -20103,9 +20103,9 @@
     </measure>
     <!--========================= Measure 26 =========================-->
     <measure number="26">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -20198,9 +20198,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">CHORE</words>
+          <words enclosure="none">CHORE</words>
         </direction-type>
       </direction>
       <note>
@@ -21326,9 +21326,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1</words>
+          <words enclosure="none">Couplet 1</words>
         </direction-type>
       </direction>
       <note>
@@ -21817,9 +21817,9 @@
     </measure>
     <!--========================= Measure 18 =========================-->
     <measure number="18">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2</words>
+          <words enclosure="none">Couplet 2</words>
         </direction-type>
       </direction>
       <note>
@@ -22160,9 +22160,9 @@
     </measure>
     <!--========================= Measure 26 =========================-->
     <measure number="26">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -23482,9 +23482,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">CHORE</words>
+          <words enclosure="none">CHORE</words>
         </direction-type>
       </direction>
       <note>
@@ -23632,9 +23632,9 @@
     </measure>
     <!--========================= Measure 51 =========================-->
     <measure number="51">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fin de choré</words>
+          <words enclosure="none">Fin de choré</words>
         </direction-type>
       </direction>
       <note>
@@ -24148,9 +24148,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Changement de tonalité</words>
+          <words enclosure="none">Changement de tonalité</words>
         </direction-type>
       </direction>
       <note>
@@ -24656,9 +24656,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -26679,9 +26679,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 1</words>
+          <words enclosure="none">Couplet 1</words>
         </direction-type>
       </direction>
       <note>
@@ -27258,9 +27258,9 @@
     </measure>
     <!--========================= Measure 18 =========================-->
     <measure number="18">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet 2</words>
+          <words enclosure="none">Couplet 2</words>
         </direction-type>
       </direction>
       <note>
@@ -27837,9 +27837,9 @@
     </measure>
     <!--========================= Measure 26 =========================-->
     <measure number="26">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -28578,9 +28578,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">CHORE</words>
+          <words enclosure="none">CHORE</words>
         </direction-type>
       </direction>
       <note>
@@ -28714,9 +28714,9 @@
     </measure>
     <!--========================= Measure 51 =========================-->
     <measure number="51">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fin de choré</words>
+          <words enclosure="none">Fin de choré</words>
         </direction-type>
       </direction>
       <note>
@@ -29125,9 +29125,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Changement de tonalité</words>
+          <words enclosure="none">Changement de tonalité</words>
         </direction-type>
       </direction>
       <note>
@@ -30022,9 +30022,9 @@
       <barline location="left">
         <repeat direction="forward" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain</words>
+          <words enclosure="none">Refrain</words>
         </direction-type>
       </direction>
       <note>

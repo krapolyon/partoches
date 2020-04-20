@@ -121,9 +121,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -182,9 +182,9 @@
     </measure>
     <!--========================= Measure 9 ==========================-->
     <measure number="9">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain posé</words>
+          <words enclosure="none">Refrain posé</words>
         </direction-type>
       </direction>
       <note>
@@ -331,9 +331,9 @@
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain disco</words>
+          <words enclosure="none">Refrain disco</words>
         </direction-type>
       </direction>
       <note>
@@ -1921,9 +1921,9 @@
     </measure>
     <!--========================= Measure 41 =========================-->
     <measure number="41">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Solo Drum'n bass</words>
+          <words enclosure="none">Solo Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -2038,9 +2038,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break posé</words>
+          <words enclosure="none">Break posé</words>
         </direction-type>
       </direction>
       <note>
@@ -2428,9 +2428,9 @@
     </measure>
     <!--========================= Measure 73 =========================-->
     <measure number="73">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break Drum'n bass</words>
+          <words enclosure="none">Break Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -2929,9 +2929,9 @@
     </measure>
     <!--========================= Measure 89 =========================-->
     <measure number="89">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain disco final</words>
+          <words enclosure="none">Refrain disco final</words>
         </direction-type>
       </direction>
       <note>
@@ -4559,9 +4559,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -4620,9 +4620,9 @@
     </measure>
     <!--========================= Measure 9 ==========================-->
     <measure number="9">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain posé</words>
+          <words enclosure="none">Refrain posé</words>
         </direction-type>
       </direction>
       <note>
@@ -6210,9 +6210,9 @@
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain disco</words>
+          <words enclosure="none">Refrain disco</words>
         </direction-type>
       </direction>
       <note>
@@ -7800,9 +7800,9 @@
     </measure>
     <!--========================= Measure 41 =========================-->
     <measure number="41">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Solo Drum'n bass</words>
+          <words enclosure="none">Solo Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -7917,9 +7917,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break posé</words>
+          <words enclosure="none">Break posé</words>
         </direction-type>
       </direction>
       <note>
@@ -8161,9 +8161,9 @@
     </measure>
     <!--========================= Measure 73 =========================-->
     <measure number="73">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break Drum'n bass</words>
+          <words enclosure="none">Break Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -9751,9 +9751,9 @@
     </measure>
     <!--========================= Measure 89 =========================-->
     <measure number="89">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain disco final</words>
+          <words enclosure="none">Refrain disco final</words>
         </direction-type>
       </direction>
       <note>
@@ -12768,9 +12768,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -12893,9 +12893,9 @@
     </measure>
     <!--========================= Measure 9 ==========================-->
     <measure number="9">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain posé</words>
+          <words enclosure="none">Refrain posé</words>
         </direction-type>
       </direction>
       <note>
@@ -13131,9 +13131,9 @@
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain disco</words>
+          <words enclosure="none">Refrain disco</words>
         </direction-type>
       </direction>
       <note>
@@ -16034,9 +16034,9 @@
     </measure>
     <!--========================= Measure 41 =========================-->
     <measure number="41">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Solo Drum'n bass</words>
+          <words enclosure="none">Solo Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -16629,9 +16629,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break posé</words>
+          <words enclosure="none">Break posé</words>
         </direction-type>
       </direction>
       <note>
@@ -17034,9 +17034,9 @@
     </measure>
     <!--========================= Measure 73 =========================-->
     <measure number="73">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break Drum'n bass</words>
+          <words enclosure="none">Break Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -19937,9 +19937,9 @@
     </measure>
     <!--========================= Measure 89 =========================-->
     <measure number="89">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain disco final</words>
+          <words enclosure="none">Refrain disco final</words>
         </direction-type>
       </direction>
       <note>
@@ -20376,9 +20376,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -20437,9 +20437,9 @@
     </measure>
     <!--========================= Measure 9 ==========================-->
     <measure number="9">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain posé</words>
+          <words enclosure="none">Refrain posé</words>
         </direction-type>
       </direction>
       <note>
@@ -22027,9 +22027,9 @@
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain disco</words>
+          <words enclosure="none">Refrain disco</words>
         </direction-type>
       </direction>
       <note>
@@ -24930,9 +24930,9 @@
     </measure>
     <!--========================= Measure 41 =========================-->
     <measure number="41">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Solo Drum'n bass</words>
+          <words enclosure="none">Solo Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -26663,9 +26663,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break posé</words>
+          <words enclosure="none">Break posé</words>
         </direction-type>
       </direction>
       <note>
@@ -27485,9 +27485,9 @@
     </measure>
     <!--========================= Measure 73 =========================-->
     <measure number="73">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break Drum'n bass</words>
+          <words enclosure="none">Break Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -29075,9 +29075,9 @@
     </measure>
     <!--========================= Measure 89 =========================-->
     <measure number="89">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain disco final</words>
+          <words enclosure="none">Refrain disco final</words>
         </direction-type>
       </direction>
       <note>
@@ -32092,9 +32092,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -32561,9 +32561,9 @@
     </measure>
     <!--========================= Measure 9 ==========================-->
     <measure number="9">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain posé</words>
+          <words enclosure="none">Refrain posé</words>
         </direction-type>
       </direction>
       <note>
@@ -33566,9 +33566,9 @@
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain disco</words>
+          <words enclosure="none">Refrain disco</words>
         </direction-type>
       </direction>
       <note>
@@ -34732,9 +34732,9 @@
     </measure>
     <!--========================= Measure 41 =========================-->
     <measure number="41">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Solo Drum'n bass</words>
+          <words enclosure="none">Solo Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -35871,9 +35871,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break posé</words>
+          <words enclosure="none">Break posé</words>
         </direction-type>
       </direction>
       <note>
@@ -36876,9 +36876,9 @@
     </measure>
     <!--========================= Measure 73 =========================-->
     <measure number="73">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break Drum'n bass</words>
+          <words enclosure="none">Break Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -38015,9 +38015,9 @@
     </measure>
     <!--========================= Measure 89 =========================-->
     <measure number="89">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain disco final</words>
+          <words enclosure="none">Refrain disco final</words>
         </direction-type>
       </direction>
       <note>
@@ -39220,9 +39220,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -39281,9 +39281,9 @@
     </measure>
     <!--========================= Measure 9 ==========================-->
     <measure number="9">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain posé</words>
+          <words enclosure="none">Refrain posé</words>
         </direction-type>
       </direction>
       <note>
@@ -40894,9 +40894,9 @@
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain disco</words>
+          <words enclosure="none">Refrain disco</words>
         </direction-type>
       </direction>
       <note>
@@ -42507,9 +42507,9 @@
     </measure>
     <!--========================= Measure 41 =========================-->
     <measure number="41">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Solo Drum'n bass</words>
+          <words enclosure="none">Solo Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -42624,9 +42624,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break posé</words>
+          <words enclosure="none">Break posé</words>
         </direction-type>
       </direction>
       <note>
@@ -42870,9 +42870,9 @@
     </measure>
     <!--========================= Measure 73 =========================-->
     <measure number="73">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break Drum'n bass</words>
+          <words enclosure="none">Break Drum'n bass</words>
         </direction-type>
       </direction>
       <note>
@@ -44483,9 +44483,9 @@
     </measure>
     <!--========================= Measure 89 =========================-->
     <measure number="89">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain disco final</words>
+          <words enclosure="none">Refrain disco final</words>
         </direction-type>
       </direction>
       <note>

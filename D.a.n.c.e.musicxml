@@ -533,9 +533,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -854,9 +854,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition 1</words>
+          <words enclosure="none">Transition 1</words>
         </direction-type>
       </direction>
       <note>
@@ -1108,9 +1108,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refain</words>
+          <words enclosure="none">Refain</words>
         </direction-type>
       </direction>
       <note>
@@ -1952,9 +1952,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fausse intro</words>
+          <words enclosure="none">Fausse intro</words>
         </direction-type>
       </direction>
       <note>
@@ -2300,9 +2300,9 @@
     </measure>
     <!--========================= Measure 43 =========================-->
     <measure number="43">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition 2</words>
+          <words enclosure="none">Transition 2</words>
         </direction-type>
       </direction>
       <note>
@@ -2537,9 +2537,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refain</words>
+          <words enclosure="none">Refain</words>
         </direction-type>
       </direction>
       <note>
@@ -2608,9 +2608,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break trombone</words>
+          <words enclosure="none">Break trombone</words>
         </direction-type>
       </direction>
       <note>
@@ -2793,9 +2793,9 @@
     </measure>
     <!--========================= Measure 56 =========================-->
     <measure number="56">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Question/réponse</words>
+          <words enclosure="none">Question/réponse</words>
         </direction-type>
       </direction>
       <note>
@@ -3138,9 +3138,9 @@
     </measure>
     <!--========================= Measure 64 =========================-->
     <measure number="64">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break Trompette</words>
+          <words enclosure="none">Break Trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -4299,9 +4299,9 @@
     </measure>
     <!--========================= Measure 72 =========================-->
     <measure number="72">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Final</words>
+          <words enclosure="none">Final</words>
         </direction-type>
       </direction>
       <note>
@@ -4964,9 +4964,9 @@
     </measure>
     <!--========================= Measure 80 =========================-->
     <measure number="80">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain final</words>
+          <words enclosure="none">Refrain final</words>
         </direction-type>
       </direction>
       <note>
@@ -5666,9 +5666,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -6493,9 +6493,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition 1</words>
+          <words enclosure="none">Transition 1</words>
         </direction-type>
       </direction>
       <note>
@@ -6642,9 +6642,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refain</words>
+          <words enclosure="none">Refain</words>
         </direction-type>
       </direction>
       <note>
@@ -7705,9 +7705,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fausse intro</words>
+          <words enclosure="none">Fausse intro</words>
         </direction-type>
       </direction>
       <note>
@@ -8313,9 +8313,9 @@
     </measure>
     <!--========================= Measure 43 =========================-->
     <measure number="43">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition 2</words>
+          <words enclosure="none">Transition 2</words>
         </direction-type>
       </direction>
       <note>
@@ -8462,9 +8462,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refain</words>
+          <words enclosure="none">Refain</words>
         </direction-type>
       </direction>
       <note>
@@ -8529,9 +8529,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break trombone</words>
+          <words enclosure="none">Break trombone</words>
         </direction-type>
       </direction>
       <note>
@@ -8876,9 +8876,9 @@
     </measure>
     <!--========================= Measure 56 =========================-->
     <measure number="56">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Question/réponse</words>
+          <words enclosure="none">Question/réponse</words>
         </direction-type>
       </direction>
       <note>
@@ -9241,9 +9241,9 @@
     </measure>
     <!--========================= Measure 64 =========================-->
     <measure number="64">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break Trompette</words>
+          <words enclosure="none">Break Trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -9471,9 +9471,9 @@
     </measure>
     <!--========================= Measure 72 =========================-->
     <measure number="72">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Final</words>
+          <words enclosure="none">Final</words>
         </direction-type>
       </direction>
       <note>
@@ -10389,9 +10389,9 @@
     </measure>
     <!--========================= Measure 80 =========================-->
     <measure number="80">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain final</words>
+          <words enclosure="none">Refrain final</words>
         </direction-type>
       </direction>
       <note>
@@ -11043,9 +11043,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -11336,9 +11336,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition 1</words>
+          <words enclosure="none">Transition 1</words>
         </direction-type>
       </direction>
       <note>
@@ -11401,9 +11401,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refain</words>
+          <words enclosure="none">Refain</words>
         </direction-type>
       </direction>
       <note>
@@ -12372,9 +12372,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fausse intro</words>
+          <words enclosure="none">Fausse intro</words>
         </direction-type>
       </direction>
       <note>
@@ -12668,9 +12668,9 @@
     </measure>
     <!--========================= Measure 43 =========================-->
     <measure number="43">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition 2</words>
+          <words enclosure="none">Transition 2</words>
         </direction-type>
       </direction>
       <note>
@@ -12739,9 +12739,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refain</words>
+          <words enclosure="none">Refain</words>
         </direction-type>
       </direction>
       <note>
@@ -12833,9 +12833,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break trombone</words>
+          <words enclosure="none">Break trombone</words>
         </direction-type>
       </direction>
       <note>
@@ -13214,9 +13214,9 @@
     </measure>
     <!--========================= Measure 56 =========================-->
     <measure number="56">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Question/réponse</words>
+          <words enclosure="none">Question/réponse</words>
         </direction-type>
       </direction>
       <note>
@@ -13585,9 +13585,9 @@
     </measure>
     <!--========================= Measure 64 =========================-->
     <measure number="64">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break Trompette</words>
+          <words enclosure="none">Break Trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -13818,9 +13818,9 @@
     </measure>
     <!--========================= Measure 72 =========================-->
     <measure number="72">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Final</words>
+          <words enclosure="none">Final</words>
         </direction-type>
       </direction>
       <note>
@@ -14186,9 +14186,9 @@
     </measure>
     <!--========================= Measure 80 =========================-->
     <measure number="80">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain final</words>
+          <words enclosure="none">Refrain final</words>
         </direction-type>
       </direction>
       <note>
@@ -14882,9 +14882,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition 1</words>
+          <words enclosure="none">Transition 1</words>
         </direction-type>
       </direction>
       <note>
@@ -15062,9 +15062,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refain</words>
+          <words enclosure="none">Refain</words>
         </direction-type>
       </direction>
       <note>
@@ -17011,9 +17011,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fausse intro</words>
+          <words enclosure="none">Fausse intro</words>
         </direction-type>
       </direction>
       <note>
@@ -17258,9 +17258,9 @@
     </measure>
     <!--========================= Measure 43 =========================-->
     <measure number="43">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition 2</words>
+          <words enclosure="none">Transition 2</words>
         </direction-type>
       </direction>
       <note>
@@ -17434,9 +17434,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refain</words>
+          <words enclosure="none">Refain</words>
         </direction-type>
       </direction>
       <note>
@@ -17586,9 +17586,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break trombone</words>
+          <words enclosure="none">Break trombone</words>
         </direction-type>
       </direction>
       <note>
@@ -18607,9 +18607,9 @@
     </measure>
     <!--========================= Measure 56 =========================-->
     <measure number="56">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Question/réponse</words>
+          <words enclosure="none">Question/réponse</words>
         </direction-type>
       </direction>
       <note>
@@ -18951,9 +18951,9 @@
     </measure>
     <!--========================= Measure 64 =========================-->
     <measure number="64">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break Trompette</words>
+          <words enclosure="none">Break Trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -19317,9 +19317,9 @@
     </measure>
     <!--========================= Measure 72 =========================-->
     <measure number="72">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Final</words>
+          <words enclosure="none">Final</words>
         </direction-type>
       </direction>
       <note>
@@ -20360,9 +20360,9 @@
     </measure>
     <!--========================= Measure 80 =========================-->
     <measure number="80">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain final</words>
+          <words enclosure="none">Refrain final</words>
         </direction-type>
       </direction>
       <note>
@@ -21695,9 +21695,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -21874,9 +21874,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition 1</words>
+          <words enclosure="none">Transition 1</words>
         </direction-type>
       </direction>
       <note>
@@ -22136,9 +22136,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refain</words>
+          <words enclosure="none">Refain</words>
         </direction-type>
       </direction>
       <note>
@@ -23443,9 +23443,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fausse intro</words>
+          <words enclosure="none">Fausse intro</words>
         </direction-type>
       </direction>
       <note>
@@ -23740,9 +23740,9 @@
     </measure>
     <!--========================= Measure 43 =========================-->
     <measure number="43">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition 2</words>
+          <words enclosure="none">Transition 2</words>
         </direction-type>
       </direction>
       <note>
@@ -24022,9 +24022,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refain</words>
+          <words enclosure="none">Refain</words>
         </direction-type>
       </direction>
       <note>
@@ -24110,9 +24110,9 @@
         <bar-style>regular</bar-style>
         <ending number="2" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break trombone</words>
+          <words enclosure="none">Break trombone</words>
         </direction-type>
       </direction>
       <note>
@@ -24383,9 +24383,9 @@
     </measure>
     <!--========================= Measure 56 =========================-->
     <measure number="56">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Question/réponse</words>
+          <words enclosure="none">Question/réponse</words>
         </direction-type>
       </direction>
       <note>
@@ -24685,9 +24685,9 @@
     </measure>
     <!--========================= Measure 64 =========================-->
     <measure number="64">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break Trompette</words>
+          <words enclosure="none">Break Trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -24955,9 +24955,9 @@
     </measure>
     <!--========================= Measure 72 =========================-->
     <measure number="72">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Final</words>
+          <words enclosure="none">Final</words>
         </direction-type>
       </direction>
       <note>
@@ -25606,9 +25606,9 @@
     </measure>
     <!--========================= Measure 80 =========================-->
     <measure number="80">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain final</words>
+          <words enclosure="none">Refrain final</words>
         </direction-type>
       </direction>
       <note>
@@ -26293,9 +26293,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro</words>
+          <words enclosure="none">Intro</words>
         </direction-type>
       </direction>
       <note>
@@ -27102,9 +27102,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition 1</words>
+          <words enclosure="none">Transition 1</words>
         </direction-type>
       </direction>
       <note>
@@ -27245,9 +27245,9 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refain</words>
+          <words enclosure="none">Refain</words>
         </direction-type>
       </direction>
       <note>
@@ -28302,9 +28302,9 @@
         <bar-style>regular</bar-style>
         <ending number="1" type="start" />
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Fausse intro</words>
+          <words enclosure="none">Fausse intro</words>
         </direction-type>
       </direction>
       <note>
@@ -28897,9 +28897,9 @@
     </measure>
     <!--========================= Measure 43 =========================-->
     <measure number="43">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Transition 2</words>
+          <words enclosure="none">Transition 2</words>
         </direction-type>
       </direction>
       <note>
@@ -29040,9 +29040,9 @@
     </measure>
     <!--========================= Measure 47 =========================-->
     <measure number="47">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refain</words>
+          <words enclosure="none">Refain</words>
         </direction-type>
       </direction>
       <note>
@@ -29106,9 +29106,9 @@
       <barline location="left">
         <bar-style>regular</bar-style>
       </barline>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break trombone</words>
+          <words enclosure="none">Break trombone</words>
         </direction-type>
       </direction>
       <note>
@@ -29450,9 +29450,9 @@
     </measure>
     <!--========================= Measure 56 =========================-->
     <measure number="56">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Question/réponse</words>
+          <words enclosure="none">Question/réponse</words>
         </direction-type>
       </direction>
       <note>
@@ -29805,9 +29805,9 @@
     </measure>
     <!--========================= Measure 64 =========================-->
     <measure number="64">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Break Trompette</words>
+          <words enclosure="none">Break Trompette</words>
         </direction-type>
       </direction>
       <note>
@@ -30029,9 +30029,9 @@
     </measure>
     <!--========================= Measure 72 =========================-->
     <measure number="72">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Final</words>
+          <words enclosure="none">Final</words>
         </direction-type>
       </direction>
       <note>
@@ -30940,9 +30940,9 @@
     </measure>
     <!--========================= Measure 80 =========================-->
     <measure number="80">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain final</words>
+          <words enclosure="none">Refrain final</words>
         </direction-type>
       </direction>
       <note>

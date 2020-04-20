@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-18</encoding-date>
+      <encoding-date>2020-04-20</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -118,9 +118,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro Be Together</words>
+          <words enclosure="none">Intro Be Together </words>
         </direction-type>
       </direction>
       <note>
@@ -207,9 +207,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Be Together Refrain</words>
+          <words enclosure="none">Be Together Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -836,9 +836,9 @@
           <fifths>-1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet Get Free</words>
+          <words enclosure="none">Couplet Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -1263,9 +1263,9 @@
     </measure>
     <!--========================= Measure 29 =========================-->
     <measure number="29">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Get Free</words>
+          <words enclosure="none">Refrain Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -1772,9 +1772,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Get Free + Lean On</words>
+          <words enclosure="none">Get Free + Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -1868,9 +1868,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet Lean On</words>
+          <words enclosure="none">Couplet Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -1939,9 +1939,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée Lean On</words>
+          <words enclosure="none">Montée Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -2488,9 +2488,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Lean On</words>
+          <words enclosure="none">Refrain Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -3240,9 +3240,9 @@
     </measure>
     <!--========================= Measure 65 =========================-->
     <measure number="65">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Lean on + Watch Out</words>
+          <words enclosure="none">Lean on + Watch Out </words>
         </direction-type>
       </direction>
       <note>
@@ -3628,9 +3628,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Watch Out</words>
+          <words enclosure="none">Refrain Watch Out</words>
         </direction-type>
       </direction>
       <note>
@@ -3694,9 +3694,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro Come On To Me</words>
+          <words enclosure="none">Intro Come On To Me</words>
         </direction-type>
       </direction>
       <note>
@@ -3820,9 +3820,9 @@
           <fifths>-1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Come On To Me</words>
+          <words enclosure="none">Refrain Come On To Me</words>
         </direction-type>
       </direction>
       <note>
@@ -4653,9 +4653,9 @@
     </measure>
     <!--========================= Measure 93 =========================-->
     <measure number="93">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Get Free</words>
+          <words enclosure="none">Refrain Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -5168,9 +5168,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Watch Out + Lean on</words>
+          <words enclosure="none">Watch Out + Lean on</words>
         </direction-type>
       </direction>
       <note>
@@ -5663,9 +5663,9 @@
     </measure>
     <!--======================== Measure 109 =========================-->
     <measure number="109">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Lean On</words>
+          <words enclosure="none">Refrain Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -6441,9 +6441,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro Be Together</words>
+          <words enclosure="none">Intro Be Together </words>
         </direction-type>
       </direction>
       <note>
@@ -6555,9 +6555,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Be Together Refrain</words>
+          <words enclosure="none">Be Together Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -6751,9 +6751,9 @@
           <fifths>-1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet Get Free</words>
+          <words enclosure="none">Couplet Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -7725,9 +7725,9 @@
     </measure>
     <!--========================= Measure 29 =========================-->
     <measure number="29">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Get Free</words>
+          <words enclosure="none">Refrain Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -7938,9 +7938,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Get Free + Lean On</words>
+          <words enclosure="none">Get Free + Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -8419,9 +8419,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet Lean On</words>
+          <words enclosure="none">Couplet Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -9202,9 +9202,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée Lean On</words>
+          <words enclosure="none">Montée Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -9786,9 +9786,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Lean On</words>
+          <words enclosure="none">Refrain Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -10538,9 +10538,9 @@
     </measure>
     <!--========================= Measure 65 =========================-->
     <measure number="65">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Lean on + Watch Out</words>
+          <words enclosure="none">Lean on + Watch Out </words>
         </direction-type>
       </direction>
       <note>
@@ -10926,9 +10926,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Watch Out</words>
+          <words enclosure="none">Refrain Watch Out</words>
         </direction-type>
       </direction>
       <note>
@@ -11048,9 +11048,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro Come On To Me</words>
+          <words enclosure="none">Intro Come On To Me</words>
         </direction-type>
       </direction>
       <note>
@@ -11670,9 +11670,9 @@
           <fifths>-1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Come On To Me</words>
+          <words enclosure="none">Refrain Come On To Me</words>
         </direction-type>
       </direction>
       <note>
@@ -11905,9 +11905,9 @@
     </measure>
     <!--========================= Measure 93 =========================-->
     <measure number="93">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Get Free</words>
+          <words enclosure="none">Refrain Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -12026,9 +12026,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Watch Out + Lean on</words>
+          <words enclosure="none">Watch Out + Lean on</words>
         </direction-type>
       </direction>
       <note>
@@ -12485,9 +12485,9 @@
     </measure>
     <!--======================== Measure 109 =========================-->
     <measure number="109">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Lean On</words>
+          <words enclosure="none">Refrain Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -13263,9 +13263,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro Be Together</words>
+          <words enclosure="none">Intro Be Together </words>
         </direction-type>
       </direction>
       <note>
@@ -13658,9 +13658,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Be Together Refrain</words>
+          <words enclosure="none">Be Together Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -14030,9 +14030,9 @@
           <fifths>-1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet Get Free</words>
+          <words enclosure="none">Couplet Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -14859,9 +14859,9 @@
     </measure>
     <!--========================= Measure 29 =========================-->
     <measure number="29">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Get Free</words>
+          <words enclosure="none">Refrain Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -15306,9 +15306,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Get Free + Lean On</words>
+          <words enclosure="none">Get Free + Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -15598,9 +15598,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet Lean On</words>
+          <words enclosure="none">Couplet Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -16027,9 +16027,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée Lean On</words>
+          <words enclosure="none">Montée Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -16392,9 +16392,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Lean On</words>
+          <words enclosure="none">Refrain Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -16764,9 +16764,9 @@
     </measure>
     <!--========================= Measure 65 =========================-->
     <measure number="65">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Lean on + Watch Out</words>
+          <words enclosure="none">Lean on + Watch Out </words>
         </direction-type>
       </direction>
       <note>
@@ -17068,9 +17068,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Watch Out</words>
+          <words enclosure="none">Refrain Watch Out</words>
         </direction-type>
       </direction>
       <note>
@@ -17745,9 +17745,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro Come On To Me</words>
+          <words enclosure="none">Intro Come On To Me</words>
         </direction-type>
       </direction>
       <note>
@@ -18315,9 +18315,9 @@
           <fifths>-1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Come On To Me</words>
+          <words enclosure="none">Refrain Come On To Me</words>
         </direction-type>
       </direction>
       <note>
@@ -18628,9 +18628,9 @@
     </measure>
     <!--========================= Measure 93 =========================-->
     <measure number="93">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Get Free</words>
+          <words enclosure="none">Refrain Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -19083,9 +19083,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Watch Out + Lean on</words>
+          <words enclosure="none">Watch Out + Lean on</words>
         </direction-type>
       </direction>
       <note>
@@ -19751,9 +19751,9 @@
     </measure>
     <!--======================== Measure 109 =========================-->
     <measure number="109">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Lean On</words>
+          <words enclosure="none">Refrain Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -20149,9 +20149,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro Be Together</words>
+          <words enclosure="none">Intro Be Together </words>
         </direction-type>
       </direction>
       <note>
@@ -20313,9 +20313,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Be Together Refrain</words>
+          <words enclosure="none">Be Together Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -20835,9 +20835,9 @@
           <fifths>-1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet Get Free</words>
+          <words enclosure="none">Couplet Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -21664,9 +21664,9 @@
     </measure>
     <!--========================= Measure 29 =========================-->
     <measure number="29">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Get Free</words>
+          <words enclosure="none">Refrain Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -22118,9 +22118,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Get Free + Lean On</words>
+          <words enclosure="none">Get Free + Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -22410,9 +22410,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet Lean On</words>
+          <words enclosure="none">Couplet Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -22839,9 +22839,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée Lean On</words>
+          <words enclosure="none">Montée Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -23702,9 +23702,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Lean On</words>
+          <words enclosure="none">Refrain Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -24357,9 +24357,9 @@
     </measure>
     <!--========================= Measure 65 =========================-->
     <measure number="65">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Lean on + Watch Out</words>
+          <words enclosure="none">Lean on + Watch Out </words>
         </direction-type>
       </direction>
       <note>
@@ -24597,9 +24597,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Watch Out</words>
+          <words enclosure="none">Refrain Watch Out</words>
         </direction-type>
       </direction>
       <note>
@@ -25276,9 +25276,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro Come On To Me</words>
+          <words enclosure="none">Intro Come On To Me</words>
         </direction-type>
       </direction>
       <note>
@@ -25872,9 +25872,9 @@
           <fifths>-1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Come On To Me</words>
+          <words enclosure="none">Refrain Come On To Me</words>
         </direction-type>
       </direction>
       <note>
@@ -26705,9 +26705,9 @@
     </measure>
     <!--========================= Measure 93 =========================-->
     <measure number="93">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Get Free</words>
+          <words enclosure="none">Refrain Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -27164,9 +27164,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Watch Out + Lean on</words>
+          <words enclosure="none">Watch Out + Lean on</words>
         </direction-type>
       </direction>
       <note>
@@ -27937,9 +27937,9 @@
     </measure>
     <!--======================== Measure 109 =========================-->
     <measure number="109">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Lean On</words>
+          <words enclosure="none">Refrain Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -28618,9 +28618,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro Be Together</words>
+          <words enclosure="none">Intro Be Together </words>
         </direction-type>
       </direction>
       <note>
@@ -28755,9 +28755,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Be Together Refrain</words>
+          <words enclosure="none">Be Together Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -29309,9 +29309,9 @@
           <fifths>-1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet Get Free</words>
+          <words enclosure="none">Couplet Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -30036,9 +30036,9 @@
     </measure>
     <!--========================= Measure 29 =========================-->
     <measure number="29">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Get Free</words>
+          <words enclosure="none">Refrain Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -30631,9 +30631,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Get Free + Lean On</words>
+          <words enclosure="none">Get Free + Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -30933,9 +30933,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet Lean On</words>
+          <words enclosure="none">Couplet Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -31402,9 +31402,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée Lean On</words>
+          <words enclosure="none">Montée Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -31830,9 +31830,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Lean On</words>
+          <words enclosure="none">Refrain Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -32354,9 +32354,9 @@
     </measure>
     <!--========================= Measure 65 =========================-->
     <measure number="65">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Lean on + Watch Out</words>
+          <words enclosure="none">Lean on + Watch Out </words>
         </direction-type>
       </direction>
       <note>
@@ -32629,9 +32629,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Watch Out</words>
+          <words enclosure="none">Refrain Watch Out</words>
         </direction-type>
       </direction>
       <note>
@@ -33217,9 +33217,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro Come On To Me</words>
+          <words enclosure="none">Intro Come On To Me</words>
         </direction-type>
       </direction>
       <note>
@@ -34281,9 +34281,9 @@
           <fifths>-1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Come On To Me</words>
+          <words enclosure="none">Refrain Come On To Me</words>
         </direction-type>
       </direction>
       <note>
@@ -34822,9 +34822,9 @@
     </measure>
     <!--========================= Measure 93 =========================-->
     <measure number="93">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Get Free</words>
+          <words enclosure="none">Refrain Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -35360,9 +35360,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Watch Out + Lean on</words>
+          <words enclosure="none">Watch Out + Lean on</words>
         </direction-type>
       </direction>
       <note>
@@ -35889,9 +35889,9 @@
     </measure>
     <!--======================== Measure 109 =========================-->
     <measure number="109">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Lean On</words>
+          <words enclosure="none">Refrain Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -36438,9 +36438,9 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro Be Together</words>
+          <words enclosure="none">Intro Be Together </words>
         </direction-type>
       </direction>
       <note>
@@ -36552,9 +36552,9 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Be Together Refrain</words>
+          <words enclosure="none">Be Together Refrain</words>
         </direction-type>
       </direction>
       <note>
@@ -36748,9 +36748,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet Get Free</words>
+          <words enclosure="none">Couplet Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -37718,9 +37718,9 @@
     </measure>
     <!--========================= Measure 29 =========================-->
     <measure number="29">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Get Free</words>
+          <words enclosure="none">Refrain Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -37931,9 +37931,9 @@
     </measure>
     <!--========================= Measure 37 =========================-->
     <measure number="37">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Get Free + Lean On</words>
+          <words enclosure="none">Get Free + Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -38410,9 +38410,9 @@
           <fifths>1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Couplet Lean On</words>
+          <words enclosure="none">Couplet Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -39193,9 +39193,9 @@
     </measure>
     <!--========================= Measure 49 =========================-->
     <measure number="49">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Montée Lean On</words>
+          <words enclosure="none">Montée Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -39777,9 +39777,9 @@
     </measure>
     <!--========================= Measure 57 =========================-->
     <measure number="57">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Lean On</words>
+          <words enclosure="none">Refrain Lean On</words>
         </direction-type>
       </direction>
       <note>
@@ -40537,9 +40537,9 @@
     </measure>
     <!--========================= Measure 65 =========================-->
     <measure number="65">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Lean on + Watch Out</words>
+          <words enclosure="none">Lean on + Watch Out </words>
         </direction-type>
       </direction>
       <note>
@@ -40931,9 +40931,9 @@
     </measure>
     <!--========================= Measure 69 =========================-->
     <measure number="69">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Watch Out</words>
+          <words enclosure="none">Refrain Watch Out</words>
         </direction-type>
       </direction>
       <note>
@@ -41053,9 +41053,9 @@
           <fifths>1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Intro Come On To Me</words>
+          <words enclosure="none">Intro Come On To Me</words>
         </direction-type>
       </direction>
       <note>
@@ -41675,9 +41675,9 @@
           <fifths>0</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Come On To Me</words>
+          <words enclosure="none">Refrain Come On To Me</words>
         </direction-type>
       </direction>
       <note>
@@ -41910,9 +41910,9 @@
     </measure>
     <!--========================= Measure 93 =========================-->
     <measure number="93">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Get Free</words>
+          <words enclosure="none">Refrain Get Free</words>
         </direction-type>
       </direction>
       <note>
@@ -42031,9 +42031,9 @@
           <fifths>1</fifths>
         </key>
       </attributes>
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Watch Out + Lean on</words>
+          <words enclosure="none">Watch Out + Lean on</words>
         </direction-type>
       </direction>
       <note>
@@ -42490,9 +42490,9 @@
     </measure>
     <!--======================== Measure 109 =========================-->
     <measure number="109">
-      <direction>
+      <direction placement="above">
         <direction-type>
-          <words enclosure="none" relative-y="20">Refrain Lean On</words>
+          <words enclosure="none">Refrain Lean On</words>
         </direction-type>
       </direction>
       <note>
