@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-20</encoding-date>
+      <encoding-date>2020-04-22</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -20,8 +20,8 @@
   </defaults>
   <part-list>
     <score-part id="P1">
-      <part-name>trompette</part-name>
-      <part-abbreviation>trompette</part-abbreviation>
+      <part-name>Trumpet</part-name>
+      <part-abbreviation>Trumpet</part-abbreviation>
       <score-instrument id="I2">
         <instrument-name>Trumpet</instrument-name>
         <instrument-abbreviation>Tpt</instrument-abbreviation>
@@ -32,8 +32,8 @@
       </midi-instrument>
     </score-part>
     <score-part id="P3">
-      <part-name>sax sib</part-name>
-      <part-abbreviation>sax sib</part-abbreviation>
+      <part-name>Tenor Sax</part-name>
+      <part-abbreviation>Tenor Sax</part-abbreviation>
       <score-instrument id="I4">
         <instrument-name>Tenor Saxophone</instrument-name>
         <instrument-abbreviation>T Sax</instrument-abbreviation>
@@ -44,8 +44,8 @@
       </midi-instrument>
     </score-part>
     <score-part id="P5">
-      <part-name>trombone</part-name>
-      <part-abbreviation>trombone</part-abbreviation>
+      <part-name>Trombone</part-name>
+      <part-abbreviation>Trombone</part-abbreviation>
       <score-instrument id="I6">
         <instrument-name>Trombone</instrument-name>
         <instrument-abbreviation>Trb</instrument-abbreviation>
@@ -56,8 +56,8 @@
       </midi-instrument>
     </score-part>
     <score-part id="P7">
-      <part-name>souba  1</part-name>
-      <part-abbreviation>souba  1</part-abbreviation>
+      <part-name>Tuba</part-name>
+      <part-abbreviation>Tuba</part-abbreviation>
       <score-instrument id="I8">
         <instrument-name>Tuba</instrument-name>
         <instrument-abbreviation>Tba</instrument-abbreviation>
@@ -68,8 +68,8 @@
       </midi-instrument>
     </score-part>
     <score-part id="P9">
-      <part-name>souba 2</part-name>
-      <part-abbreviation>souba 2</part-abbreviation>
+      <part-name>Tuba</part-name>
+      <part-abbreviation>Tuba</part-abbreviation>
       <score-instrument id="I10">
         <instrument-name>Tuba</instrument-name>
         <instrument-abbreviation>Tba</instrument-abbreviation>
@@ -80,8 +80,8 @@
       </midi-instrument>
     </score-part>
     <score-part id="P11">
-      <part-name>sax mib</part-name>
-      <part-abbreviation>sax mib</part-abbreviation>
+      <part-name>Alto Sax</part-name>
+      <part-abbreviation>Alto Sax</part-abbreviation>
       <score-instrument id="I12">
         <instrument-name>Saxophone</instrument-name>
         <instrument-abbreviation>Sax</instrument-abbreviation>
@@ -92,8 +92,8 @@
       </midi-instrument>
     </score-part>
     <score-part id="P13">
-      <part-name>Basse</part-name>
-      <part-abbreviation>Basse</part-abbreviation>
+      <part-name>French Horn</part-name>
+      <part-abbreviation>French Horn</part-abbreviation>
       <score-instrument id="I14">
         <instrument-name>Horn</instrument-name>
         <instrument-abbreviation>Hn</instrument-abbreviation>
@@ -122,6 +122,11 @@
           <chromatic>-2</chromatic>
         </transpose>
       </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words enclosure="none">trompette</words>
+        </direction-type>
+      </direction>
       <direction>
         <direction-type>
           <metronome parentheses="no">
@@ -3235,6 +3240,11 @@
           <octave-change>-1</octave-change>
         </transpose>
       </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words enclosure="none">sax sib</words>
+        </direction-type>
+      </direction>
       <note>
         <rest />
         <duration>40320</duration>
@@ -8288,6 +8298,11 @@
           <octave-change>-1</octave-change>
         </transpose>
       </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words enclosure="none">trombone</words>
+        </direction-type>
+      </direction>
       <note>
         <pitch>
           <step>F</step>
@@ -13736,6 +13751,11 @@
           <octave-change>-2</octave-change>
         </transpose>
       </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words enclosure="none">souba  1</words>
+        </direction-type>
+      </direction>
       <note>
         <rest />
         <duration>40320</duration>
@@ -19879,6 +19899,11 @@
           <octave-change>-2</octave-change>
         </transpose>
       </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words enclosure="none">souba 2</words>
+        </direction-type>
+      </direction>
       <note>
         <rest />
         <duration>40320</duration>
@@ -20913,6 +20938,11 @@
           <chromatic>-9</chromatic>
         </transpose>
       </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words enclosure="none">sax mib</words>
+        </direction-type>
+      </direction>
       <note>
         <rest />
         <duration>40320</duration>
@@ -26006,6 +26036,11 @@
           <octave-change>-1</octave-change>
         </transpose>
       </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words enclosure="none">Basse</words>
+        </direction-type>
+      </direction>
       <note>
         <pitch>
           <step>B</step>

@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2020-04-20</encoding-date>
+      <encoding-date>2020-04-22</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -20,8 +20,8 @@
   </defaults>
   <part-list>
     <score-part id="P1">
-      <part-name>Trompette</part-name>
-      <part-abbreviation>Trompette</part-abbreviation>
+      <part-name>Trumpet</part-name>
+      <part-abbreviation>Trumpet</part-abbreviation>
       <score-instrument id="I2">
         <instrument-name>Trumpet</instrument-name>
         <instrument-abbreviation>Tpt</instrument-abbreviation>
@@ -32,8 +32,8 @@
       </midi-instrument>
     </score-part>
     <score-part id="P3">
-      <part-name>Sax sib</part-name>
-      <part-abbreviation>Sax sib</part-abbreviation>
+      <part-name>Tenor Sax</part-name>
+      <part-abbreviation>Tenor Sax</part-abbreviation>
       <score-instrument id="I4">
         <instrument-name>Tenor Saxophone</instrument-name>
         <instrument-abbreviation>T Sax</instrument-abbreviation>
@@ -56,8 +56,8 @@
       </midi-instrument>
     </score-part>
     <score-part id="P7">
-      <part-name>Basse</part-name>
-      <part-abbreviation>Basse</part-abbreviation>
+      <part-name>French Horn</part-name>
+      <part-abbreviation>French Horn</part-abbreviation>
       <score-instrument id="I8">
         <instrument-name>Horn</instrument-name>
         <instrument-abbreviation>Hn</instrument-abbreviation>
@@ -68,8 +68,8 @@
       </midi-instrument>
     </score-part>
     <score-part id="P9">
-      <part-name>Souba</part-name>
-      <part-abbreviation>Souba</part-abbreviation>
+      <part-name>Tuba</part-name>
+      <part-abbreviation>Tuba</part-abbreviation>
       <score-instrument id="I10">
         <instrument-name>Tuba</instrument-name>
         <instrument-abbreviation>Tba</instrument-abbreviation>
@@ -80,8 +80,8 @@
       </midi-instrument>
     </score-part>
     <score-part id="P11">
-      <part-name>Sax mib</part-name>
-      <part-abbreviation>Sax mib</part-abbreviation>
+      <part-name>Alto Sax</part-name>
+      <part-abbreviation>Alto Sax</part-abbreviation>
       <score-instrument id="I12">
         <instrument-name>Saxophone</instrument-name>
         <instrument-abbreviation>Sax</instrument-abbreviation>
@@ -114,6 +114,11 @@
           <chromatic>-2</chromatic>
         </transpose>
       </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words enclosure="none">Trompette</words>
+        </direction-type>
+      </direction>
       <note>
         <rest measure="yes" />
         <duration>40320</duration>
@@ -3581,6 +3586,11 @@
           <octave-change>-1</octave-change>
         </transpose>
       </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words enclosure="none">Sax sib</words>
+        </direction-type>
+      </direction>
       <note>
         <rest measure="yes" />
         <duration>40320</duration>
@@ -7987,6 +7997,11 @@
           <octave-change>-1</octave-change>
         </transpose>
       </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words enclosure="none">Trombone</words>
+        </direction-type>
+      </direction>
       <note>
         <rest measure="yes" />
         <duration>40320</duration>
@@ -11530,6 +11545,11 @@
           <octave-change>-1</octave-change>
         </transpose>
       </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words enclosure="none">Basse</words>
+        </direction-type>
+      </direction>
       <note>
         <rest measure="yes" />
         <duration>40320</duration>
@@ -15368,6 +15388,11 @@
           <octave-change>-2</octave-change>
         </transpose>
       </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words enclosure="none">Souba</words>
+        </direction-type>
+      </direction>
       <note>
         <rest measure="yes" />
         <duration>40320</duration>
@@ -18943,6 +18968,11 @@
           <chromatic>-9</chromatic>
         </transpose>
       </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words enclosure="none">Sax mib</words>
+        </direction-type>
+      </direction>
       <note>
         <rest measure="yes" />
         <duration>40320</duration>
