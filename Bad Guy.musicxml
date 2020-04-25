@@ -6,9 +6,10 @@
   </work>
   <movement-title>Bad Guy V2</movement-title>
   <identification>
-    <creator type="composer">Music21</creator>
+    <creator type="composer" />
+    <rights>Grop 17/10/19</rights>
     <encoding>
-      <encoding-date>2020-04-22</encoding-date>
+      <encoding-date>2020-04-24</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -32535,15 +32536,6 @@
         </direction-type>
         <sound tempo="132" />
       </direction>
-      <direction>
-        <direction-type>
-          <metronome parentheses="no">
-            <beat-unit>quarter</beat-unit>
-            <per-minute>125</per-minute>
-          </metronome>
-        </direction-type>
-        <sound tempo="125" />
-      </direction>
       <note>
         <pitch>
           <step>C</step>
@@ -32676,15 +32668,6 @@
           </metronome>
         </direction-type>
         <sound tempo="102" />
-      </direction>
-      <direction>
-        <direction-type>
-          <metronome parentheses="no">
-            <beat-unit>quarter</beat-unit>
-            <per-minute>88</per-minute>
-          </metronome>
-        </direction-type>
-        <sound tempo="88" />
       </direction>
       <note>
         <pitch>

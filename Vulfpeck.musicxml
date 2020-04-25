@@ -6,9 +6,10 @@
   </work>
   <movement-title>Vulfpeck </movement-title>
   <identification>
-    <creator type="composer">Music21</creator>
+    <creator type="composer">GP 010419</creator>
+    <rights />
     <encoding>
-      <encoding-date>2020-04-22</encoding-date>
+      <encoding-date>2020-04-24</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -3633,7 +3634,7 @@
           <octave>5</octave>
         </pitch>
         <duration>7560</duration>
-        <voice>139784979491761</voice>
+        <voice>140350203778193</voice>
         <type>eighth</type>
         <dot />
       </note>
@@ -3644,7 +3645,7 @@
         </pitch>
         <duration>10080</duration>
         <tie type="stop" />
-        <voice>139784979491761</voice>
+        <voice>140350203778193</voice>
         <type>quarter</type>
         <notations>
           <tied type="stop" />
@@ -3656,13 +3657,13 @@
           <octave>5</octave>
         </pitch>
         <duration>2520</duration>
-        <voice>139784979491761</voice>
+        <voice>140350203778193</voice>
         <type>16th</type>
       </note>
       <note>
         <rest />
         <duration>2520</duration>
-        <voice>139784979491761</voice>
+        <voice>140350203778193</voice>
         <type>16th</type>
       </note>
       <note>
@@ -3671,13 +3672,13 @@
           <octave>5</octave>
         </pitch>
         <duration>2520</duration>
-        <voice>139784979491761</voice>
+        <voice>140350203778193</voice>
         <type>16th</type>
       </note>
       <note>
         <rest />
         <duration>2520</duration>
-        <voice>139784979491761</voice>
+        <voice>140350203778193</voice>
         <type>16th</type>
       </note>
       <note>
@@ -3686,7 +3687,7 @@
           <octave>4</octave>
         </pitch>
         <duration>2520</duration>
-        <voice>139784979491761</voice>
+        <voice>140350203778193</voice>
         <type>16th</type>
       </note>
       <note>
@@ -3695,7 +3696,7 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
-        <voice>139784979491761</voice>
+        <voice>140350203778193</voice>
         <type>eighth</type>
       </note>
       <note>
@@ -3704,7 +3705,7 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
-        <voice>139784979491761</voice>
+        <voice>140350203778193</voice>
         <type>eighth</type>
       </note>
       <note>
@@ -3714,7 +3715,7 @@
           <octave>5</octave>
         </pitch>
         <duration>10080</duration>
-        <voice>139784979491761</voice>
+        <voice>140350203778193</voice>
         <type>quarter</type>
       </note>
     </measure>

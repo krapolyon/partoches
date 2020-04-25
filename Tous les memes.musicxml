@@ -6,9 +6,10 @@
   </work>
   <movement-title>Tous les Mêmes</movement-title>
   <identification>
-    <creator type="composer">Music21</creator>
+    <creator type="composer" />
+    <rights>Vo² et GP 020214</rights>
     <encoding>
-      <encoding-date>2020-04-22</encoding-date>
+      <encoding-date>2020-04-24</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>

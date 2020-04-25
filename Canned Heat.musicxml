@@ -6,9 +6,10 @@
   </work>
   <movement-title>Dance</movement-title>
   <identification>
-    <creator type="composer">Music21</creator>
+    <creator type="composer">GP</creator>
+    <rights />
     <encoding>
-      <encoding-date>2020-04-22</encoding-date>
+      <encoding-date>2020-04-24</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
