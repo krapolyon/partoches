@@ -9,7 +9,7 @@
     <creator type="composer">GP</creator>
     <rights />
     <encoding>
-      <encoding-date>2020-04-24</encoding-date>
+      <encoding-date>2020-04-25</encoding-date>
       <software>music21 v.6.0.2a2</software>
     </encoding>
   </identification>
@@ -69,452 +69,37 @@
       </midi-instrument>
     </score-part>
     <score-part id="P9">
-      <part-name>Drumset</part-name>
-      <part-abbreviation>D.</part-abbreviation>
+      <part-name>Acoustic Grand Piano</part-name>
+      <part-abbreviation>Acoustic Grand Piano</part-abbreviation>
       <score-instrument id="I10">
-        <instrument-name>Percussion</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I11">
-        <instrument-name>Bass Drum (acoustic)</instrument-name>
-        <instrument-abbreviation>B Dr</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I12">
-        <instrument-name>Bass Drum (1)</instrument-name>
-        <instrument-abbreviation>B Dr</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I13">
-        <instrument-name>Snare Drum (side)</instrument-name>
-        <instrument-abbreviation>Sn Dr</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I14">
-        <instrument-name>Snare Drum (acoustic)</instrument-name>
-        <instrument-abbreviation>Sn Dr</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I15">
-        <instrument-name>Percussion</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I16">
-        <instrument-name>Snare Drum (electric)</instrument-name>
-        <instrument-abbreviation>Sn Dr</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I17">
-        <instrument-name>Tom-Tom (low floor)</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I18">
-        <instrument-name>Hi-Hat Cymbal (closed)</instrument-name>
-        <instrument-abbreviation>Cym</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I19">
-        <instrument-name>Tom-Tom (high floor)</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I20">
-        <instrument-name>Hi-Hat Cymbal (pedal)</instrument-name>
-        <instrument-abbreviation>Cym</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I21">
-        <instrument-name>Tom-Tom (low)</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I22">
-        <instrument-name>Hi-Hat Cymbal (open)</instrument-name>
-        <instrument-abbreviation>Cym</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I23">
-        <instrument-name>Tom-Tom (low-mid)</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I24">
-        <instrument-name>Tom-Tom (high-mid)</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I25">
-        <instrument-name>Crash Cymbals (1)</instrument-name>
-        <instrument-abbreviation>Cym</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I26">
-        <instrument-name>Tom-Tom (high)</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I27">
-        <instrument-name>Ride Cymbals (1)</instrument-name>
-        <instrument-abbreviation>Cym</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I28">
-        <instrument-name>Chinese Cymbal</instrument-name>
-        <instrument-abbreviation>Cym</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I29">
-        <instrument-name>Ride Bell</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I30">
-        <instrument-name>Tambourine</instrument-name>
-        <instrument-abbreviation>Tmbn</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I31">
-        <instrument-name>Splash Cymbals</instrument-name>
-        <instrument-abbreviation>Cym</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I32">
-        <instrument-name>Cowbell</instrument-name>
-        <instrument-abbreviation>Cwb</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I33">
-        <instrument-name>Crash Cymbals (2)</instrument-name>
-        <instrument-abbreviation>Cym</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I34">
-        <instrument-name>Vibraslap</instrument-name>
-        <instrument-abbreviation>Vbslp</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I35">
-        <instrument-name>Ride Cymbals (2)</instrument-name>
-        <instrument-abbreviation>Cym</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I36">
-        <instrument-name>Bongo Drums (high)</instrument-name>
-        <instrument-abbreviation>Bgo Dr</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I37">
-        <instrument-name>Bongo Drums (low)</instrument-name>
-        <instrument-abbreviation>Bgo Dr</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I38">
-        <instrument-name>Conga Drum (mute high)</instrument-name>
-        <instrument-abbreviation>Cga Dr</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I39">
-        <instrument-name>Conga Drum (open high)</instrument-name>
-        <instrument-abbreviation>Cga Dr</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I40">
-        <instrument-name>Conga Drum (low)</instrument-name>
-        <instrument-abbreviation>Cga Dr</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I41">
-        <instrument-name>Timbales (high)</instrument-name>
-        <instrument-abbreviation>Tim</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I42">
-        <instrument-name>Timbales (low)</instrument-name>
-        <instrument-abbreviation>Tim</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I43">
-        <instrument-name>Agogo</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I44">
-        <instrument-name>Percussion</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I45">
-        <instrument-name>Percussion</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I46">
-        <instrument-name>Maracas</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I47">
-        <instrument-name>Percussion</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I48">
-        <instrument-name>Percussion</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I49">
-        <instrument-name>Percussion</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I50">
-        <instrument-name>Percussion</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I51">
-        <instrument-name>Percussion</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I52">
-        <instrument-name>Woodblock (high)</instrument-name>
-        <instrument-abbreviation>Wd Bl</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I53">
-        <instrument-name>Woodblock (low)</instrument-name>
-        <instrument-abbreviation>Wd Bl</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I54">
-        <instrument-name>Percussion</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I55">
-        <instrument-name>Percussion</instrument-name>
-        <instrument-abbreviation>Perc</instrument-abbreviation>
-      </score-instrument>
-      <score-instrument id="I56">
-        <instrument-name>Triangle (mute)</instrument-name>
-        <instrument-abbreviation>Tri</instrument-abbreviation>
+        <instrument-name>Piano</instrument-name>
+        <instrument-abbreviation>Pno</instrument-abbreviation>
       </score-instrument>
       <midi-instrument id="I10">
-        <midi-channel>10</midi-channel>
+        <midi-channel>1</midi-channel>
         <midi-program>1</midi-program>
-        <midi-unpitched>35</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I11">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>36</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I12">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>37</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I13">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>38</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I14">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>39</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I15">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>40</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I16">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>41</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I17">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>42</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I18">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>43</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I19">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>44</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I20">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>45</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I21">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>46</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I22">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>47</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I23">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>48</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I24">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>49</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I25">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>50</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I26">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>51</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I27">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>52</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I28">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>53</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I29">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>54</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I30">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>55</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I31">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>56</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I32">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>57</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I33">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>58</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I34">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>59</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I35">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>52</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I36">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>61</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I37">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>62</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I38">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>63</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I39">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>64</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I40">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>65</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I41">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>66</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I42">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>67</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I43">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>68</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I44">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>69</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I45">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>70</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I46">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>71</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I47">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>72</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I48">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>73</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I49">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>74</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I50">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>75</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I51">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>76</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I52">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>77</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I53">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>78</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I54">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>79</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I55">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>80</midi-unpitched>
-      </midi-instrument>
-      <midi-instrument id="I56">
-        <midi-channel>10</midi-channel>
-        <midi-program>1</midi-program>
-        <midi-unpitched>81</midi-unpitched>
       </midi-instrument>
     </score-part>
-    <score-part id="P57">
+    <score-part id="P11">
       <part-name>Alto Sax</part-name>
       <part-abbreviation>Alto Sax</part-abbreviation>
-      <score-instrument id="I58">
+      <score-instrument id="I12">
         <instrument-name>Saxophone</instrument-name>
         <instrument-abbreviation>Sax</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I58">
+      <midi-instrument id="I12">
         <midi-channel>1</midi-channel>
         <midi-program>66</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="P59">
+    <score-part id="P13">
       <part-name>French Horn</part-name>
       <part-abbreviation>French Horn</part-abbreviation>
-      <score-instrument id="I60">
+      <score-instrument id="I14">
         <instrument-name>Horn</instrument-name>
         <instrument-abbreviation>Hn</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I60">
+      <midi-instrument id="I14">
         <midi-channel>1</midi-channel>
         <midi-program>61</midi-program>
       </midi-instrument>
@@ -13097,12 +12682,21 @@
       <attributes>
         <divisions>10080</divisions>
         <key>
-          <fifths>0</fifths>
+          <key-step>A</key-step>
+          <key-alter>1</key-alter>
+          <key-step>B</key-step>
+          <key-alter>1</key-alter>
+          <key-step>F</key-step>
+          <key-alter>1</key-alter>
         </key>
         <clef>
-          <sign>percussion</sign>
-          <line>2</line>
+          <sign>F</sign>
+          <line>4</line>
         </clef>
+        <transpose>
+          <diatonic>0</diatonic>
+          <chromatic>0</chromatic>
+        </transpose>
       </attributes>
       <note>
         <rest />
@@ -13110,10 +12704,11 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>10080</duration>
         <type>quarter</type>
       </note>
@@ -13123,10 +12718,11 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>10080</duration>
         <type>quarter</type>
       </note>
@@ -13139,10 +12735,11 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>10080</duration>
         <type>quarter</type>
       </note>
@@ -13152,10 +12749,11 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>10080</duration>
         <type>quarter</type>
       </note>
@@ -13168,10 +12766,11 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>10080</duration>
         <type>quarter</type>
       </note>
@@ -13181,10 +12780,11 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>10080</duration>
         <type>quarter</type>
       </note>
@@ -13197,10 +12797,11 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>10080</duration>
         <type>quarter</type>
       </note>
@@ -13210,10 +12811,11 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>10080</duration>
         <type>quarter</type>
       </note>
@@ -13226,10 +12828,11 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>10080</duration>
         <type>quarter</type>
       </note>
@@ -13239,18 +12842,19 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>A</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -13269,6 +12873,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13291,6 +12896,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13313,6 +12919,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13335,6 +12942,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13360,6 +12968,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13382,6 +12991,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13404,6 +13014,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13426,6 +13037,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13451,6 +13063,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13473,6 +13086,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13495,6 +13109,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13517,6 +13132,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13542,6 +13158,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13564,6 +13181,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13586,6 +13204,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13608,6 +13227,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13633,6 +13253,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13655,6 +13276,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13677,6 +13299,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13699,6 +13322,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13724,6 +13348,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13746,6 +13371,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13768,6 +13394,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13790,6 +13417,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13815,6 +13443,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13837,6 +13466,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13859,6 +13489,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13881,6 +13512,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13906,6 +13538,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13928,6 +13561,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13950,6 +13584,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -13972,6 +13607,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14003,6 +13639,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14025,6 +13662,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14047,6 +13685,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14069,6 +13708,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14094,6 +13734,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14116,6 +13757,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14138,6 +13780,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14160,6 +13803,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14185,6 +13829,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14207,6 +13852,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14229,6 +13875,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14251,6 +13898,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14276,6 +13924,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14298,6 +13947,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14320,6 +13970,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14342,6 +13993,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14370,6 +14022,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14392,6 +14045,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14414,6 +14068,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14436,6 +14091,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14461,6 +14117,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14483,6 +14140,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14505,6 +14163,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14527,6 +14186,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14552,6 +14212,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14574,6 +14235,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14596,6 +14258,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14618,6 +14281,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14643,6 +14307,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14665,6 +14330,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14687,6 +14353,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14709,6 +14376,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14734,16 +14402,18 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>A</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -14759,16 +14429,18 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>A</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -14784,16 +14456,18 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>A</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -14809,16 +14483,18 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>A</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -14837,16 +14513,18 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>A</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -14862,16 +14540,18 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>A</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -14887,16 +14567,18 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>A</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -14912,16 +14594,18 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>A</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -14940,6 +14624,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14957,6 +14642,7 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14974,6 +14660,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -14991,6 +14678,7 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15008,6 +14696,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15025,6 +14714,7 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15042,6 +14732,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15059,6 +14750,7 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15088,6 +14780,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15105,6 +14798,7 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15131,6 +14825,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15148,6 +14843,7 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15174,6 +14870,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15191,6 +14888,7 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15217,6 +14915,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15234,6 +14933,7 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15254,6 +14954,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15271,6 +14972,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15288,6 +14990,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15305,6 +15008,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15322,6 +15026,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15339,6 +15044,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15356,6 +15062,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15373,6 +15080,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15393,6 +15101,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15410,6 +15119,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15427,6 +15137,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15444,6 +15155,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15461,6 +15173,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15478,6 +15191,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15495,6 +15209,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15512,6 +15227,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15532,6 +15248,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15549,6 +15266,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15566,6 +15284,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15583,6 +15302,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15600,6 +15320,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15617,6 +15338,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15634,6 +15356,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15651,6 +15374,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15671,6 +15395,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15688,6 +15413,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15705,6 +15431,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15722,6 +15449,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15739,6 +15467,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15756,6 +15485,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15773,6 +15503,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15790,6 +15521,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15810,6 +15542,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15827,6 +15560,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15844,6 +15578,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15861,6 +15596,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15878,6 +15614,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15895,6 +15632,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15912,6 +15650,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15929,6 +15668,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15949,6 +15689,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15966,6 +15707,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -15983,6 +15725,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16000,6 +15743,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16017,6 +15761,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16034,6 +15779,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16051,6 +15797,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16068,6 +15815,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16088,6 +15836,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16105,6 +15854,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16122,6 +15872,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16139,6 +15890,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16156,6 +15908,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16173,6 +15926,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16190,6 +15944,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16207,6 +15962,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16235,6 +15991,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16252,6 +16009,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16269,6 +16027,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16286,6 +16045,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16308,6 +16068,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16333,6 +16094,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16350,6 +16112,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16367,6 +16130,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16384,6 +16148,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16406,6 +16171,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16431,6 +16197,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16448,6 +16215,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16465,6 +16233,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16482,6 +16251,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16504,6 +16274,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16529,6 +16300,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16546,6 +16318,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16563,31 +16336,16 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16605,6 +16363,25 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16622,16 +16399,18 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -16650,6 +16429,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16667,6 +16447,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16684,6 +16465,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16701,6 +16483,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16723,6 +16506,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16748,6 +16532,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16765,6 +16550,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16782,6 +16568,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16799,6 +16586,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16821,6 +16609,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16846,6 +16635,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16863,6 +16653,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16880,6 +16671,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16897,6 +16689,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16919,6 +16712,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16944,6 +16738,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16961,6 +16756,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -16978,31 +16774,16 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -17020,6 +16801,25 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -17037,16 +16837,18 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17065,16 +16867,17 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17090,24 +16893,26 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17128,6 +16933,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -17153,16 +16959,17 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17178,24 +16985,26 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17216,6 +17025,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -17241,16 +17051,17 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17266,24 +17077,26 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17304,6 +17117,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -17329,16 +17143,17 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17354,24 +17169,26 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17392,6 +17209,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -17417,16 +17235,17 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17442,24 +17261,26 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17480,6 +17301,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -17505,16 +17327,17 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17530,24 +17353,26 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17568,6 +17393,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -17593,16 +17419,17 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17618,24 +17445,26 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17656,6 +17485,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -17681,16 +17511,17 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17706,24 +17537,26 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -17744,6 +17577,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -17770,13 +17604,15 @@
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>1</voice>
         <type>16th</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -17791,11 +17627,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -17810,11 +17648,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -17829,11 +17669,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <backup>
         <duration>22680</duration>
@@ -17841,6 +17683,17 @@
       <note>
         <pitch>
           <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
           <octave>2</octave>
         </pitch>
         <duration>2520</duration>
@@ -17848,58 +17701,55 @@
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>2520</duration>
-        <voice>2</voice>
-        <type>16th</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>2520</duration>
-        <voice>2</voice>
-        <type>16th</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
     </measure>
     <!--========================= Measure 50 =========================-->
@@ -17914,13 +17764,15 @@
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>1</voice>
         <type>16th</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -17935,11 +17787,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -17954,11 +17808,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -17973,11 +17829,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <backup>
         <duration>22680</duration>
@@ -17985,6 +17843,17 @@
       <note>
         <pitch>
           <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
           <octave>2</octave>
         </pitch>
         <duration>2520</duration>
@@ -17992,58 +17861,55 @@
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>2520</duration>
-        <voice>2</voice>
-        <type>16th</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>2520</duration>
-        <voice>2</voice>
-        <type>16th</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
     </measure>
     <!--========================= Measure 51 =========================-->
@@ -18058,13 +17924,15 @@
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>1</voice>
         <type>16th</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -18079,11 +17947,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -18098,11 +17968,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -18117,11 +17989,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <backup>
         <duration>22680</duration>
@@ -18129,6 +18003,17 @@
       <note>
         <pitch>
           <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
           <octave>2</octave>
         </pitch>
         <duration>2520</duration>
@@ -18136,58 +18021,55 @@
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>2520</duration>
-        <voice>2</voice>
-        <type>16th</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>2520</duration>
-        <voice>2</voice>
-        <type>16th</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
     </measure>
     <!--========================= Measure 52 =========================-->
@@ -18202,13 +18084,15 @@
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>1</voice>
         <type>16th</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -18223,11 +18107,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -18242,11 +18128,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -18261,11 +18149,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <backup>
         <duration>22680</duration>
@@ -18273,6 +18163,17 @@
       <note>
         <pitch>
           <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
           <octave>2</octave>
         </pitch>
         <duration>2520</duration>
@@ -18280,58 +18181,55 @@
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>2520</duration>
-        <voice>2</voice>
-        <type>16th</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>2520</duration>
-        <voice>2</voice>
-        <type>16th</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
     </measure>
     <!--========================= Measure 53 =========================-->
@@ -18346,13 +18244,15 @@
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>1</voice>
         <type>16th</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -18367,11 +18267,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -18386,11 +18288,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -18405,11 +18309,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <backup>
         <duration>22680</duration>
@@ -18417,6 +18323,17 @@
       <note>
         <pitch>
           <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
           <octave>2</octave>
         </pitch>
         <duration>2520</duration>
@@ -18424,58 +18341,55 @@
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>2520</duration>
-        <voice>2</voice>
-        <type>16th</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>2520</duration>
-        <voice>2</voice>
-        <type>16th</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
     </measure>
     <!--========================= Measure 54 =========================-->
@@ -18490,13 +18404,15 @@
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>1</voice>
         <type>16th</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -18511,11 +18427,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -18530,11 +18448,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -18549,11 +18469,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <backup>
         <duration>22680</duration>
@@ -18561,6 +18483,17 @@
       <note>
         <pitch>
           <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
           <octave>2</octave>
         </pitch>
         <duration>2520</duration>
@@ -18568,58 +18501,55 @@
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>2520</duration>
-        <voice>2</voice>
-        <type>16th</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>2520</duration>
-        <voice>2</voice>
-        <type>16th</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
     </measure>
     <!--========================= Measure 55 =========================-->
@@ -18634,13 +18564,15 @@
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>1</voice>
         <type>16th</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -18655,11 +18587,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -18674,11 +18608,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <note>
         <pitch>
@@ -18693,11 +18629,13 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
       </note>
       <backup>
         <duration>22680</duration>
@@ -18705,6 +18643,17 @@
       <note>
         <pitch>
           <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
           <octave>2</octave>
         </pitch>
         <duration>2520</duration>
@@ -18712,64 +18661,57 @@
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>2520</duration>
-        <voice>2</voice>
-        <type>16th</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>2520</duration>
-        <voice>2</voice>
-        <type>16th</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
@@ -18806,10 +18748,11 @@
         <accidental>sharp</accidental>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -18832,61 +18775,61 @@
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
-        <accidental>sharp</accidental>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
@@ -18905,6 +18848,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -18914,6 +18858,7 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -18931,6 +18876,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -18948,6 +18894,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -18965,6 +18912,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -18982,6 +18930,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -18999,6 +18948,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19016,6 +18966,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19033,6 +18984,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19053,6 +19005,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19070,6 +19023,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19087,6 +19041,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19104,6 +19059,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19121,6 +19077,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19138,6 +19095,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19155,6 +19113,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19172,6 +19131,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19192,6 +19152,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19209,6 +19170,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19226,6 +19188,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19243,6 +19206,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19260,6 +19224,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19277,6 +19242,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19294,6 +19260,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19311,6 +19278,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19331,6 +19299,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19348,6 +19317,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19365,6 +19335,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19382,6 +19353,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19399,6 +19371,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19416,6 +19389,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19433,6 +19407,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19450,6 +19425,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19470,6 +19446,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19487,6 +19464,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19504,6 +19482,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19521,6 +19500,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19538,6 +19518,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19555,6 +19536,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19572,6 +19554,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19589,6 +19572,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19609,6 +19593,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19626,6 +19611,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19643,6 +19629,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19660,6 +19647,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19677,6 +19665,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19694,6 +19683,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19711,6 +19701,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19728,6 +19719,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19748,6 +19740,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19765,6 +19758,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19782,6 +19776,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19799,6 +19794,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19816,6 +19812,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19833,6 +19830,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19850,6 +19848,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19867,6 +19866,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19887,6 +19887,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19904,6 +19905,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19921,6 +19923,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19938,6 +19941,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -19961,18 +19965,18 @@
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
@@ -19988,32 +19992,33 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
@@ -20032,6 +20037,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20041,6 +20047,7 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20058,10 +20065,11 @@
         <accidental>sharp</accidental>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -20077,6 +20085,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20086,16 +20095,18 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -20113,6 +20124,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20122,6 +20134,7 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20140,6 +20153,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20157,6 +20171,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20166,16 +20181,18 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -20194,6 +20211,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20203,91 +20221,16 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
         <pitch>
           <step>F</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>A</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>F</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>A</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20305,6 +20248,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20314,16 +20258,101 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -20342,6 +20371,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20351,91 +20381,16 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
         <pitch>
           <step>F</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>A</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>F</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>A</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20453,6 +20408,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20462,16 +20418,101 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -20490,6 +20531,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20499,91 +20541,16 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
         <pitch>
           <step>F</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>A</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>F</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>A</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20601,6 +20568,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20610,16 +20578,101 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -20638,6 +20691,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20647,91 +20701,16 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
         <pitch>
           <step>F</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>A</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>F</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>A</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20749,6 +20728,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20758,16 +20738,101 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -20786,6 +20851,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20795,91 +20861,16 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
         <pitch>
           <step>F</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>A</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>F</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>A</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <pitch>
-          <step>C</step>
-          <octave>2</octave>
-        </pitch>
-        <duration>5040</duration>
-        <type>eighth</type>
-      </note>
-      <note>
-        <chord />
-        <pitch>
-          <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20897,6 +20888,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -20906,16 +20898,101 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -20934,16 +21011,18 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -20959,24 +21038,26 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
@@ -20992,32 +21073,35 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -21036,56 +21120,58 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
@@ -21101,16 +21187,18 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -21126,6 +21214,7 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21149,10 +21238,11 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>10080</duration>
         <type>quarter</type>
       </note>
@@ -21162,10 +21252,11 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>10080</duration>
         <type>quarter</type>
       </note>
@@ -21178,10 +21269,11 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>10080</duration>
         <type>quarter</type>
       </note>
@@ -21191,10 +21283,11 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>10080</duration>
         <type>quarter</type>
       </note>
@@ -21207,10 +21300,11 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>10080</duration>
         <type>quarter</type>
       </note>
@@ -21220,10 +21314,11 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>10080</duration>
         <type>quarter</type>
       </note>
@@ -21236,10 +21331,11 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>10080</duration>
         <type>quarter</type>
       </note>
@@ -21249,18 +21345,19 @@
         <type>quarter</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>A</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -21279,6 +21376,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21301,6 +21399,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21323,6 +21422,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21345,6 +21445,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21370,6 +21471,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21392,6 +21494,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21414,6 +21517,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21436,6 +21540,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21461,6 +21566,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21483,6 +21589,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21505,6 +21612,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21527,6 +21635,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21552,6 +21661,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21574,6 +21684,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21596,6 +21707,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21618,6 +21730,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21643,6 +21756,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21665,6 +21779,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21687,6 +21802,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21709,6 +21825,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21734,6 +21851,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21756,6 +21874,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21778,6 +21897,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21800,6 +21920,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21825,6 +21946,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21847,6 +21969,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21869,6 +21992,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21891,6 +22015,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21916,6 +22041,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21938,6 +22064,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21960,6 +22087,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21982,6 +22110,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -21991,6 +22120,7 @@
         <chord />
         <pitch>
           <step>A</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -22024,16 +22154,17 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -22049,16 +22180,17 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -22079,6 +22211,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -22104,16 +22237,17 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -22129,16 +22263,17 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -22159,6 +22294,7 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
@@ -22184,16 +22320,17 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -22209,16 +22346,17 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -22239,24 +22377,25 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>D</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>2520</duration>
         <type>16th</type>
       </note>
@@ -22275,16 +22414,17 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -22300,16 +22440,17 @@
         <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
       <note>
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>2</display-octave>
-        </unpitched>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <type>eighth</type>
       </note>
@@ -22321,7 +22462,7 @@
     </measure>
   </part>
   <!--=========================== Part 6 ===========================-->
-  <part id="P57">
+  <part id="P11">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
@@ -25532,7 +25673,7 @@
     </measure>
   </part>
   <!--=========================== Part 7 ===========================-->
-  <part id="P59">
+  <part id="P13">
     <!--========================= Measure 0 ==========================-->
     <measure number="0">
       <attributes>
