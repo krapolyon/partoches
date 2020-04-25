@@ -29993,8 +29993,19 @@
         <voice>1</voice>
         <type>half</type>
       </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+      </note>
       <backup>
-        <duration>30240</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <pitch>
@@ -30026,15 +30037,22 @@
         <type>eighth</type>
       </note>
       <note>
-        <pitch>
-          <step>A</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>20160</duration>
+        <voice>2</voice>
+        <type>half</type>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>10080</duration>
         <voice>2</voice>
         <type>quarter</type>
-        <accidental>sharp</accidental>
       </note>
       <barline location="right">
         <ending number="2" type="stop" />

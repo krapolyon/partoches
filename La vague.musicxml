@@ -29859,7 +29859,18 @@
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
-        <beam number="2">continue</beam>
+        <beam number="2">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>2520</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <beam number="1">continue</beam>
+        <beam number="2">begin</beam>
       </note>
       <note>
         <pitch>
@@ -29873,7 +29884,7 @@
         <beam number="2">end</beam>
       </note>
       <backup>
-        <duration>37800</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -29895,18 +29906,24 @@
         <voice>2</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
       </note>
       <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
-        <beam number="1">end</beam>
-        <beam number="2">backward hook</beam>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
       </note>
     </measure>
     <!--========================= Measure 49 =========================-->
@@ -34106,7 +34123,18 @@
         <voice>1</voice>
         <type>16th</type>
         <beam number="1">continue</beam>
-        <beam number="2">continue</beam>
+        <beam number="2">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>2520</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <beam number="1">continue</beam>
+        <beam number="2">begin</beam>
       </note>
       <note>
         <pitch>
@@ -34120,7 +34148,7 @@
         <beam number="2">end</beam>
       </note>
       <backup>
-        <duration>37800</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -34142,18 +34170,24 @@
         <voice>2</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
       </note>
       <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
-        <beam number="1">end</beam>
-        <beam number="2">backward hook</beam>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
       </note>
     </measure>
     <!--========================= Measure 74 =========================-->

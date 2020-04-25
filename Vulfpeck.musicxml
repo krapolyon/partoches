@@ -3219,7 +3219,7 @@
           <octave>5</octave>
         </pitch>
         <duration>7560</duration>
-        <voice>139972850485233</voice>
+        <voice>139820763691905</voice>
         <type>eighth</type>
         <dot />
       </note>
@@ -3230,7 +3230,7 @@
         </pitch>
         <duration>10080</duration>
         <tie type="stop" />
-        <voice>139972850485233</voice>
+        <voice>139820763691905</voice>
         <type>quarter</type>
         <notations>
           <tied type="stop" />
@@ -3242,13 +3242,13 @@
           <octave>5</octave>
         </pitch>
         <duration>2520</duration>
-        <voice>139972850485233</voice>
+        <voice>139820763691905</voice>
         <type>16th</type>
       </note>
       <note>
         <rest />
         <duration>2520</duration>
-        <voice>139972850485233</voice>
+        <voice>139820763691905</voice>
         <type>16th</type>
       </note>
       <note>
@@ -3257,13 +3257,13 @@
           <octave>5</octave>
         </pitch>
         <duration>2520</duration>
-        <voice>139972850485233</voice>
+        <voice>139820763691905</voice>
         <type>16th</type>
       </note>
       <note>
         <rest />
         <duration>2520</duration>
-        <voice>139972850485233</voice>
+        <voice>139820763691905</voice>
         <type>16th</type>
       </note>
       <note>
@@ -3272,7 +3272,7 @@
           <octave>4</octave>
         </pitch>
         <duration>2520</duration>
-        <voice>139972850485233</voice>
+        <voice>139820763691905</voice>
         <type>16th</type>
       </note>
       <note>
@@ -3281,7 +3281,7 @@
           <octave>5</octave>
         </pitch>
         <duration>5040</duration>
-        <voice>139972850485233</voice>
+        <voice>139820763691905</voice>
         <type>eighth</type>
       </note>
       <note>
@@ -3290,7 +3290,7 @@
           <octave>4</octave>
         </pitch>
         <duration>5040</duration>
-        <voice>139972850485233</voice>
+        <voice>139820763691905</voice>
         <type>eighth</type>
       </note>
       <note>
@@ -3300,7 +3300,7 @@
           <octave>5</octave>
         </pitch>
         <duration>10080</duration>
-        <voice>139972850485233</voice>
+        <voice>139820763691905</voice>
         <type>quarter</type>
       </note>
     </measure>

@@ -17619,6 +17619,15 @@
           <step>D</step>
           <octave>2</octave>
         </pitch>
+        <duration>2520</duration>
+        <voice>1</voice>
+        <type>16th</type>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -17678,7 +17687,7 @@
         <accidental>sharp</accidental>
       </note>
       <backup>
-        <duration>22680</duration>
+        <duration>25200</duration>
       </backup>
       <note>
         <pitch>
@@ -17701,10 +17710,19 @@
         <type>16th</type>
       </note>
       <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
@@ -17779,6 +17797,15 @@
           <step>D</step>
           <octave>2</octave>
         </pitch>
+        <duration>2520</duration>
+        <voice>1</voice>
+        <type>16th</type>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -17838,7 +17865,7 @@
         <accidental>sharp</accidental>
       </note>
       <backup>
-        <duration>22680</duration>
+        <duration>25200</duration>
       </backup>
       <note>
         <pitch>
@@ -17861,10 +17888,19 @@
         <type>16th</type>
       </note>
       <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
@@ -17939,6 +17975,15 @@
           <step>D</step>
           <octave>2</octave>
         </pitch>
+        <duration>2520</duration>
+        <voice>1</voice>
+        <type>16th</type>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -17998,7 +18043,7 @@
         <accidental>sharp</accidental>
       </note>
       <backup>
-        <duration>22680</duration>
+        <duration>25200</duration>
       </backup>
       <note>
         <pitch>
@@ -18021,10 +18066,19 @@
         <type>16th</type>
       </note>
       <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
@@ -18099,6 +18153,15 @@
           <step>D</step>
           <octave>2</octave>
         </pitch>
+        <duration>2520</duration>
+        <voice>1</voice>
+        <type>16th</type>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -18158,7 +18221,7 @@
         <accidental>sharp</accidental>
       </note>
       <backup>
-        <duration>22680</duration>
+        <duration>25200</duration>
       </backup>
       <note>
         <pitch>
@@ -18181,10 +18244,19 @@
         <type>16th</type>
       </note>
       <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
@@ -18259,6 +18331,15 @@
           <step>D</step>
           <octave>2</octave>
         </pitch>
+        <duration>2520</duration>
+        <voice>1</voice>
+        <type>16th</type>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -18318,7 +18399,7 @@
         <accidental>sharp</accidental>
       </note>
       <backup>
-        <duration>22680</duration>
+        <duration>25200</duration>
       </backup>
       <note>
         <pitch>
@@ -18341,10 +18422,19 @@
         <type>16th</type>
       </note>
       <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
@@ -18419,6 +18509,15 @@
           <step>D</step>
           <octave>2</octave>
         </pitch>
+        <duration>2520</duration>
+        <voice>1</voice>
+        <type>16th</type>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -18478,7 +18577,7 @@
         <accidental>sharp</accidental>
       </note>
       <backup>
-        <duration>22680</duration>
+        <duration>25200</duration>
       </backup>
       <note>
         <pitch>
@@ -18501,10 +18600,19 @@
         <type>16th</type>
       </note>
       <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>
@@ -18579,6 +18687,15 @@
           <step>D</step>
           <octave>2</octave>
         </pitch>
+        <duration>2520</duration>
+        <voice>1</voice>
+        <type>16th</type>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>2</octave>
+        </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -18638,7 +18755,7 @@
         <accidental>sharp</accidental>
       </note>
       <backup>
-        <duration>22680</duration>
+        <duration>25200</duration>
       </backup>
       <note>
         <pitch>
@@ -18661,10 +18778,19 @@
         <type>16th</type>
       </note>
       <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>2520</duration>
+        <voice>2</voice>
+        <type>16th</type>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>2520</duration>
         <voice>2</voice>
         <type>16th</type>

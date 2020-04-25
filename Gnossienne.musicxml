@@ -40131,7 +40131,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -40143,7 +40143,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -40155,7 +40155,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -40167,6 +40167,18 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -40194,7 +40206,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -40215,15 +40227,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -40257,7 +40276,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -40267,7 +40286,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -40279,7 +40298,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -40289,6 +40308,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -40314,7 +40345,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -40335,15 +40366,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -40377,7 +40415,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -40387,7 +40425,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -40399,7 +40437,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -40409,6 +40447,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -40434,7 +40484,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -40455,15 +40505,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -40497,7 +40554,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -40507,7 +40564,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -40519,7 +40576,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -40529,6 +40586,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -40554,7 +40623,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -40575,15 +40644,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -40617,7 +40693,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -40627,7 +40703,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -40639,7 +40715,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -40649,6 +40725,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -40674,7 +40762,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -40695,15 +40783,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -40737,7 +40832,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -40747,7 +40842,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -40759,7 +40854,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -40769,6 +40864,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -40794,7 +40901,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -40815,15 +40922,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -40857,7 +40971,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -40867,7 +40981,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -40879,7 +40993,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -40889,6 +41003,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -40914,7 +41040,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -40935,15 +41061,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -40977,7 +41110,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -40987,7 +41120,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -40999,7 +41132,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -41009,6 +41142,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -41034,7 +41179,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -41055,15 +41200,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -41107,7 +41259,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -41119,7 +41271,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -41131,7 +41283,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -41143,6 +41295,18 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -41170,7 +41334,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -41191,15 +41355,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -41233,7 +41404,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -41243,7 +41414,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -41255,7 +41426,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -41265,6 +41436,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -41290,7 +41473,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -41311,15 +41494,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -41353,7 +41543,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -41363,7 +41553,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -41375,7 +41565,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -41385,6 +41575,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -41410,7 +41612,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -41431,15 +41633,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -41473,7 +41682,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -41483,7 +41692,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -41495,7 +41704,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -41505,6 +41714,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -41530,7 +41751,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -41551,15 +41772,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -41603,7 +41831,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -41615,7 +41843,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -41627,7 +41855,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -41639,6 +41867,18 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -41666,7 +41906,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -41687,15 +41927,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -41729,7 +41976,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -41739,7 +41986,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -41751,7 +41998,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -41761,6 +42008,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -41786,7 +42045,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -41807,15 +42066,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -41849,7 +42115,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -41859,7 +42125,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -41871,7 +42137,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -41881,6 +42147,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -41906,7 +42184,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -41927,15 +42205,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -42016,7 +42301,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -42028,7 +42313,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -42040,7 +42325,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -42052,6 +42337,18 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -42079,7 +42376,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -42100,15 +42397,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -42142,7 +42446,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -42152,7 +42456,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -42164,7 +42468,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -42174,6 +42478,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -42199,7 +42515,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -42220,15 +42536,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -42262,7 +42585,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -42272,7 +42595,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -42284,7 +42607,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -42294,6 +42617,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -42319,7 +42654,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -42340,15 +42675,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -42382,7 +42724,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -42392,7 +42734,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -42404,7 +42746,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -42414,6 +42756,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -42439,7 +42793,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -42460,15 +42814,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -42502,7 +42863,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -42512,7 +42873,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -42524,7 +42885,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -42534,6 +42895,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -42559,7 +42932,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -42580,15 +42953,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -42622,7 +43002,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -42632,7 +43012,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -42644,7 +43024,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -42654,6 +43034,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -42679,7 +43071,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -42700,15 +43092,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -42742,7 +43141,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -42752,7 +43151,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -42764,7 +43163,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -42774,6 +43173,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -42799,7 +43210,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -42820,15 +43231,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -42862,7 +43280,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -42872,7 +43290,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -42884,7 +43302,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -42894,6 +43312,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -42919,7 +43349,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -42940,15 +43370,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -42992,7 +43429,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -43004,7 +43441,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -43016,7 +43453,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -43028,6 +43465,18 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -43055,7 +43504,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -43076,15 +43525,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -43118,7 +43574,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -43128,7 +43584,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -43140,7 +43596,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -43150,6 +43606,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -43175,7 +43643,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -43196,15 +43664,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -43238,7 +43713,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -43248,7 +43723,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -43260,7 +43735,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -43270,6 +43745,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -43295,7 +43782,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -43316,15 +43803,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -43358,7 +43852,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -43368,7 +43862,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -43380,7 +43874,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -43390,6 +43884,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -43415,7 +43921,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -43436,15 +43942,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -43488,7 +44001,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -43500,7 +44013,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -43512,7 +44025,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -43524,6 +44037,18 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -43551,7 +44076,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -43572,15 +44097,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -43614,7 +44146,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -43624,7 +44156,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -43636,7 +44168,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -43646,6 +44178,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -43671,7 +44215,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -43692,15 +44236,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -43734,7 +44285,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -43744,7 +44295,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -43756,7 +44307,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -43766,6 +44317,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -43791,7 +44354,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -43812,15 +44375,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -43889,7 +44459,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -43899,7 +44469,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -43911,7 +44481,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -43921,6 +44491,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -43946,7 +44528,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -43967,15 +44549,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -44009,7 +44598,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44019,7 +44608,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -44031,7 +44620,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44041,6 +44630,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -44066,7 +44667,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -44087,15 +44688,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -44129,7 +44737,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44139,7 +44747,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -44151,7 +44759,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44161,6 +44769,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -44186,7 +44806,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -44207,15 +44827,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -44249,7 +44876,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44259,7 +44886,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -44271,7 +44898,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44281,6 +44908,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -44306,7 +44945,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -44327,15 +44966,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -44369,7 +45015,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44379,7 +45025,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -44391,7 +45037,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44401,6 +45047,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -44426,7 +45084,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -44447,15 +45105,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -44489,7 +45154,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44499,7 +45164,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -44511,7 +45176,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44521,6 +45186,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -44546,7 +45223,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -44567,15 +45244,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -44609,7 +45293,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44619,7 +45303,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -44631,7 +45315,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44641,6 +45325,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -44666,7 +45362,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -44687,15 +45383,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -44729,7 +45432,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44739,7 +45442,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -44751,7 +45454,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44761,6 +45464,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -44786,7 +45501,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -44807,15 +45522,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -44849,7 +45571,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44859,7 +45581,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -44871,7 +45593,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44881,6 +45603,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -44906,7 +45640,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -44927,15 +45661,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -44969,7 +45710,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -44979,7 +45720,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -44991,7 +45732,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -45001,6 +45742,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -45026,7 +45779,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -45047,15 +45800,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -45089,7 +45849,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -45099,7 +45859,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -45111,7 +45871,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -45121,6 +45881,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -45146,7 +45918,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -45167,15 +45939,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -45209,7 +45988,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -45219,7 +45998,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -45231,7 +46010,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -45241,6 +46020,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -45266,7 +46057,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -45287,15 +46078,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -45329,7 +46127,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -45339,7 +46137,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -45351,7 +46149,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -45361,6 +46159,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -45386,7 +46196,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -45407,15 +46217,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -45449,7 +46266,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -45459,7 +46276,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -45471,7 +46288,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -45481,6 +46298,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -45506,7 +46335,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -45527,15 +46356,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -48004,7 +48840,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -48016,7 +48852,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -48028,7 +48864,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -48040,6 +48876,18 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -48067,7 +48915,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -48088,15 +48936,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -48130,7 +48985,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -48140,7 +48995,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -48152,7 +49007,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -48162,6 +49017,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -48187,7 +49054,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -48208,15 +49075,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -48250,7 +49124,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -48260,7 +49134,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -48272,7 +49146,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -48282,6 +49156,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -48307,7 +49193,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -48328,15 +49214,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -48370,7 +49263,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -48380,7 +49273,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -48392,7 +49285,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -48402,6 +49295,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -48427,7 +49332,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -48448,15 +49353,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -48492,7 +49404,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -48504,7 +49416,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -48516,7 +49428,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -48528,6 +49440,18 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -48555,7 +49479,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -48576,15 +49500,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -48618,7 +49549,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -48628,7 +49559,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -48640,7 +49571,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -48650,6 +49581,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -48675,7 +49618,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -48696,15 +49639,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -48738,7 +49688,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -48748,7 +49698,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -48760,7 +49710,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -48770,6 +49720,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -48795,7 +49757,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -48816,15 +49778,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -48858,7 +49827,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -48868,7 +49837,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -48880,7 +49849,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -48890,6 +49859,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -48915,7 +49896,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -48936,15 +49917,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -48992,7 +49980,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -49004,7 +49992,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -49016,7 +50004,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -49028,6 +50016,18 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -49055,7 +50055,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -49076,15 +50076,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -49118,7 +50125,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -49128,7 +50135,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -49140,7 +50147,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -49150,6 +50157,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -49175,7 +50194,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -49196,15 +50215,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -49238,7 +50264,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -49248,7 +50274,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -49260,7 +50286,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -49270,6 +50296,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -49295,7 +50333,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -49316,15 +50354,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -49358,7 +50403,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -49368,7 +50413,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -49380,7 +50425,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -49390,6 +50435,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -49415,7 +50472,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -49436,15 +50493,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -49492,7 +50556,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -49504,7 +50568,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -49516,7 +50580,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -49528,6 +50592,18 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -49555,7 +50631,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -49576,15 +50652,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -49618,7 +50701,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -49628,7 +50711,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -49640,7 +50723,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -49650,6 +50733,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -49675,7 +50770,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -49696,15 +50791,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>
@@ -49738,7 +50840,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">continue</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -49748,7 +50850,7 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <beam number="1">end</beam>
+        <beam number="1">begin</beam>
       </note>
       <note>
         <pitch>
@@ -49760,7 +50862,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
-        <beam number="1">begin</beam>
+        <beam number="1">end</beam>
       </note>
       <note>
         <pitch>
@@ -49770,6 +50872,18 @@
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <beam number="1">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
         <beam number="1">end</beam>
       </note>
       <note>
@@ -49795,7 +50909,7 @@
         <beam number="1">end</beam>
       </note>
       <backup>
-        <duration>35280</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <rest>
@@ -49816,15 +50930,22 @@
         <type>quarter</type>
       </note>
       <note>
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
       </note>
       <note>
         <pitch>

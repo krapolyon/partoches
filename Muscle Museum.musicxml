@@ -36101,6 +36101,15 @@
         <type>eighth</type>
         <accidental>sharp</accidental>
       </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>10080</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+      </note>
     </measure>
     <!--========================= Measure 54 =========================-->
     <measure number="54">
@@ -36328,6 +36337,15 @@
         <voice>2</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>10080</duration>
+        <voice>2</voice>
+        <type>quarter</type>
       </note>
     </measure>
     <!--========================= Measure 56 =========================-->
@@ -41234,6 +41252,15 @@
         <type>eighth</type>
         <accidental>sharp</accidental>
       </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>10080</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+      </note>
     </measure>
     <!--======================== Measure 110 =========================-->
     <measure number="110">
@@ -41461,6 +41488,15 @@
         <voice>2</voice>
         <type>eighth</type>
         <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>10080</duration>
+        <voice>2</voice>
+        <type>quarter</type>
       </note>
     </measure>
     <!--======================== Measure 112 =========================-->
@@ -45787,6 +45823,16 @@
         <voice>2</voice>
         <type>quarter</type>
         <accidental>sharp</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>30240</duration>
+        <voice>2</voice>
+        <type>half</type>
+        <dot />
       </note>
     </measure>
     <!--======================== Measure 161 =========================-->

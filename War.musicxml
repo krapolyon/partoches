@@ -25748,19 +25748,17 @@
       </note>
       <note>
         <pitch>
-          <step>F</step>
-          <alter>1</alter>
+          <step>D</step>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
       </note>
       <note>
         <chord />
         <pitch>
-          <step>A</step>
+          <step>F</step>
           <alter>1</alter>
           <octave>2</octave>
         </pitch>
@@ -25802,18 +25800,29 @@
         <type>16th</type>
       </note>
       <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
       </note>
       <note>
-        <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>A</step>
           <alter>1</alter>
           <octave>2</octave>
         </pitch>
@@ -26362,19 +26371,17 @@
       </note>
       <note>
         <pitch>
-          <step>F</step>
-          <alter>1</alter>
+          <step>D</step>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
       </note>
       <note>
         <chord />
         <pitch>
-          <step>A</step>
+          <step>F</step>
           <alter>1</alter>
           <octave>2</octave>
         </pitch>
@@ -26416,18 +26423,29 @@
         <type>16th</type>
       </note>
       <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
       </note>
       <note>
-        <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>A</step>
           <alter>1</alter>
           <octave>2</octave>
         </pitch>
@@ -29220,19 +29238,17 @@
       </note>
       <note>
         <pitch>
-          <step>F</step>
-          <alter>1</alter>
+          <step>D</step>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
       </note>
       <note>
         <chord />
         <pitch>
-          <step>A</step>
+          <step>F</step>
           <alter>1</alter>
           <octave>2</octave>
         </pitch>
@@ -29274,18 +29290,29 @@
         <type>16th</type>
       </note>
       <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
       </note>
       <note>
-        <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>A</step>
           <alter>1</alter>
           <octave>2</octave>
         </pitch>
@@ -29869,19 +29896,17 @@
       </note>
       <note>
         <pitch>
-          <step>F</step>
-          <alter>1</alter>
+          <step>D</step>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
       </note>
       <note>
         <chord />
         <pitch>
-          <step>A</step>
+          <step>F</step>
           <alter>1</alter>
           <octave>2</octave>
         </pitch>
@@ -29923,18 +29948,29 @@
         <type>16th</type>
       </note>
       <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
       </note>
       <note>
-        <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>A</step>
           <alter>1</alter>
           <octave>2</octave>
         </pitch>
@@ -32342,19 +32378,17 @@
       </note>
       <note>
         <pitch>
-          <step>F</step>
-          <alter>1</alter>
+          <step>D</step>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
       </note>
       <note>
         <chord />
         <pitch>
-          <step>A</step>
+          <step>F</step>
           <alter>1</alter>
           <octave>2</octave>
         </pitch>
@@ -32396,18 +32430,29 @@
         <type>16th</type>
       </note>
       <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
       </note>
       <note>
-        <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>A</step>
           <alter>1</alter>
           <octave>2</octave>
         </pitch>
@@ -32956,19 +33001,17 @@
       </note>
       <note>
         <pitch>
-          <step>F</step>
-          <alter>1</alter>
+          <step>D</step>
           <octave>2</octave>
         </pitch>
         <duration>5040</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <accidental>sharp</accidental>
       </note>
       <note>
         <chord />
         <pitch>
-          <step>A</step>
+          <step>F</step>
           <alter>1</alter>
           <octave>2</octave>
         </pitch>
@@ -33010,18 +33053,29 @@
         <type>16th</type>
       </note>
       <note>
-        <pitch>
-          <step>D</step>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>5040</duration>
         <voice>2</voice>
         <type>eighth</type>
       </note>
       <note>
-        <chord />
         <pitch>
           <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+      </note>
+      <note>
+        <chord />
+        <pitch>
+          <step>A</step>
           <alter>1</alter>
           <octave>2</octave>
         </pitch>

@@ -16543,8 +16543,19 @@
         <type>quarter</type>
         <accidental>natural</accidental>
       </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>0</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+      </note>
       <backup>
-        <duration>30240</duration>
+        <duration>40320</duration>
       </backup>
       <note>
         <pitch>
@@ -16559,15 +16570,31 @@
         <accidental>sharp</accidental>
       </note>
       <note>
-        <pitch>
-          <step>C</step>
-          <alter>0</alter>
-          <octave>2</octave>
-        </pitch>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>5040</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
         <duration>10080</duration>
         <voice>2</voice>
         <type>quarter</type>
-        <accidental>natural</accidental>
+      </note>
+      <note>
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>3</display-octave>
+        </rest>
+        <duration>10080</duration>
+        <voice>2</voice>
+        <type>quarter</type>
       </note>
     </measure>
     <!--========================= Measure 34 =========================-->
