@@ -9,7 +9,7 @@ le module utilisé (note la branche !) : https://github.com/nvuaille/music21/tre
 Le code minimal qui va bien:
 ```python
 from music21 import converter
-score = convert.parse("GoodOldScore.nwc")
+score = converter.parse("GoodOldScore.nwc")
 score.write(fmt="musicxml", fp=new_file)
 ```
 un script de conversion (pour le fun): https://raw.githubusercontent.com/krapolyon/partoches/main/nwc2musicxml.py. Usage :
@@ -68,7 +68,7 @@ C'est la commande `clone`:
 
 Va dans le dossier music21 ainsi crée et entre:
 
-`git checkout Noteworthy`
+`git switch Noteworthy`
 
 pour passer sur ma branche (quand on dit qu'on est sur une branche, par défaut on sous entend qu'on est sur le commit le plus récent de cette branche)
 
@@ -78,4 +78,9 @@ Dans le dossier suivi par git:
 
 `git pull`
 
-Attention, ne fonctionne pas si tu as modifié manuellement des fichiers ! (sans le dire à git)
+Attention, ne fonctionne pas si tu as modifié manuellement des fichiers ! (sans le dire à git) Ni si j'ai mis à jour suite à une évolution du projet de base...
+
+Version *brute* (écrase tout changement local)
+`git fetch origin`
+`git reset --hard origin/Noteworthy`
+
