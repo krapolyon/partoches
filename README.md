@@ -33,7 +33,7 @@ Fonctionne avec python 3.10 ou plus. Pour les autres dépendances, voir la doc d
 Le plus simple pour avoir l'environnement qui va bien, c'est encore d'installer le module music21 de base en suivant ces instructions (avec des vrais morceaux d'anglais dedans): <http://web.mit.edu/music21/doc/usersGuide/usersGuide_01_installing.html>
 
 Typiquement, dans une console :
-`> pip3 install –upgrade music21`
+`pip3 install --upgrade music21`
 
 Si c'est une version après la 9.1, tout est installé, tu peux lancer le script ! (voir plus bas).
 
