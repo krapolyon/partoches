@@ -1,5 +1,11 @@
 Alors, petit tuto pour tester le convertisseur ! Fait chauffer la ligne de commande :P
 
+# Annonce
+Ce code a été développé pour la comptabilité de fichiers noteworthy principalement écrit par un même auteur,
+avec ses habitudes et templates. De nombreuses choses peuvent ne pas marcher! (voir plus bas)
+
+Le format d'entrée doit être NWC 1.75 (binaire) et la sortie sera du standard musicxml.
+
 # Prérequis
 Tout passe par le module python [music21](https://web.mit.edu/music21/doc/usersGuide/usersGuide_01_installing.html).
 
@@ -7,7 +13,7 @@ Ce module permet de lire et d'écrire différents formats de fichiers. Le consta
 J'ai fait des modifs pour améliorer ça, mais des problème subsistent.
 
 **! Mes modifs ont été faites après la 9.1 !**
-Tant qu'une nouvelle version n'a pas été publiée, faut utiliser la branche master du projet et non le paquet pip...
+Tant qu'une nouvelle version n'a pas été publiée, faut utiliser la branche master du projet et non le paquet pip officiel ...
 
 # Résumé d'utilisation
 Des détails pour néophytes sont donnés dans les points suivants, n'ai pas peur !
@@ -59,10 +65,21 @@ Tu peux le télécharger ici : <https://raw.githubusercontent.com/krapolyon/par
 
 par exemple:
 
-`python /home/nico/Documents/nico/NWCConverter/musicxml/nwc2musicxml.py "/home/nico/Documents/nico/NWCConverter/nwc/*.nwc" .`
+`python /home/nico/Documents/NWCConverter/nwc2musicxml.py "/home/nico/Documents/nwc/*.nwc" /home/nico/Documents/musicxml`
 
-on notera l'étoile qui veut dire n'importe quels caractères (on cherche ici tous les fichiers nwc du dossier) et le `.` qui veut dire `ici`.
-On obtient donc les musicxml à côté des nwc.
+on notera l'étoile qui veut dire n'importe quels caractères (on cherche ici tous les fichiers nwc du dossier).
+On obtient donc les musicxml dans le dossier du même nom.
 
 ## Problèmes connus
-La batterie est déclarée en 'Grand Piano'. Lors de l'import dans musescore, il faut simplement changer l'instru de cette portée.
+Limitation :
+ * La batterie est déclarée en 'Grand Piano'. Lors de l'import dans musescore, il faut simplement changer l'instru de cette portée.
+ * Noteworthy étant plus flexible que Musescore, certains fichiers obtenus apparaissent 'corrompus'.
+    Ne pas hésiter à ouvrir quand même : il s'agit souvent d'une mesure avec un mauvais nombre de temps
+    (par ex, une barre de mesure manquante de le NWC menant à une mesure à 8 temps au milieu du morceaux
+    pour un seul instru). Il faut ensuite corriger à la main dans musescore ...
+
+Fonctionnement bancal (= marche a priori mais des problèmes mal identifiés ont été observé) :
+ * Les doubles voies
+ * Les enchainements de liaisons
+
+Surement pas mal d'autres choses...
